@@ -1,0 +1,15 @@
+# IDE/OS folders
+.idea/
+.DS_Store
+tags/
+.vscode
+# Error logs and cache directories
+**/error_log
+**/cachecd
+# Untracked prod/dev files
+wp-config.php
+
+# Untracked prod files
+# wp-content/uploads/**
+# wp-admin/**
+# wp-includes/**
