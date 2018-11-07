@@ -173,8 +173,8 @@ function list_resources_by_category_shortcode($atts) {
   );
 
   //Get Resources category if supplied to shortcode
-  if($attrs['cat']) {
-  	$args['cat'] = intval($attrs['cat']);
+  if($atts['cat']) {
+  	$args['cat'] = intval($atts['cat']);
   }
 
   $resources_query = new WP_Query($args);
@@ -221,4 +221,3 @@ function list_resources_by_category_shortcode($atts) {
   return $output;
 }
 add_shortcode('list_resources_in_category', 'list_resources_by_category_shortcode');
-
