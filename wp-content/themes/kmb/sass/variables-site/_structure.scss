@@ -1,0 +1,28 @@
+$size__site-main: 100%;
+$size__site-sidebar: 25%;
+
+$desktop: 1400px;
+$tablet: 768px;
+$mobile: 368px;
+
+//  Set breakpoints that will be used throughout the site.
+//  They should be ordered according to how css-mqpacker should
+//  output merged @media queries. Any issues with overlapping
+//  queries can be handled by reordering this list.
+//  
+//  In order for css-mqpacker to be aware of this order, we'll
+//  use the build-css-mqpacker mixin in style.scss
+$breakpoints: (
+  tablet-mobile: (max-width: #{$desktop - 1px}),
+  desktop-tablet: (min-width: $tablet),
+  mobile: (max-width: #{$tablet - 1px}),
+  tablet: ((max-width: #{$desktop - 1px}) 'and' (min-width: $tablet)),
+  desktop: (min-width: $desktop)
+);
+
+//  Build media query mixin
+@mixin bp($breakpoint) {
+  @media #{map-get($breakpoints, $breakpoint)} {
+    @content;
+  }
+}
