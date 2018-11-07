@@ -1,0 +1,4721 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: USP Pro\n"
+"Language: da\n"
+
+#. Name of the plugin
+#: usp-pro.php:162 usp-pro.php:1268 updates/usp-updates.php:49
+msgid "USP Pro"
+msgstr "USP Pro"
+
+#: usp-pro.php:163
+msgid "should not be run with the free version of USP (there is no need for both plugins). "
+msgstr "bør ikke køres med den gratis version af USP (der er ikke brug for begge plugins)."
+
+#: usp-pro.php:164
+msgid "Please return to the"
+msgstr "Venligst vende tilbage til"
+
+#: usp-pro.php:164
+msgid "WP Admin Area"
+msgstr "WP Admin Area"
+
+#: usp-pro.php:165
+msgid "to deactivate the free version and try again. "
+msgstr "at deaktivere den gratis version og prøv igen."
+
+#: usp-pro.php:166
+msgid "Note: before uninstalling/deleting the free version, you may want to make a backup of your settings."
+msgstr "Bemærk: Før du afinstallerer / sletter den gratis version, kan du lave en sikkerhedskopi af dine indstillinger."
+
+#: usp-pro.php:201
+msgid "has been deactivated because it requires WordPress version "
+msgstr "er blevet deaktiveret, fordi det kræver WordPress-version"
+
+#: usp-pro.php:201
+msgid " or higher. "
+msgstr " eller højere."
+
+#: usp-pro.php:202
+msgid "Please"
+msgstr "Vær venlig"
+
+#: usp-pro.php:202
+msgid "return to the Admin Area"
+msgstr "vende tilbage til Admin-området"
+
+#: usp-pro.php:202
+msgid "to upgrade WordPress and try again."
+msgstr "at opgradere WordPress og prøv igen."
+
+#: usp-pro.php:246 inc/usp-forms.php:1422 inc/usp-about.php:43
+#: inc/usp-about.php:107 inc/usp-about.php:181 inc/usp-about.php:247
+#: inc/usp-callbacks.php:7 inc/usp-callbacks.php:98 inc/usp-callbacks.php:198
+#: inc/usp-callbacks.php:211 inc/usp-callbacks.php:264
+#: inc/usp-callbacks.php:273 inc/usp-callbacks.php:284
+msgid "Undefined"
+msgstr "Udefineret"
+
+#: usp-pro.php:285
+msgid "USP"
+msgstr "USP"
+
+#: usp-pro.php:369
+msgid "General"
+msgstr "Generel"
+
+#: usp-pro.php:374
+msgid "Basic Settings"
+msgstr "Grundlæggende indstillinger"
+
+#: usp-pro.php:375
+msgid "Default Post Status"
+msgstr "Standard poststatus"
+
+#: usp-pro.php:376
+msgid "Custom Post Status"
+msgstr "Tilpasset poststatus"
+
+#: usp-pro.php:377
+msgid "Redirect to Post"
+msgstr "Omdirigere til indlæg"
+
+#: usp-pro.php:378
+msgid "Enable Basic Statistics"
+msgstr "Aktivér grundlæggende statistik"
+
+#: usp-pro.php:379
+msgid "Min Character Limit"
+msgstr "Min tegnbegrænsning"
+
+#: usp-pro.php:380
+msgid "Max Character Limit"
+msgstr "Maks tegnbegrænsning"
+
+#: usp-pro.php:381
+msgid "Unique Post Titles"
+msgstr "Unikke posttitler"
+
+#: usp-pro.php:382
+msgid "Unique Post Content"
+msgstr "Unikt indlæg"
+
+#: usp-pro.php:384
+msgid "Memory Settings"
+msgstr "Hukommelsesindstillinger"
+
+#: usp-pro.php:385
+msgid "Remember Form Values"
+msgstr "Husk Form Værdier"
+
+#: usp-pro.php:386
+msgid "Memory Duration"
+msgstr "Memory Duration"
+
+#: usp-pro.php:387
+msgid "Memory Default"
+msgstr "Hukommelsesstandard"
+
+#: usp-pro.php:389
+msgid "User Settings"
+msgstr "Brugerindstillinger"
+
+#: usp-pro.php:390
+msgid "Default Assigned Author"
+msgstr "Standard tildelt forfatter"
+
+#: usp-pro.php:391
+msgid "Default Assigned Role"
+msgstr "Standard tildelt rolle"
+
+#: usp-pro.php:392
+msgid "Use Registered Author"
+msgstr "Brug Registreret Forfatter"
+
+#: usp-pro.php:393
+msgid "Replace Author &amp; URL"
+msgstr "Udskift forfatter & amp; URL"
+
+#: usp-pro.php:395
+msgid "Antispam/Captcha"
+msgstr "Antispam / Captcha"
+
+#: usp-pro.php:396 inc/usp-defaults.php:113 inc/usp-forms.php:698
+msgid "Challenge Question"
+msgstr "Udfordring Spørgsmål"
+
+#: usp-pro.php:397
+msgid "Challenge Response"
+msgstr "Udfordring svar"
+
+#: usp-pro.php:398
+msgid "Case-sensitivity"
+msgstr "Case-følsomhed"
+
+#: usp-pro.php:399
+msgid "reCAPTCHA Public Key"
+msgstr "reCAPTCHA Public Key"
+
+#: usp-pro.php:400
+msgid "reCAPTCHA Private Key"
+msgstr "reCAPTCHA Private Key"
+
+#: usp-pro.php:401
+msgid "reCAPTCHA Version"
+msgstr "reCAPTCHA Version"
+
+#: usp-pro.php:403
+msgid "Category Settings"
+msgstr "Kategori Indstillinger"
+
+#: usp-pro.php:404
+msgid "Category Menu"
+msgstr "Kategori Menu"
+
+#: usp-pro.php:405
+msgid "Multiple Categories"
+msgstr "Flere kategorier"
+
+#: usp-pro.php:406
+msgid "Nested Categories"
+msgstr "Nestede kategorier"
+
+#: usp-pro.php:407
+msgid "Hide Category Field"
+msgstr "Skjul kategorifelt"
+
+#: usp-pro.php:408
+msgid "Required Categories"
+msgstr "Nødvendige kategorier"
+
+#: usp-pro.php:409
+msgid "Required Category IDs"
+msgstr "Nødvendige kategori-id'er"
+
+#: usp-pro.php:410 inc/usp-process.php:1298
+msgid "Post Categories"
+msgstr "Postkategorier"
+
+#: usp-pro.php:412
+msgid "Tag Settings"
+msgstr "Tag indstillinger"
+
+#: usp-pro.php:413
+msgid "Tag Menu"
+msgstr "Tag Menu"
+
+#: usp-pro.php:414
+msgid "Allow Multiple Tags"
+msgstr "Tillad flere tags"
+
+#: usp-pro.php:415
+msgid "Hide Tags Field"
+msgstr "Skjul Tags Field"
+
+#: usp-pro.php:416
+msgid "Tag Order"
+msgstr "Tag ordre"
+
+#: usp-pro.php:417 inc/usp-defaults.php:112 inc/usp-process.php:1299
+msgid "Post Tags"
+msgstr "Post-tags"
+
+#: usp-pro.php:418
+msgid "Number of Tags"
+msgstr "Antal tags"
+
+#: usp-pro.php:419
+msgid "Hide Empty Tags"
+msgstr "Skjul tomme tags"
+
+#: usp-pro.php:421
+msgid "Extra Form Security"
+msgstr "Ekstra form Security"
+
+#: usp-pro.php:422
+msgid "Enable this feature"
+msgstr "Aktivér denne funktion"
+
+#: usp-pro.php:423
+msgid "Post-Submission Forms"
+msgstr "Post-Submission Formularer"
+
+#: usp-pro.php:424
+msgid "User-Registration Forms"
+msgstr "Bruger-Registreringsformularer"
+
+#: usp-pro.php:425
+msgid "Contact Forms"
+msgstr "Kontakt formularer"
+
+#: usp-pro.php:433
+msgid "CSS/JS"
+msgstr "CSS / JS"
+
+#: usp-pro.php:439
+msgid "Select Form Style"
+msgstr "Vælg Form Style"
+
+#: usp-pro.php:440
+msgid "Simple Style"
+msgstr "Enkel stil"
+
+#: usp-pro.php:441
+msgid "Minimal Style"
+msgstr "Minimal stil"
+
+#: usp-pro.php:442
+msgid "Smaller Form"
+msgstr "Mindre Form"
+
+#: usp-pro.php:443
+msgid "Larger Form"
+msgstr "Større Formular"
+
+#: usp-pro.php:444
+msgid "Custom Style"
+msgstr "Brugerdefineret stil"
+
+#: usp-pro.php:445
+msgid "External Stylesheet"
+msgstr "Eksternt stilark"
+
+#: usp-pro.php:448
+msgid "Custom JavaScript"
+msgstr "Brugerdefineret JavaScript"
+
+#: usp-pro.php:449
+msgid "Include USP JavaScript"
+msgstr "Medtag USP JavaScript"
+
+#: usp-pro.php:450
+msgid "Include Parsley.js"
+msgstr "Inkluder Parsley.js"
+
+#: usp-pro.php:453
+msgid "Targeted Loading"
+msgstr "Målrettet indlæsning"
+
+#: usp-pro.php:461
+msgid "Uploads"
+msgstr "uploads"
+
+#: usp-pro.php:466
+msgid "Auto-Display Images"
+msgstr "Automatisk visning af billeder"
+
+#: usp-pro.php:467
+msgid "Auto-Display Size"
+msgstr "Automatisk visning størrelse"
+
+#: usp-pro.php:468
+msgid "Min number of files"
+msgstr "Mindre antal filer"
+
+#: usp-pro.php:469
+msgid "Max number of files"
+msgstr "Maks antal filer"
+
+#: usp-pro.php:470
+msgid "Allowed File Types"
+msgstr "Tilladte filtyper"
+
+#: usp-pro.php:471
+msgid "Minimum file size"
+msgstr "Mindste filstørrelse"
+
+#: usp-pro.php:472
+msgid "Maximum file size"
+msgstr "Maksimal filstørrelse"
+
+#: usp-pro.php:473
+msgid "Min width for images"
+msgstr "Min bredde for billeder"
+
+#: usp-pro.php:474
+msgid "Max width for images"
+msgstr "Maks bredde for billeder"
+
+#: usp-pro.php:475
+msgid "Min height for images"
+msgstr "Min højde for billeder"
+
+#: usp-pro.php:476
+msgid "Max height for images"
+msgstr "Maks højde for billeder"
+
+#: usp-pro.php:477
+msgid "Featured Images"
+msgstr "Fremhævede billeder"
+
+#: usp-pro.php:478
+msgid "Featured Image Key"
+msgstr "Fremhævet billednøgle"
+
+#: usp-pro.php:479
+msgid "Unique File Names"
+msgstr "Unikke filnavne"
+
+#: usp-pro.php:480
+msgid "User Shortcodes"
+msgstr "Brugerkortkoder"
+
+#: usp-pro.php:481
+msgid "Non-Admin Media"
+msgstr "Ikke-administrerede medier"
+
+#: usp-pro.php:482 usp-pro.php:712
+msgid "Require Square Images"
+msgstr "Kræver kvadratiske billeder"
+
+#: usp-pro.php:483
+msgid "Auto-Rotate Images"
+msgstr "Automatisk rotering af billeder"
+
+#: usp-pro.php:491 inc/usp-login.php:179
+msgid "Admin"
+msgstr "Admin"
+
+#: usp-pro.php:497
+msgid "Admin Email To"
+msgstr "Admin e-mail til"
+
+#: usp-pro.php:498
+msgid "Admin Email From"
+msgstr "Admin Email fra"
+
+#: usp-pro.php:499
+msgid "Admin Email Name"
+msgstr "Admin E-mail-navn"
+
+#: usp-pro.php:502
+msgid "Email Alerts"
+msgstr "Email Alerts"
+
+#: usp-pro.php:503
+msgid "Email Format"
+msgstr "Email Format"
+
+#: usp-pro.php:506 usp-pro.php:524
+msgid "Submission Alerts"
+msgstr "Indsendelsesvarsler"
+
+#: usp-pro.php:507 usp-pro.php:525
+msgid "Approval Alerts"
+msgstr "Godkendelsesvarsler"
+
+#: usp-pro.php:508 usp-pro.php:526
+msgid "Denied Alerts"
+msgstr "Nægtet advarsler"
+
+#: usp-pro.php:509 usp-pro.php:527
+msgid "Scheduled Alerts"
+msgstr "Planlagte varsler"
+
+#: usp-pro.php:510 usp-pro.php:528
+msgid "Submission Alert Subject"
+msgstr "Indsendelsesvarsel Emne"
+
+#: usp-pro.php:511 usp-pro.php:529
+msgid "Submission Alert Message"
+msgstr "Indsendelsesvarslingsmeddelelse"
+
+#: usp-pro.php:512 usp-pro.php:530
+msgid "Approval Alert Subject"
+msgstr "Godkendelsesvarsel Emne"
+
+#: usp-pro.php:513 usp-pro.php:531
+msgid "Approval Alert Message"
+msgstr "Godkendelsesvarslingsmeddelelse"
+
+#: usp-pro.php:514 usp-pro.php:532
+msgid "Denied Alert Subject"
+msgstr "Afvist Alert Emne"
+
+#: usp-pro.php:515 usp-pro.php:533
+msgid "Denied Alert Message"
+msgstr "Denied Alert Message"
+
+#: usp-pro.php:516 usp-pro.php:534
+msgid "Scheduled Alert Subject"
+msgstr "Planlagt Alert Emne"
+
+#: usp-pro.php:517 usp-pro.php:535
+msgid "Scheduled Alert Message"
+msgstr "Planlagt Alert Besked"
+
+#: usp-pro.php:518
+msgid "CC Submission Alerts"
+msgstr "CC Indsendelsesvarsler"
+
+#: usp-pro.php:519
+msgid "CC Approval Alerts"
+msgstr "CC-godkendelsesvarsler"
+
+#: usp-pro.php:520
+msgid "CC Denied Alerts"
+msgstr "CC nægtede advarsler"
+
+#: usp-pro.php:521
+msgid "CC Scheduled Alerts"
+msgstr "CC planlagte advarsler"
+
+#: usp-pro.php:538
+msgid "Subject Line Prefix"
+msgstr "Emne linie præfiks"
+
+#: usp-pro.php:539
+msgid "Subject Line"
+msgstr "Emne linje"
+
+#: usp-pro.php:540
+msgid "Email From"
+msgstr "Email fra"
+
+#: usp-pro.php:541
+msgid "Custom Content"
+msgstr "Brugerdefineret indhold"
+
+#: usp-pro.php:542
+msgid "CC Emails"
+msgstr "CC e-mails"
+
+#: usp-pro.php:543
+msgid "CC User"
+msgstr "CC-bruger"
+
+#: usp-pro.php:544
+msgid "CC User Message"
+msgstr "CC brugermeddelelse"
+
+#: usp-pro.php:545
+msgid "Include User Stats"
+msgstr "Inkluder brugerstatistik"
+
+#: usp-pro.php:546
+msgid "Include Custom Fields"
+msgstr "Inkluder brugerdefinerede felter"
+
+#: usp-pro.php:549
+msgid "Custom Recipient 1"
+msgstr "Tilpasset modtager 1"
+
+#: usp-pro.php:550
+msgid "Custom Recipient 2"
+msgstr "Tilpasset modtager 2"
+
+#: usp-pro.php:551
+msgid "Custom Recipient 3"
+msgstr "Tilpasset modtager 3"
+
+#: usp-pro.php:552
+msgid "Custom Recipient 4"
+msgstr "Tilpasset modtager 4"
+
+#: usp-pro.php:553
+msgid "Custom Recipient 5"
+msgstr "Tilpasset modtager 5"
+
+#: usp-pro.php:562
+msgid "Advanced"
+msgstr "Fremskreden"
+
+#: usp-pro.php:567
+msgid "Form Configuration"
+msgstr "Formkonfiguration"
+
+#: usp-pro.php:568
+msgid "Display Form on Success"
+msgstr "Skærmbillede på succes"
+
+#: usp-pro.php:569
+msgid "Enable Auto-Formatting"
+msgstr "Aktivér automatisk formatering"
+
+#: usp-pro.php:570
+msgid "Auto-Include Fieldsets"
+msgstr "Auto-Include Fieldsets"
+
+#: usp-pro.php:571
+msgid "Auto-Generate Form Demos"
+msgstr "Automatisk generere form demoer"
+
+#: usp-pro.php:572
+msgid "Auto-Generate Post Demos"
+msgstr "Automatisk generere postdemoer"
+
+#: usp-pro.php:573
+msgid "Auto-Include Submit Button"
+msgstr "Indsæt automatisk indsend knap"
+
+#: usp-pro.php:574
+msgid "Text for Submit Button"
+msgstr "Tekst til indsend knap"
+
+#: usp-pro.php:575
+msgid "Post Formatting"
+msgstr "Postformatering"
+
+#: usp-pro.php:576
+msgid "Custom Form Attributes"
+msgstr "Brugerdefinerede formattributter"
+
+#: usp-pro.php:577
+msgid "Redirect URL for Success"
+msgstr "Omdirigere URL til succes"
+
+#: usp-pro.php:578
+msgid "Redirect URL for Failure"
+msgstr "Omdirigere URL for fejl"
+
+#: usp-pro.php:579 usp-pro.php:700
+msgid "Content Filter"
+msgstr "Indholdsfilter"
+
+#: usp-pro.php:581
+msgid "Custom Post Type"
+msgstr "Brugerdefineret posttype"
+
+#: usp-pro.php:582
+msgid "Submitted Post Type"
+msgstr "Indsendt posttype"
+
+#: usp-pro.php:583
+msgid "Slug for USP Post"
+msgstr "Slug til USP Post"
+
+#: usp-pro.php:584
+msgid "Slug for Existing Post Type"
+msgstr "Slug for eksisterende posttype"
+
+#: usp-pro.php:585
+msgid "Roles for USP Posts"
+msgstr "Roller til USP Stillinger"
+
+#: usp-pro.php:586
+msgid "Roles for USP Forms"
+msgstr "Roller til USP Forms"
+
+#: usp-pro.php:588
+msgid "Default Form Fields"
+msgstr "Standardformularfelter"
+
+#: usp-pro.php:589
+msgid "Default Post Title"
+msgstr "Standard Post Titel"
+
+#: usp-pro.php:590
+msgid "Default Post Content"
+msgstr "Standardindhold for indlæg"
+
+#: usp-pro.php:592
+msgid "Before/After USP Forms"
+msgstr "Før / Efter USP Forms"
+
+#: usp-pro.php:593
+msgid "Custom Before Forms"
+msgstr "Brugerdefineret før formularer"
+
+#: usp-pro.php:594
+msgid "Custom After Forms"
+msgstr "Brugerdefinerede efterformularer"
+
+#: usp-pro.php:596
+msgid "Success Message"
+msgstr "Succesmeddelelse"
+
+#: usp-pro.php:597
+msgid "Register User"
+msgstr "Tilmeld bruger"
+
+#: usp-pro.php:598 inc/usp-defaults.php:72 inc/usp-shortcodes.php:676
+msgid "Submit Post"
+msgstr "Send indlæg"
+
+#: usp-pro.php:599
+msgid "Register and Submit"
+msgstr "Tilmeld og send"
+
+#: usp-pro.php:600
+msgid "Contact Form"
+msgstr "Kontaktformular"
+
+#: usp-pro.php:601
+msgid "Contact Form and Register"
+msgstr "Kontaktformular og Tilmeld"
+
+#: usp-pro.php:602
+msgid "Contact Form and Post"
+msgstr "Kontaktformular og post"
+
+#: usp-pro.php:603
+msgid "Contact, Register, and Post"
+msgstr "Kontakt, Registrer og Post"
+
+#: usp-pro.php:604
+msgid "Custom Before Message"
+msgstr "Brugerdefineret før meddelelse"
+
+#: usp-pro.php:605
+msgid "Custom After Message"
+msgstr "Brugerdefineret efter besked"
+
+#: usp-pro.php:607
+msgid "Primary Form Fields"
+msgstr "Primær formularer"
+
+#: usp-pro.php:609
+msgid "Primary Field "
+msgstr "Primær felt"
+
+#: usp-pro.php:612
+msgid "User-Registration Fields"
+msgstr "Brugerregistreringsfelter"
+
+#: usp-pro.php:613 usp-pro.php:715
+msgid "Nicename"
+msgstr "Pænt navn"
+
+#: usp-pro.php:613 usp-pro.php:715
+msgid "Display Name"
+msgstr "Visningsnavn"
+
+#: usp-pro.php:613 usp-pro.php:715
+msgid "Nickname"
+msgstr "Alias"
+
+#: usp-pro.php:613 usp-pro.php:715
+msgid "First Name"
+msgstr "Fornavn"
+
+#: usp-pro.php:613 usp-pro.php:715
+msgid "Last Name"
+msgstr "Efternavn"
+
+#: usp-pro.php:613 usp-pro.php:676 usp-pro.php:715 inc/usp-defaults.php:121
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: usp-pro.php:613 usp-pro.php:715 inc/usp-login.php:114
+msgid "Password"
+msgstr "Adgangskode"
+
+#: usp-pro.php:618 usp-pro.php:619
+msgid "Custom Fields"
+msgstr "Brugerdefinerede felter"
+
+#: usp-pro.php:621
+msgid "Custom Field Names"
+msgstr "Brugerdefinerede feltnavn"
+
+#: usp-pro.php:626
+msgid "Custom Field "
+msgstr "Brugerdefineret felt"
+
+#: usp-pro.php:631
+msgid "Custom Field Prefix"
+msgstr "Brugerdefineret feltpræfix"
+
+#: usp-pro.php:632
+msgid "Custom Prefix"
+msgstr "Brugerdefineret præfiks"
+
+#: usp-pro.php:634
+msgid "Custom Custom Fields"
+msgstr "Brugerdefinerede brugerdefinerede felter"
+
+#: usp-pro.php:635
+msgid "Optional Fields"
+msgstr "Valgfrie felter"
+
+#: usp-pro.php:636
+msgid "Required Fields"
+msgstr "krævede felter"
+
+#: usp-pro.php:638
+msgid "Custom Custom Field Names"
+msgstr "Brugerdefinerede brugernavn"
+
+#: usp-pro.php:654
+msgid "Errors"
+msgstr "fejl"
+
+#: usp-pro.php:659
+msgid "Default Error Message"
+msgstr "Standard fejlmeddelelse"
+
+#: usp-pro.php:660
+msgid "Custom Before Errors"
+msgstr "Brugerdefineret før fejl"
+
+#: usp-pro.php:661
+msgid "Custom After Errors"
+msgstr "Brugerdefinerede efter fejl"
+
+#: usp-pro.php:663
+msgid "Primary Field Errors"
+msgstr "Primær feltfejl"
+
+#: usp-pro.php:664 inc/usp-posts.php:277
+msgid "Name"
+msgstr "Navn"
+
+#: usp-pro.php:665
+msgid "URL"
+msgstr "URL"
+
+#: usp-pro.php:666 inc/usp-forms.php:242
+msgid "Title"
+msgstr "Titel"
+
+#: usp-pro.php:667
+msgid "Tags"
+msgstr "Tags"
+
+#: usp-pro.php:668
+msgid "Captcha"
+msgstr "Captcha"
+
+#: usp-pro.php:669
+msgid "Category"
+msgstr "Kategori"
+
+#: usp-pro.php:670
+msgid "Content"
+msgstr "Indhold"
+
+#: usp-pro.php:671
+msgid "Files"
+msgstr "Filer"
+
+#: usp-pro.php:672 inc/usp-defaults.php:117
+msgid "Email Address"
+msgstr "Email adresse"
+
+#: usp-pro.php:673 inc/usp-defaults.php:47 inc/usp-defaults.php:118
+msgid "Email Subject"
+msgstr "Email emne"
+
+#: usp-pro.php:674
+msgid "Alt Text"
+msgstr "Alt tekst"
+
+#: usp-pro.php:675 inc/usp-defaults.php:120
+msgid "Caption"
+msgstr "Billedtekst"
+
+#: usp-pro.php:677 inc/usp-defaults.php:122
+msgid "Taxonomy"
+msgstr "Taksonomi"
+
+#: usp-pro.php:678 inc/usp-defaults.php:123
+msgid "Post Format"
+msgstr "Postformat"
+
+#: usp-pro.php:679 inc/usp-defaults.php:124
+msgid "Media Title"
+msgstr "Medietitel"
+
+#: usp-pro.php:680 inc/usp-defaults.php:125
+msgid "File Name"
+msgstr "Filnavn"
+
+#: usp-pro.php:681
+msgid "Agree to Terms"
+msgstr "Tilslutte sig Vilkår"
+
+#: usp-pro.php:682 inc/usp-defaults.php:127
+msgid "Post Excerpt"
+msgstr "Postuddrag"
+
+#: usp-pro.php:684
+msgid "Form Submission Errors"
+msgstr "Formularfejlfejl"
+
+#: usp-pro.php:685
+msgid "Username Error"
+msgstr "Brugernavn Fejl"
+
+#: usp-pro.php:686
+msgid "User Email Error"
+msgstr "Bruger Email Error"
+
+#: usp-pro.php:687
+msgid "User Exists"
+msgstr "Bruger eksisterer"
+
+#: usp-pro.php:688
+msgid "Registration Disabled"
+msgstr "Registrering Deaktiveret"
+
+#: usp-pro.php:689
+msgid "Post Required"
+msgstr "Post påkrævet"
+
+#: usp-pro.php:690
+msgid "Duplicate Post"
+msgstr "Duplicate Post"
+
+#: usp-pro.php:691
+msgid "Name Restriction"
+msgstr "Navnrestriktion"
+
+#: usp-pro.php:692
+msgid "Incorrect Captcha"
+msgstr "Forkert Captcha"
+
+#: usp-pro.php:693
+msgid "Content Minimum"
+msgstr "Indholdsminimum"
+
+#: usp-pro.php:694
+msgid "Content Maximum"
+msgstr "Indhold Maksimalt"
+
+#: usp-pro.php:695
+msgid "Excerpt Minimum"
+msgstr "Uddrag Minimum"
+
+#: usp-pro.php:696
+msgid "Excerpt Maximum"
+msgstr "Uddrag Maks"
+
+#: usp-pro.php:697
+msgid "Incorrect Address"
+msgstr "Forkert adresse"
+
+#: usp-pro.php:698
+msgid "Subject Restriction"
+msgstr "Emnebegrænsning"
+
+#: usp-pro.php:699
+msgid "Incorrect Form Type"
+msgstr "Forkert formtype"
+
+#: usp-pro.php:702
+msgid "File Submission Errors"
+msgstr "Fejl ved filindsendelse"
+
+#: usp-pro.php:703
+msgid "Files Required"
+msgstr "Filer påkrævet"
+
+#: usp-pro.php:704
+msgid "File Required"
+msgstr "Fil nødvendig"
+
+#: usp-pro.php:705
+msgid "File Type Not Allowed"
+msgstr "Filtype er ikke tilladt"
+
+#: usp-pro.php:706
+msgid "File Dimensions"
+msgstr "Fil Dimensioner"
+
+#: usp-pro.php:707
+msgid "Maximum File Size"
+msgstr "Maksimal filstørrelse"
+
+#: usp-pro.php:708
+msgid "Minimum File Size"
+msgstr "Minimum filstørrelse"
+
+#: usp-pro.php:709
+msgid "File Name Length"
+msgstr "Filnavn længde"
+
+#: usp-pro.php:710
+msgid "Min Number of Files"
+msgstr "Min antal filer"
+
+#: usp-pro.php:711
+msgid "Max Number of Files"
+msgstr "Maks antal filer"
+
+#: usp-pro.php:714
+msgid "User Registration Errors"
+msgstr "Brugerregistreringsfejl"
+
+#: usp-pro.php:720
+msgid "Miscellaneous Errors"
+msgstr "Diverse fejl"
+
+#: usp-pro.php:721
+msgid "Error Separator"
+msgstr "Fejlfjerner"
+
+#: usp-pro.php:722
+msgid "Before Taxonomy"
+msgstr "Før taxonomi"
+
+#: usp-pro.php:723
+msgid "After Taxonomy"
+msgstr "Efter taxonomi"
+
+#: usp-pro.php:724
+msgid "Before Custom Field"
+msgstr "Før brugerdefineret felt"
+
+#: usp-pro.php:725
+msgid "After Custom Field"
+msgstr "Efter brugerdefineret felt"
+
+#: usp-pro.php:734
+msgid "Tools"
+msgstr "Værktøj"
+
+#: usp-pro.php:739 usp-pro.php:740
+msgid "Restore Default Settings"
+msgstr "Gendan standardindstillinger"
+
+#: usp-pro.php:747
+msgid "About"
+msgstr "Om"
+
+#: usp-pro.php:753
+msgid "License"
+msgstr "Licens"
+
+#: usp-pro.php:786
+msgid "Name for Custom Field #"
+msgstr "Navn for brugerdefineret felt #"
+
+#: usp-pro.php:787
+msgid "Name for Custom Field:"
+msgstr "Navn for brugerdefineret felt:"
+
+#: usp-pro.php:874
+msgid "No Limit"
+msgstr "Ingen grænse"
+
+#: usp-pro.php:940
+msgid "Select which tags may be assigned to submitted posts (see next two options). "
+msgstr "Vælg, hvilke mærker der kan tildeles til indsendte indlæg (se næste to muligheder)."
+
+#: usp-pro.php:941
+msgid "Show/Hide Tags&nbsp;&raquo;"
+msgstr "Vis / Skjul etiketter & nbsp; & raquo;"
+
+#: usp-pro.php:955
+msgid "Select which categories may be assigned to submitted posts. "
+msgstr "Vælg hvilke kategorier der kan tildeles til indsendte indlæg."
+
+#: usp-pro.php:956
+msgid "Show/Hide Categories&nbsp;&raquo;"
+msgstr "Vis / Skjul kategorier & nbsp; & raquo;"
+
+#: usp-pro.php:1028
+msgid "Which user roles should have access to USP Posts (when applicable): "
+msgstr "Hvilke brugerroller skal have adgang til USP-indlæg (når det er relevant):"
+
+#: usp-pro.php:1039
+msgid "Which user roles should have access to USP Forms: "
+msgstr "Hvilke brugerroller skal have adgang til USP-formularer:"
+
+#: usp-pro.php:1112
+msgid "Future (Scheduled Post)"
+msgstr "Fremtidige (planlagt post)"
+
+#: usp-pro.php:1113
+msgid "Always publish (via Password)"
+msgstr "Udgiv altid (via adgangskode)"
+
+#: usp-pro.php:1114
+msgid "Always publish (via Private)"
+msgstr "Udgiv altid (via Privat)"
+
+#: usp-pro.php:1115
+msgid "Always moderate (via Custom Status, defined below)"
+msgstr "Altid moderat (via brugerdefineret status, defineret nedenfor)"
+
+#: usp-pro.php:1116
+msgid "Always moderate (via Pending)"
+msgstr "Altid moderat (via ventende)"
+
+#: usp-pro.php:1117
+msgid "Always moderate (via Draft)"
+msgstr "Altid moderat (via udkast)"
+
+#: usp-pro.php:1118
+msgid "Always publish immediately"
+msgstr "Udgiv altid straks"
+
+#: usp-pro.php:1207
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: usp-pro.php:1215
+msgid "USP Pro Quick Start Guide"
+msgstr "USP Pro Quick Start Guide"
+
+#: usp-pro.php:1215
+msgid "Getting started"
+msgstr "Kom i gang"
+
+#: usp-pro.php:1271
+msgid "Your settings have been restored."
+msgstr "Dine indstillinger er blevet gendannet."
+
+#: usp-pro.php:1288
+msgid "Welcome to USP Pro!"
+msgstr "Velkommen til USP Pro!"
+
+#: usp-pro.php:1290
+msgid "Thank you for installing USP Pro. To begin using the plugin,"
+msgstr "Tak fordi du installerede USP Pro. For at begynde at bruge plugin'et,"
+
+#: usp-pro.php:1291
+msgid "enter your license key &raquo;"
+msgstr "indtast din licensnøgle & raquo;"
+
+#: updates/usp-updates.php:44
+msgid "Settings saved."
+msgstr "Indstillinger gemt."
+
+#: updates/usp-updates.php:51
+msgid "USP Pro License"
+msgstr "USP Pro License"
+
+#: updates/usp-updates.php:54
+msgid "Activate your license to enable USP Pro and free automatic updates."
+msgstr "Aktivér din licens for at aktivere USP Pro og gratis automatiske opdateringer."
+
+#: updates/usp-updates.php:55
+msgid "Show/hide instructions"
+msgstr "Vis / skjul instruktioner"
+
+#: updates/usp-updates.php:55
+msgid "View the steps&nbsp;&raquo;"
+msgstr "Se trinene & nbsp; & raquo;"
+
+#: updates/usp-updates.php:58
+msgid "Follow these steps to activate your license:"
+msgstr "Følg disse trin for at aktivere din licens:"
+
+#: updates/usp-updates.php:60
+msgid "Get your License Key"
+msgstr "Få din licensnøgle"
+
+#: updates/usp-updates.php:61
+msgid "Enter your license in the field, &ldquo;License Key&rdquo;"
+msgstr "Indtast dit licens i feltet, & ldquo; Licensnøgle & rdquo;"
+
+#: updates/usp-updates.php:62
+msgid "Click &ldquo;Save Changes&rdquo;"
+msgstr "Klik på & ldquo; Gem ændringer & rdquo;"
+
+#: updates/usp-updates.php:63
+msgid "Click &ldquo;Activate License&rdquo;"
+msgstr "Klik på & ldquo; Aktivér licens & rdquo;"
+
+#: updates/usp-updates.php:66
+msgid "If you need help,"
+msgstr "Hvis du har brug for hjælp,"
+
+#: updates/usp-updates.php:67
+msgid "check out this guide"
+msgstr "Tjek denne vejledning"
+
+#: updates/usp-updates.php:67
+msgid "and/or"
+msgstr "og / eller"
+
+#: updates/usp-updates.php:68
+msgid "contact us"
+msgstr "kontakt os"
+
+#: updates/usp-updates.php:72 updates/usp-updates.php:125
+msgid "Activate License"
+msgstr "Aktivér licens"
+
+#: updates/usp-updates.php:83 updates/usp-updates.php:104
+#: updates/usp-updates.php:114
+msgid "License Key"
+msgstr "Licensnøgle"
+
+#: updates/usp-updates.php:87
+msgid "Your USP Pro License is active."
+msgstr "Din USP Pro-licens er aktiv."
+
+#: updates/usp-updates.php:92 updates/usp-updates.php:123
+#: inc/usp-settings.php:276
+msgid "License Status"
+msgstr "Licensstatus"
+
+#: updates/usp-updates.php:94
+msgid "Deactivate License"
+msgstr "Deaktiver licensen"
+
+#: updates/usp-updates.php:107
+msgid "Enter your License Key"
+msgstr "Indtast din licensnøgle"
+
+#: updates/usp-updates.php:118
+msgid "Your license is inactive. To activate, click &ldquo;Activate License&rdquo;"
+msgstr "Din licens er inaktiv. For at aktivere skal du klikke på & ldquo; Aktivér licens & rdquo;"
+
+#: updates/usp-updates.php:137
+msgid "Visit USP Pro Settings &raquo;"
+msgstr "Besøg USP Pro Settings & raquo;"
+
+#: inc/usp-settings.php:8
+msgid "Welcome to USP Pro! Before diving in,"
+msgstr "Velkommen til USP Pro! Før du dykker i,"
+
+#: inc/usp-settings.php:8
+msgid "check out the Quick Start guide &raquo;"
+msgstr "Tjek Quick Start guide & raquo;"
+
+#: inc/usp-settings.php:11
+msgid "These settings control basic form functionality."
+msgstr "Disse indstillinger styrer grundlæggende formfunktionalitet."
+
+#: inc/usp-settings.php:14
+msgid "These settings control how forms behave if returned with an error."
+msgstr "Disse indstillinger styrer, hvordan formularerne opfører sig, hvis de returneres med en fejl."
+
+#: inc/usp-settings.php:14 inc/usp-settings.php:20 inc/usp-settings.php:36
+#: inc/usp-settings.php:52 inc/usp-settings.php:72 inc/usp-settings.php:97
+#: inc/usp-settings.php:146 inc/usp-settings.php:171 inc/usp-settings.php:174
+#: inc/usp-callbacks.php:15 inc/usp-callbacks.php:16 inc/usp-callbacks.php:17
+#: inc/usp-callbacks.php:18 inc/usp-callbacks.php:19 inc/usp-callbacks.php:20
+#: inc/usp-callbacks.php:21 inc/usp-callbacks.php:22 inc/usp-callbacks.php:23
+#: inc/usp-callbacks.php:24 inc/usp-callbacks.php:25 inc/usp-callbacks.php:26
+#: inc/usp-callbacks.php:27 inc/usp-callbacks.php:28 inc/usp-callbacks.php:66
+#: inc/usp-callbacks.php:76 inc/usp-callbacks.php:145
+#: inc/usp-callbacks.php:223 inc/usp-callbacks.php:233
+#: inc/usp-callbacks.php:234
+msgid "Learn more&nbsp;&raquo;"
+msgstr "Lær mere & nbsp; & raquo;"
+
+#: inc/usp-settings.php:17
+msgid "These settings determine how users and handled when submitting form content."
+msgstr "Disse indstillinger bestemmer, hvordan brugere og håndteres, når de sender formularindhold."
+
+#: inc/usp-settings.php:20
+msgid "Here you may configure the Google reCAPTCHA and antispam/challenge question."
+msgstr "Her kan du konfigurere Google reCAPTCHA og antispam / challenge spørgsmål."
+
+#: inc/usp-settings.php:23
+msgid "These settings determine how categories are handled with submitted content."
+msgstr "Disse indstillinger bestemmer, hvordan kategorier håndteres med indsendte indhold."
+
+#: inc/usp-settings.php:26
+msgid "These settings determine how tags are handled with submitted content."
+msgstr "Disse indstillinger bestemmer, hvordan tags håndteres med indsendte indhold."
+
+#: inc/usp-settings.php:29
+msgid "Optional security measure. After publishing each form, enter its"
+msgstr "Valgfri sikkerhedsforanstaltning. Efter at have udgivet hver formular skal du indtaste dens"
+
+#: inc/usp-settings.php:29
+msgid "Form ID"
+msgstr "Form ID"
+
+#: inc/usp-settings.php:30
+msgid "in the appropriate field(s) below. See"
+msgstr "i de relevante felter nedenfor. Se"
+
+#: inc/usp-settings.php:30 inc/usp-callbacks.php:41 inc/usp-callbacks.php:42
+msgid "this post"
+msgstr "dette indlæg"
+
+#: inc/usp-settings.php:30
+msgid "for more information."
+msgstr "for mere information."
+
+#: inc/usp-settings.php:36
+msgid "Customize the appearance (CSS) and behavior (JavaScript) of USP Forms."
+msgstr "Tilpas udseendet (CSS) og opførsel (JavaScript) af USP Forms."
+
+#: inc/usp-settings.php:39
+msgid "Here you may customize CSS/styles for your USP Forms."
+msgstr "Her kan du tilpasse CSS / stilarter til dine USP Forms."
+
+#: inc/usp-settings.php:42
+msgid "Here you may customize JavaScript for your USP Forms."
+msgstr "Her kan du tilpasse JavaScript til dine USP Forms."
+
+#: inc/usp-settings.php:45
+msgid "By default, external CSS &amp; JavaScript files are loaded on every page. Here you can optimize performance by loading resources only on specific URLs."
+msgstr "Som standard er ekstern CSS & amp; JavaScript-filer er indlæst på hver side. Her kan du optimere ydeevnen ved kun at indlæse ressourcer på bestemte webadresser."
+
+#: inc/usp-settings.php:51
+msgid "Configure file uploads. Advanced configuration is possible via the"
+msgstr "Konfigurer filoploader. Avanceret konfiguration er mulig via"
+
+#: inc/usp-settings.php:51
+msgid "shortcode and Custom Fields. "
+msgstr "shortcode og Custom Fields."
+
+#: inc/usp-settings.php:55
+msgid "Here are the main settings for file uploads. If in doubt on anything, go with the default option."
+msgstr "Her er de vigtigste indstillinger for filoploader. Hvis du er i tvivl om noget, skal du gå med standardindstillingen."
+
+#: inc/usp-settings.php:61
+msgid "Customize email alerts and contact forms."
+msgstr "Tilpas email beskeder og kontaktformularer."
+
+#: inc/usp-settings.php:64
+msgid "Here are you may specify your email settings, which are used for email alerts and contact forms."
+msgstr "Her kan du angive dine e-mail-indstillinger, som bruges til e-mail-beskeder og kontaktformularer."
+
+#: inc/usp-settings.php:67
+msgid "Here are you may customize email alerts. Note: user-registration email is sent automatically by WordPress and can&rsquo;t be disabled via USP Pro."
+msgstr "Her kan du tilpasse e-mail alarmer. Bemærk: Brugerregistrerings-email sendes automatisk af WordPress og kan ikke deaktiveres via USP Pro."
+
+#: inc/usp-settings.php:70
+msgid "Here are you may customize email alerts that are sent to the admin. You may use "
+msgstr "Her kan du tilpasse e-mail-beskeder, der sendes til administratoren. Du kan bruge"
+
+#: inc/usp-settings.php:71 inc/usp-settings.php:96
+msgid "Show/Hide Variables"
+msgstr "Vis / Skjul variabler"
+
+#: inc/usp-settings.php:71 inc/usp-settings.php:96 inc/usp-settings.php:122
+msgid "shortcut variables"
+msgstr "genvejsvariabler"
+
+#: inc/usp-settings.php:72
+msgid "in your alert messages to display dynamic bits of information."
+msgstr "i dine advarselsmeddelelser for at vise dynamiske informationskilder."
+
+#: inc/usp-settings.php:95
+msgid "Here are you may customize email alerts that are sent to the user. You may use "
+msgstr "Her kan du tilpasse e-mail-beskeder, der sendes til brugeren. Du kan bruge"
+
+#: inc/usp-settings.php:97
+msgid "in your alert messages to display dynamic bits of information. "
+msgstr "i dine advarselsmeddelelser for at vise dynamiske informationskilder."
+
+#: inc/usp-settings.php:120
+msgid "Here you may customize default"
+msgstr "Her kan du tilpasse standard"
+
+#: inc/usp-settings.php:120
+msgid "contact form"
+msgstr "Kontaktformular"
+
+#: inc/usp-settings.php:120
+msgid "functionality. For "
+msgstr "funktionalitet. Til"
+
+#: inc/usp-settings.php:121
+msgid "Contact/Post Combo Forms"
+msgstr "Kontakt / Postkombinationer"
+
+#: inc/usp-settings.php:121
+msgid "you can use any of the "
+msgstr "du kan bruge nogen af ​​de"
+
+#: inc/usp-settings.php:122
+msgid "Show/Hide Variables &raquo;"
+msgstr "Vis / Skjul variabler & raquo;"
+
+#: inc/usp-settings.php:122
+msgid "for the &ldquo;Custom Content&rdquo; setting. Note that "
+msgstr "for det tilpassede indhold & rdquo; indstilling. Noter det"
+
+#: inc/usp-settings.php:123
+msgid "post-formatting"
+msgstr "post-formatering"
+
+#: inc/usp-settings.php:123
+msgid "must be enabled to send HTML-formatted email."
+msgstr "skal være aktiveret for at sende HTML-formateret email."
+
+#: inc/usp-settings.php:146
+msgid "Here you may specify custom recipients for any contact form."
+msgstr "Her kan du angive brugerdefinerede modtagere for enhver kontaktformular."
+
+#: inc/usp-settings.php:152
+msgid "Customize form configuration, post types, custom fields, and more."
+msgstr "Tilpas formularkonfiguration, posttyper, brugerdefinerede felter og meget mere."
+
+#: inc/usp-settings.php:155
+msgid "Here you may customize formatting, form demos, custom redirects, content filter, and other automatic functionality."
+msgstr "Her kan du tilpasse formatering, form demoer, tilpassede omdirigeringer, indholdsfilter og anden automatisk funktionalitet."
+
+#: inc/usp-settings.php:158
+msgid "Here you may customize the post types used by USP Pro. The option &ldquo;USP Posts&rdquo; uses a Custom Post Type provided by USP Pro. The option &ldquo;Existing Post Type&rdquo; uses a Custom Post Type that is provided by your theme. If in doubt, use the default option, &ldquo;Regular WP Posts&rdquo;."
+msgstr "Her kan du tilpasse de posttyper, der bruges af USP Pro. Alternativet & ldquo; USP-indlæg & rdquo; bruger en tilpasset posttype leveret af USP Pro. Alternativet 'Eksisterende posttype & rdquo; bruger en tilpasset posttype, der leveres af dit tema. Hvis du er i tvivl, brug standardindstillingen, & ldquo; Regular WP Posts & rdquo ;."
+
+#: inc/usp-settings.php:161
+msgid "Here you may specify default values for submitted Post Title and Post Content. This enables you to exclude title and content fields on forms and use these values instead. "
+msgstr "Her kan du angive standardværdier for indsendte posttitel og postindhold. Dette gør det muligt at udelukke titel- og indholdsfelter på formularer og bruge disse værdier i stedet."
+
+#: inc/usp-settings.php:162
+msgid "Note that default fields also may be specified on a per-form basis by"
+msgstr "Bemærk, at standardfelter også kan angives pr. Formular med"
+
+#: inc/usp-settings.php:162
+msgid "setting values with hidden fields"
+msgstr "indstiller værdier med skjulte felter"
+
+#: inc/usp-settings.php:165
+msgid "Here you may specify any custom text and/or markup to appear before and after all USP Forms."
+msgstr "Her kan du angive en brugerdefineret tekst og / eller markering, der skal vises før og efter alle USP Forms."
+
+#: inc/usp-settings.php:168
+msgid "Here you may customize the various success messages. Basic markup allowed."
+msgstr "Her kan du tilpasse de forskellige succesmeddelelser. Grundlæggende markering tilladt."
+
+#: inc/usp-settings.php:171
+msgid "Here you may customize default names/labels for primary fields. These values may be customized on a per-form basis via the"
+msgstr "Her kan du tilpasse standardnavne / etiketter til primære felter. Disse værdier kan tilpasses pr. Formular via"
+
+#: inc/usp-settings.php:171 inc/usp-settings.php:174
+msgid "attribute."
+msgstr "attribut."
+
+#: inc/usp-settings.php:174
+msgid "Here you may customize default names/labels for"
+msgstr "Her kan du tilpasse standardnavne / etiketter til"
+
+#: inc/usp-settings.php:174
+msgid "user-registration fields"
+msgstr "brugerregistreringsfelter"
+
+#: inc/usp-settings.php:174
+msgid "These values may be customized on a per-form basis via the"
+msgstr "Disse værdier kan tilpasses pr. Formular via"
+
+#: inc/usp-settings.php:177
+msgid "Number of Custom Fields to auto-generate for each USP Form."
+msgstr "Antal brugerdefinerede felter til automatisk generering for hver USP-formular."
+
+#: inc/usp-settings.php:177 inc/usp-settings.php:184 inc/usp-settings.php:189
+#: inc/usp-settings.php:196 inc/usp-settings.php:203
+msgid "Show/Hide Description"
+msgstr "Vis / Skjul Beskrivelse"
+
+#: inc/usp-settings.php:177 inc/usp-settings.php:184 inc/usp-settings.php:189
+#: inc/usp-settings.php:196 inc/usp-settings.php:203
+msgid "Toggle more info"
+msgstr "Veksle mere info"
+
+#: inc/usp-settings.php:179
+msgid "The number specified below is used for two things: 1) it determines how many Custom Fields are added to newly created forms, and 2) it determines how many options to generate for the next "
+msgstr "Nummeret angivet nedenfor bruges til to ting: 1) det bestemmer, hvor mange brugerdefinerede felter der tilføjes til nyoprettede formularer, og 2) det bestemmer, hvor mange muligheder der skal genereres til det næste"
+
+#: inc/usp-settings.php:180
+msgid "group of settings, &ldquo;Custom Field Names&rdquo;. So for example, if"
+msgstr "gruppe af indstillinger, & ldquo; Brugerdefinerede feltnavn & rdquo ;. Så for eksempel, hvis"
+
+#: inc/usp-settings.php:180
+msgid "is selected for this setting, all new USP Forms will include three Custom Fields, "
+msgstr "er valgt til denne indstilling, vil alle nye USP Forms indeholde tre brugerdefinerede felter,"
+
+#: inc/usp-settings.php:181
+msgid "each with its own option in the following setting, &ldquo;Custom Field Names&rdquo;. Note that unused Custom Fields are fine; the idea is to have them readily available for each form."
+msgstr "hver med sin egen mulighed i den følgende indstilling, & ldquo; Brugerdefinerede feltnavn & rdquo ;. Bemærk, at ubrugte brugerdefinerede felter er fine; ideen er at få dem let tilgængelige for hver formular."
+
+#: inc/usp-settings.php:181 inc/usp-settings.php:186
+msgid "Learn more about Custom Fields&nbsp;&raquo;"
+msgstr "Få flere oplysninger om brugerdefinerede felter & nbsp; & raquo;"
+
+#: inc/usp-settings.php:184
+msgid "Here you may define names for Custom Fields (see previous setting)."
+msgstr "Her kan du definere navne til brugerdefinerede felter (se tidligere indstilling)."
+
+#: inc/usp-settings.php:186
+msgid "This setting defines &ldquo;human readable&rdquo; names for any Custom Custom Fields. They are displayed in error messages, contact-form messages, and elsewhere. They apply only to default Custom Fields."
+msgstr "Denne indstilling definerer & ldquo; human readable & rdquo; navne til alle brugerdefinerede tilpassede felter. De vises i fejlmeddelelser, kontaktformularbeskeder og andre steder. De gælder kun for standard tilpassede felter."
+
+#: inc/usp-settings.php:189
+msgid "Here you may specify a unique prefix to use for Custom Field names."
+msgstr "Her kan du angive et unikt præfiks, der skal bruges til brugernavn."
+
+#: inc/usp-settings.php:191
+msgid "For example, if you specify"
+msgstr "For eksempel, hvis du angiver"
+
+#: inc/usp-settings.php:191
+msgid "for this setting, you can create unique Custom Fields by including the parameter"
+msgstr "For denne indstilling kan du oprette unikke brugerdefinerede felter ved at inkludere parameteren"
+
+#: inc/usp-settings.php:191
+msgid "in your custom-field definition. "
+msgstr "i din brugerdefinerede feltdefinition."
+
+#: inc/usp-settings.php:192
+msgid "Note that the custom prefix may contain lowercase/uppercase alphanumeric characters, plus underscores and dashes. "
+msgstr "Bemærk, at det brugerdefinerede præfiks kan indeholde små bogstaver / store bogstaver alfanumeriske tegn plus understreger og bindestreger."
+
+#: inc/usp-settings.php:193 inc/usp-settings.php:199
+msgid "Important:"
+msgstr "Vigtig:"
+
+#: inc/usp-settings.php:193
+msgid "do not use"
+msgstr "Brug ikke"
+
+#: inc/usp-settings.php:193 inc/usp-settings.php:200 inc/usp-callbacks.php:191
+msgid "or"
+msgstr "eller"
+
+#: inc/usp-settings.php:193
+msgid "for the custom prefix (these are reserved for default Custom Fields)."
+msgstr "for det brugerdefinerede præfiks (disse er forbeholdt standarddefinerede felter)."
+
+#: inc/usp-settings.php:193
+msgid "Learn more about Prefix Custom Fields&nbsp;&raquo;"
+msgstr "Få flere oplysninger om Prefix Custom Fields & nbsp; & raquo;"
+
+#: inc/usp-settings.php:196
+msgid "Here you may specify any of your own"
+msgstr "Her kan du angive din egen"
+
+#: inc/usp-settings.php:196 inc/usp-settings.php:203
+msgid "Custom"
+msgstr "Brugerdefinerede"
+
+#: inc/usp-settings.php:196
+msgid "Custom Field names (separated by commas)."
+msgstr "Brugerdefinerede feltnavne (adskilt af kommaer)."
+
+#: inc/usp-settings.php:198
+msgid "For this setting, there are two types of fields, Optional and Required. Required fields will trigger an error if left empty when the form is submitted; whereas Optional fields will not trigger an error if left empty. "
+msgstr "For denne indstilling er der to typer felter, valgfri og påkrævet. Påkrævede felter udløser en fejl, hvis den er tom, når formularen er indsendt. mens valgfrie felter ikke udløser en fejl, hvis venstre er tom."
+
+#: inc/usp-settings.php:199
+msgid "Note that Custom Field names may contain lowercase/uppercase alphanumeric characters, plus underscores and dashes. "
+msgstr "Bemærk, at brugerdefinerede feltnavne kan indeholde små bogstaver / store bogstaver, plus underskrifter og bindestreger."
+
+#: inc/usp-settings.php:200
+msgid "your Custom Field names must NOT begin with"
+msgstr "Dine brugernavn skal IKKE begynde med"
+
+#: inc/usp-settings.php:200
+msgid "(these are reserved for default Custom Fields)."
+msgstr "(disse er forbeholdt standard brugerdefinerede felter)."
+
+#: inc/usp-settings.php:200
+msgid "Learn more about Custom Custom Fields&nbsp;&raquo;"
+msgstr "Få flere oplysninger om brugerdefinerede tilpassede felter & nbsp; & raquo;"
+
+#: inc/usp-settings.php:203
+msgid "Here you may define names for any"
+msgstr "Her kan du definere navne til nogen"
+
+#: inc/usp-settings.php:203
+msgid "Custom Fields (see previous setting)."
+msgstr "Brugerdefinerede felter (se tidligere indstilling)."
+
+#: inc/usp-settings.php:205
+msgid "This setting defines &ldquo;human readable&rdquo; names for any Custom Custom Fields. They are displayed in error messages, contact-form messages, and elsewhere. "
+msgstr "Denne indstilling definerer & ldquo; human readable & rdquo; navne til alle brugerdefinerede tilpassede felter. De vises i fejlmeddelelser, kontaktformularbeskeder og andre steder."
+
+#: inc/usp-settings.php:206
+msgid "Note: in order to define any names, you first must specify some Custom Custom Fields in the previous setting, then click &ldquo;Save Changes&rdquo; and return to this location."
+msgstr "Bemærk: For at definere navne skal du først angive nogle brugerdefinerede brugerdefinerede felter i den foregående indstilling, og derefter klikke på & ldquo; Save Changes & rdquo; og vende tilbage til denne placering."
+
+#: inc/usp-settings.php:212
+msgid "Here you may customize error messages for USP Pro."
+msgstr "Her kan du tilpasse fejlmeddelelser til USP Pro."
+
+#: inc/usp-settings.php:215
+msgid "Here you may customize the default error message. You may use text and/or basic markup."
+msgstr "Her kan du tilpasse standard fejlmeddelelsen. Du kan bruge tekst og / eller grundlæggende markering."
+
+#: inc/usp-settings.php:218
+msgid "Here you may customize primary field errors. You may use text and/or basic markup."
+msgstr "Her kan du tilpasse primære feltfejl. Du kan bruge tekst og / eller grundlæggende markering."
+
+#: inc/usp-settings.php:221
+msgid "Here you may customize form-submission errors. You may use text and/or basic markup."
+msgstr "Her kan du tilpasse formularfejl. Du kan bruge tekst og / eller grundlæggende markering."
+
+#: inc/usp-settings.php:224
+msgid "Here you may customize file-submission errors. You may use text and/or basic markup."
+msgstr "Her kan du tilpasse filindgivelsesfejl. Du kan bruge tekst og / eller grundlæggende markering."
+
+#: inc/usp-settings.php:227
+msgid "Here you may customize user-registration errors. You may use text and/or basic markup."
+msgstr "Her kan du tilpasse brugerregistreringsfejl. Du kan bruge tekst og / eller grundlæggende markering."
+
+#: inc/usp-settings.php:230
+msgid "Here you may customize various aspects of miscellaneous errors. You may use text and/or basic markup."
+msgstr "Her kan du tilpasse forskellige aspekter af diverse fejl. Du kan bruge tekst og / eller grundlæggende markering."
+
+#: inc/usp-settings.php:236
+msgid "Here you will find a tools for resetting, exporting, and importing options, as well as information on shortcodes, template tags, and other useful resources."
+msgstr "Her finder du et værktøj til at nulstille, eksportere og importere muligheder samt oplysninger om kortkoder, skabeloner og andre nyttige ressourcer."
+
+#: inc/usp-settings.php:245
+msgid "About USP Pro, WordPress, the server and current user."
+msgstr "Om USP Pro, WordPress, serveren og den nuværende bruger."
+
+#: inc/usp-settings.php:249
+msgid "Show/Hide Plugin Info"
+msgstr "Vis / Skjul Plugin Info"
+
+#: inc/usp-settings.php:249
+msgid "Plugin Information"
+msgstr "Plugin Information"
+
+#: inc/usp-settings.php:252
+msgid "Show/Hide WordPress Info"
+msgstr "Vis / Skjul WordPress Info"
+
+#: inc/usp-settings.php:252
+msgid "WordPress Information"
+msgstr "WordPress Information"
+
+#: inc/usp-settings.php:255
+msgid "Show/Hide WP Contants Info"
+msgstr "Vis / Skjul WP Kontant Info"
+
+#: inc/usp-settings.php:255
+msgid "WordPress Contants"
+msgstr "WordPress-kontanter"
+
+#: inc/usp-settings.php:258
+msgid "Show/Hide Server Info"
+msgstr "Vis / skjul serverinfo"
+
+#: inc/usp-settings.php:258
+msgid "Server Information"
+msgstr "Server Information"
+
+#: inc/usp-settings.php:261
+msgid "Show/Hide User Info"
+msgstr "Vis / Skjul brugerinformation"
+
+#: inc/usp-settings.php:261
+msgid "User Information"
+msgstr "Brugeroplysninger"
+
+#: inc/usp-settings.php:274
+msgid "Activate your license"
+msgstr "Aktivér din licens"
+
+#: inc/usp-settings.php:274
+msgid "to unlock USP Pro and enable free automatic updates. "
+msgstr "at låse op USP Pro og aktivere gratis automatiske opdateringer."
+
+#: inc/usp-settings.php:275
+msgid "Get your License Key&nbsp;&raquo;"
+msgstr "Få din licensnøgle & nbsp; & raquo;"
+
+#: inc/usp-settings.php:280 inc/usp-settings.php:288
+msgid "License Status:"
+msgstr "Licensstatus:"
+
+#: inc/usp-settings.php:280
+msgid "Your USP Pro License is currently active."
+msgstr "Din USP Pro-licens er aktuelt aktiv."
+
+#: inc/usp-settings.php:281
+msgid "License Key:"
+msgstr "Licensnøgle:"
+
+#: inc/usp-settings.php:282
+msgid "License Domain:"
+msgstr "Licensdomæne:"
+
+#: inc/usp-settings.php:283
+msgid "License Admin:"
+msgstr "Licensadministrator:"
+
+#: inc/usp-settings.php:288
+msgid "Your USP Pro License is currently inactive."
+msgstr "Din USP Pro-licens er for øjeblikket inaktiv."
+
+#: inc/usp-settings.php:292
+msgid "Resources"
+msgstr "Ressourcer"
+
+#: inc/usp-settings.php:294
+msgid "Get Your License Key"
+msgstr "Få din licensnøgle"
+
+#: inc/usp-settings.php:295
+msgid "Manage Licensed Domains"
+msgstr "Administrer Licensed Domains"
+
+#: inc/usp-settings.php:296
+msgid "Download Current Version"
+msgstr "Download nuværende version"
+
+#: inc/usp-settings.php:297
+msgid "Download Purchase Receipt"
+msgstr "Download købskvittering"
+
+#: inc/usp-settings.php:298
+msgid "Troubleshooting License Activation"
+msgstr "Fejlfinding Licens Aktivering"
+
+#: inc/usp-defaults.php:30
+msgid "New User Submitted Post!"
+msgstr "Indsendt ny bruger!"
+
+#: inc/usp-defaults.php:31
+msgid "New user-submitted post at "
+msgstr "Ny bruger indsendt post på"
+
+#: inc/usp-defaults.php:31
+msgid "! URL: "
+msgstr "! URL:"
+
+#: inc/usp-defaults.php:32
+msgid "Thank you for your submitted post!"
+msgstr "Tak for dit indlæg!"
+
+#: inc/usp-defaults.php:33
+msgid "Thank you for your submission at "
+msgstr "Tak for din indsendelse på"
+
+#: inc/usp-defaults.php:33
+msgid "! If submissions require approval, you'll receive an email once it's approved."
+msgstr "! Hvis indleveringer kræver godkendelse, modtager du en email, når den er godkendt."
+
+#: inc/usp-defaults.php:34 inc/usp-defaults.php:36
+msgid "Submitted Post Approved!"
+msgstr "Indsendt post godkendt!"
+
+#: inc/usp-defaults.php:35 inc/usp-defaults.php:37
+msgid "!"
+msgstr "!"
+
+#: inc/usp-defaults.php:38 inc/usp-defaults.php:40
+msgid "Submitted Post Denied"
+msgstr "Indsendt Post nægtet"
+
+#: inc/usp-defaults.php:41
+msgid "Sorry, but your submission has been denied."
+msgstr "Beklager, men dit indlæg er blevet nægtet."
+
+#: inc/usp-defaults.php:42 inc/usp-defaults.php:44
+msgid "Submitted Post Scheduled"
+msgstr "Indsendt post planlagt"
+
+#: inc/usp-defaults.php:43 inc/usp-defaults.php:45
+msgid "."
+msgstr "."
+
+#: inc/usp-defaults.php:46
+msgid "Message sent from "
+msgstr "Meddelelse sendt fra"
+
+#: inc/usp-defaults.php:50
+msgid "A copy of this message will be sent to the specified email address."
+msgstr "En kopi af denne besked vil blive sendt til den angivne e-mail-adresse."
+
+#: inc/usp-defaults.php:91
+msgid "Success! You have successfully submitted a post."
+msgstr "Succes! Du har sendt et indlæg."
+
+#: inc/usp-defaults.php:92
+msgid "Congratulations, you have been registered with the site."
+msgstr "Tillykke med, du er blevet registreret på hjemmesiden."
+
+#: inc/usp-defaults.php:93
+msgid "Registration successful! Post Submission successful! You&rsquo;re golden."
+msgstr "Registrering succesfuld! Post indsendelse succesfuld! Du er gylden."
+
+#: inc/usp-defaults.php:94
+msgid "Email sent! We&rsquo;ll get back to you as soon as possible."
+msgstr "Email sendt! Vi kommer tilbage til dig så hurtigt som muligt."
+
+#: inc/usp-defaults.php:95
+msgid "Registration successful! Email sent! We&rsquo;ll get back to you as soon as possible."
+msgstr "Registrering succesfuld! Email sendt! Vi kommer tilbage til dig så hurtigt som muligt."
+
+#: inc/usp-defaults.php:96
+msgid "Post Submitted! Email sent! We&rsquo;ll get back to you as soon as possible."
+msgstr "Indsendt indsendt! Email sendt! Vi kommer tilbage til dig så hurtigt som muligt."
+
+#: inc/usp-defaults.php:97
+msgid "Post Submitted! Registration successful! Email sent! We&rsquo;ll get back to you as soon as possible."
+msgstr "Indsendt indsendt! Registrering succesfuld! Email sendt! Vi kommer tilbage til dig så hurtigt som muligt."
+
+#: inc/usp-defaults.php:109
+msgid "Your Name"
+msgstr "Dit navn"
+
+#: inc/usp-defaults.php:110 inc/usp-process.php:1297
+msgid "Post URL"
+msgstr "Post-URL"
+
+#: inc/usp-defaults.php:111 inc/usp-process.php:1296
+msgid "Post Title"
+msgstr "Post Titel"
+
+#: inc/usp-defaults.php:114
+msgid "Post Category"
+msgstr "Post kategori"
+
+#: inc/usp-defaults.php:115 inc/usp-process.php:1302
+msgid "Post Content"
+msgstr "Indlæg Indhold"
+
+#: inc/usp-defaults.php:116
+msgid "File(s)"
+msgstr "Fil (er)"
+
+#: inc/usp-defaults.php:119
+msgid "Alt text"
+msgstr "Alt tekst"
+
+#: inc/usp-defaults.php:126
+msgid "I agree to the terms"
+msgstr "Jeg accepterer vilkårene"
+
+#: inc/usp-defaults.php:130
+msgid "User Nicename"
+msgstr "Bruger Nicename"
+
+#: inc/usp-defaults.php:131
+msgid "User Display Name"
+msgstr "Bruger Display Name"
+
+#: inc/usp-defaults.php:132
+msgid "User Nickname"
+msgstr "Brugernavn"
+
+#: inc/usp-defaults.php:133
+msgid "User First Name"
+msgstr "Brugernavn"
+
+#: inc/usp-defaults.php:134
+msgid "User Last Name"
+msgstr "Bruger Efternavn"
+
+#: inc/usp-defaults.php:135
+msgid "User Description"
+msgstr "Brugerbeskrivelse"
+
+#: inc/usp-defaults.php:136
+msgid "User Password"
+msgstr "Brugeradgangskode"
+
+#: inc/usp-defaults.php:146 inc/usp-defaults.php:148
+msgid "Required field: "
+msgstr "Påkrævet område:"
+
+#: inc/usp-defaults.php:151
+msgid "Important!"
+msgstr "Vigtig!"
+
+#: inc/usp-defaults.php:151
+msgid "Please fix the following issues:"
+msgstr "Ret venligst følgende problemer:"
+
+#: inc/usp-defaults.php:154
+msgid "Required field: Your Name"
+msgstr "Obligatorisk felt: Dit navn"
+
+#: inc/usp-defaults.php:155
+msgid "Required field: Post URL"
+msgstr "Obligatorisk felt: Post URL"
+
+#: inc/usp-defaults.php:156
+msgid "Required field: Post Title"
+msgstr "Obligatorisk felt: Post Titel"
+
+#: inc/usp-defaults.php:157
+msgid "Required field: Post Tags"
+msgstr "Obligatorisk felt: Post-tags"
+
+#: inc/usp-defaults.php:158
+msgid "Required field: Challenge Question"
+msgstr "Obligatorisk felt: Udfordringsspørgsmål"
+
+#: inc/usp-defaults.php:159
+msgid "Required field: Post Category"
+msgstr "Obligatorisk felt: Post kategori"
+
+#: inc/usp-defaults.php:160
+msgid "Required field: Post Content"
+msgstr "Obligatorisk felt: Indlæg Indhold"
+
+#: inc/usp-defaults.php:161
+msgid "Required field: File(s)"
+msgstr "Obligatorisk felt: Fil (er)"
+
+#: inc/usp-defaults.php:162
+msgid "Required field: Email Address"
+msgstr "Obligatorisk felt: Email adresse"
+
+#: inc/usp-defaults.php:163
+msgid "Required field: Email Subject"
+msgstr "Obligatorisk felt: Email Subject"
+
+#: inc/usp-defaults.php:164
+msgid "Required field: Alt text"
+msgstr "Obligatorisk felt: Alt tekst"
+
+#: inc/usp-defaults.php:165
+msgid "Required field: Caption"
+msgstr "Obligatorisk felt: Caption"
+
+#: inc/usp-defaults.php:166
+msgid "Required field: Description"
+msgstr "Obligatorisk felt: Beskrivelse"
+
+#: inc/usp-defaults.php:167
+msgid "Required field: Taxonomy"
+msgstr "Obligatorisk felt: Taxonomi"
+
+#: inc/usp-defaults.php:168
+msgid "Required field: Post Format"
+msgstr "Obligatorisk felt: Postformat"
+
+#: inc/usp-defaults.php:169
+msgid "Required field: Media Title"
+msgstr "Obligatorisk felt: Medietitel"
+
+#: inc/usp-defaults.php:170
+msgid "Required field: File Name"
+msgstr "Obligatorisk felt: Filnavn"
+
+#: inc/usp-defaults.php:171
+msgid "Required field: Agree to Terms"
+msgstr "Obligatorisk felt: Tilslut til Vilkår"
+
+#: inc/usp-defaults.php:172
+msgid "Required field: Post Excerpt"
+msgstr "Obligatorisk felt: Postuddrag"
+
+#: inc/usp-defaults.php:174
+msgid "Required field: User Nicename"
+msgstr "Obligatorisk felt: Bruger Nicename"
+
+#: inc/usp-defaults.php:175
+msgid "Required field: User Display Name"
+msgstr "Obligatorisk felt: Brugernavn"
+
+#: inc/usp-defaults.php:176
+msgid "Required field: User Nickname"
+msgstr "Obligatorisk felt: Brugernavn"
+
+#: inc/usp-defaults.php:177
+msgid "Required field: User First Name"
+msgstr "Obligatorisk felt: Brugernavn"
+
+#: inc/usp-defaults.php:178
+msgid "Required field: User Last Name"
+msgstr "Obligatorisk felt: Brugers Efternavn"
+
+#: inc/usp-defaults.php:179
+msgid "Required field: User Description"
+msgstr "Obligatorisk felt: Brugerbeskrivelse"
+
+#: inc/usp-defaults.php:180
+msgid "Required field: User Password"
+msgstr "Obligatorisk felt: Brugeradgangskode"
+
+#: inc/usp-defaults.php:182
+msgid "Username already registered. If that is your username, please log in to submit posts. Otherwise, please choose a different username."
+msgstr "Brugernavnet er allerede registreret. Hvis det er dit brugernavn, skal du logge ind for at sende indlæg. Ellers skal du vælge et andet brugernavn."
+
+#: inc/usp-defaults.php:183
+msgid "Email already registered. If that is your address, please log in to submit content. Otherwise, please choose a different email address."
+msgstr "Email allerede registreret. Hvis det er din adresse, skal du logge ind for at indsende indhold. Ellers skal du vælge en anden e-mail-adresse."
+
+#: inc/usp-defaults.php:184
+msgid "User-registration is currently disabled. Please contact the admin if you need help."
+msgstr "Brugerregistrering er for øjeblikket deaktiveret. Kontakt venligst admin, hvis du har brug for hjælp."
+
+#: inc/usp-defaults.php:185
+msgid "You are already registered with this site. Please contact the admin if you need help."
+msgstr "Du er allerede registreret på denne side. Kontakt venligst admin, hvis du har brug for hjælp."
+
+#: inc/usp-defaults.php:186
+msgid "Post-submission required. Please try again or contact the admin if you need help."
+msgstr "Efter indlevering kræves. Prøv igen, eller kontakt administratoren, hvis du har brug for hjælp."
+
+#: inc/usp-defaults.php:187
+msgid "Duplicate post detected. Please enter a unique post title and unique post content."
+msgstr "Duplikeret post er detekteret. Indtast venligst en unik posttitel og et unikt indlæg."
+
+#: inc/usp-defaults.php:188
+msgid "Incorrect form type. Please notify the administrator."
+msgstr "Forkert formtype. Vær venligst opmærksom på administratoren."
+
+#: inc/usp-defaults.php:190
+msgid "Restricted characters found in Name field. Please try again."
+msgstr "Begrænsede tegn findes i Navn felt. Prøv igen."
+
+#: inc/usp-defaults.php:191
+msgid "Incorrect response for the spam check. Please try again."
+msgstr "Forkert svar for spam checken. Prøv igen."
+
+#: inc/usp-defaults.php:192
+msgid "Minimum number of characters not met in content field. Please try again."
+msgstr "Mindste antal tegn, der ikke er opfyldt i indholdsfelt. Prøv igen."
+
+#: inc/usp-defaults.php:193
+msgid "Number of characters in content field exceeds maximum allowed. Please try again."
+msgstr "Antal tegn i indholdsfelt overstiger maksimum tilladt. Prøv igen."
+
+#: inc/usp-defaults.php:194
+msgid "Minimum number of characters not met in excerpt field. Please try again."
+msgstr "Minimum antal tegn, der ikke er opfyldt i uddragsfeltet. Prøv igen."
+
+#: inc/usp-defaults.php:195
+msgid "Number of characters in excerpt field exceeds maximum allowed. Please try again."
+msgstr "Antal tegn i uddragsfelt overstiger maksimum tilladt. Prøv igen."
+
+#: inc/usp-defaults.php:196
+msgid "Please enter a valid email address."
+msgstr "Indtast venligst en gyldig e-mailadresse."
+
+#: inc/usp-defaults.php:197
+msgid "Restricted characters found in Subject field. Please try again."
+msgstr "Begrænsede tegn findes i Emnefelt. Prøv igen."
+
+#: inc/usp-defaults.php:198
+msgid "Restricted terms found in Content field. Please try again."
+msgstr "Begrænsede udtryk findes i indholdsfelt. Prøv igen."
+
+#: inc/usp-defaults.php:200 inc/usp-defaults.php:205
+msgid "File(s) required. Please check any required file(s) and try again."
+msgstr "Fil (er) påkrævet. Kontroller venligst de nødvendige filer og prøv igen."
+
+#: inc/usp-defaults.php:201
+msgid "File type not allowed. Please check the allowed file types and try again."
+msgstr "Filtype er ikke tilladt. Kontroller de tilladte filtyper, og prøv igen."
+
+#: inc/usp-defaults.php:202
+msgid "Image dimensions (width/height) exceed set limits. Please check the requirements and try again."
+msgstr "Billedmålene (bredde / højde) overstiger satte grænser. Tjek venligst kravene og prøv igen."
+
+#: inc/usp-defaults.php:203
+msgid "Maximum file-size limit exceeded. Please check the file requirements and try again."
+msgstr "Maksimal filstørrelsesgrænse overskredet. Kontroller filkravene og prøv igen."
+
+#: inc/usp-defaults.php:204
+msgid "Minimum file-size not met. Please check the file requirements and try again."
+msgstr "Mindste filstørrelse er ikke opfyldt. Kontroller filkravene og prøv igen."
+
+#: inc/usp-defaults.php:206
+msgid "Length of filename exceeds allowed limit. Please check the requirements and try again."
+msgstr "Længden af ​​filnavn overstiger den tilladte grænse. Tjek venligst kravene og prøv igen."
+
+#: inc/usp-defaults.php:207
+msgid "Please ensure that you have met the minimum number of required files, and that any specific requirements have been met (e.g., size, dimensions)."
+msgstr "Sørg for, at du har opfyldt det mindste antal krævede filer, og at eventuelle specifikke krav er opfyldt (fx størrelse, dimensioner)."
+
+#: inc/usp-defaults.php:208
+msgid "Please ensure that you have not exceeded the maximum number of files, and that any specific requirements have been met (e.g., size, dimensions)."
+msgstr "Sørg for, at du ikke har overskredet det maksimale antal filer, og at der er opfyldt specifikke krav (fx størrelse, dimensioner)."
+
+#: inc/usp-defaults.php:209
+msgid "A square image is required. Please check the requirements and try again."
+msgstr "Et kvadratisk billede er påkrævet. Tjek venligst kravene og prøv igen."
+
+#: inc/usp-forms.php:46 inc/usp-forms.php:58
+msgid "USP Forms"
+msgstr "USP Forms"
+
+#: inc/usp-forms.php:47
+msgid "USP Form"
+msgstr "USP Formular"
+
+#: inc/usp-forms.php:48 inc/usp-posts.php:42
+msgid "Add New"
+msgstr "Tilføj ny"
+
+#: inc/usp-forms.php:49
+msgid "Add New USP Form"
+msgstr "Tilføj ny USP-formular"
+
+#: inc/usp-forms.php:50
+msgid "Edit USP Form"
+msgstr "Rediger USP-formularen"
+
+#: inc/usp-forms.php:51
+msgid "New USP Form"
+msgstr "Ny USP-formular"
+
+#: inc/usp-forms.php:52
+msgid "View USP Form"
+msgstr "Se USP-formularen"
+
+#: inc/usp-forms.php:53
+msgid "All USP Forms"
+msgstr "Alle USP Forms"
+
+#: inc/usp-forms.php:54
+msgid "Search USP Forms"
+msgstr "Søg på USP-formularer"
+
+#: inc/usp-forms.php:55
+msgid "No USP Forms found"
+msgstr "Ingen USP-formularer fundet"
+
+#: inc/usp-forms.php:56
+msgid "No USP Forms found in Trash"
+msgstr "Ingen USP-formularer fundet i papirkurven"
+
+#: inc/usp-forms.php:57
+msgid "Parent USP Form:"
+msgstr "Forældre USP Formular:"
+
+#: inc/usp-forms.php:62
+msgid "USP Submission Forms"
+msgstr "USP Submission Formularer"
+
+#: inc/usp-forms.php:242
+msgid "Author"
+msgstr "Forfatter"
+
+#: inc/usp-forms.php:242
+msgid "Shortcode"
+msgstr "Lær"
+
+#: inc/usp-forms.php:242
+msgid "Date"
+msgstr "Dato"
+
+#: inc/usp-forms.php:670
+msgid "error:usp_form_wrap:1:"
+msgstr "error: usp_form_wrap: 1:"
+
+#: inc/usp-forms.php:697
+msgid "reCAPTCHA field"
+msgstr "reCAPTCHA-feltet"
+
+#: inc/usp-forms.php:869
+msgid "error:usp_get_form_id:1:"
+msgstr "error: usp_get_form_id: 1:"
+
+#: inc/usp-forms.php:872
+msgid "error:usp_get_form_id:2:"
+msgstr "error: usp_get_form_id: 2:"
+
+#: inc/usp-forms.php:878
+msgid "error:usp_get_form_id:3:"
+msgstr "error: usp_get_form_id: 3:"
+
+#: inc/usp-forms.php:1400
+msgid "Disabled"
+msgstr "handicappet"
+
+#: inc/usp-forms.php:1401
+msgid "Enabled"
+msgstr "Aktiveret"
+
+#: inc/usp-forms.php:1402 inc/usp-about.php:64
+msgid "-- n/a --"
+msgstr "- n / a -"
+
+#: inc/usp-dashboard.php:40
+msgid "Submitted posts waiting to be published:"
+msgstr "Indsendte indlæg venter på at blive offentliggjort:"
+
+#: inc/usp-dashboard.php:53
+msgid " Scheduled: "
+msgstr " Planlagt:"
+
+#: inc/usp-dashboard.php:62 inc/usp-functions.php:1790
+msgid "Edit this post"
+msgstr "Rediger dette indlæg"
+
+#: inc/usp-dashboard.php:72
+msgid " submitted by "
+msgstr " indsendt af"
+
+#: inc/usp-dashboard.php:72
+msgid " on "
+msgstr " på"
+
+#: inc/usp-dashboard.php:83
+msgid "No submitted posts waiting to be published."
+msgstr "Ingen indsendte indlæg venter på at blive offentliggjort."
+
+#: inc/usp-dashboard.php:93
+msgid "Submitted Post Queue"
+msgstr "Indsendt postkø"
+
+#: inc/usp-dashboard.php:137
+msgid "Submitted"
+msgstr "indsendt"
+
+#: inc/usp-widget.php:16
+msgid "Display any USP Form as a widget"
+msgstr "Vis enhver USP-formular som en widget"
+
+#: inc/usp-widget.php:17
+msgid "USP Form Widget"
+msgstr "USP Form Widget"
+
+#: inc/usp-widget.php:83
+msgid "Widget Title"
+msgstr "Widget Title"
+
+#: inc/usp-widget.php:86
+msgid "Enter an optional title for this widget (useful when using multiple form widgets). Displayed only on the widget panel here in the Admin Area."
+msgstr "Indtast en valgfri titel for denne widget (nyttig, når du bruger flere formular widgets). Vises kun på widgetpanelet her i Administrationsområdet."
+
+#: inc/usp-widget.php:90
+msgid "USP Form ID"
+msgstr "USP Form ID"
+
+#: inc/usp-widget.php:93
+msgid "Enter the ID of a published USP Form. Make sure the form is published and not saved as a draft or pending. Check the form&rsquo;s shortcode for its ID. (Required)"
+msgstr "Indtast ID for en offentliggjort USP-formular. Sørg for, at formularen er offentliggjort og ikke gemt som et udkast eller i afventning. Kontroller formularens kortkode for dens ID. (Påkrævet)"
+
+#: inc/usp-widget.php:97
+msgid "Custom CSS Classes"
+msgstr "Brugerdefinerede CSS-klasser"
+
+#: inc/usp-widget.php:100
+msgid "Optional custom classes for the form. Use commas to separate each class, like so: class1,class2,class3"
+msgstr "Valgfri brugerdefinerede klasser til formularen. Brug kommaer til at adskille hver klasse, som sådan: klasse1, klasse2, klasse3"
+
+#: inc/usp-widget.php:104
+msgid "Limit Form to Post/Page"
+msgstr "Begræns formular til post / side"
+
+#: inc/usp-widget.php:107
+msgid "Enter the ID of a specific post or page; leave blank to display on all posts/pages. Separate multiple IDs with a comma."
+msgstr "Indtast ID for et bestemt indlæg eller en side; Forlad blank for at vise på alle indlæg / sider. Adskil flere id'er med et komma."
+
+#: inc/usp-about.php:14 inc/usp-tools.php:149 inc/usp-tools.php:191
+msgid "and"
+msgstr "og"
+
+#: inc/usp-about.php:25
+msgid "Donate Link:"
+msgstr "Donér Link:"
+
+#: inc/usp-about.php:26
+msgid "Minimum WP Version:"
+msgstr "Minimum WP Version:"
+
+#: inc/usp-about.php:27
+msgid "Tested up to:"
+msgstr "Testet op til:"
+
+#: inc/usp-about.php:49
+msgid "MultiSite Installation"
+msgstr "MultiSite Installation"
+
+#: inc/usp-about.php:49
+msgid "Standard Installation"
+msgstr "Standard installation"
+
+#: inc/usp-about.php:58 inc/usp-about.php:59
+msgid "Enabled: "
+msgstr "Aktiveret:"
+
+#: inc/usp-about.php:58 inc/usp-about.php:211 inc/usp-about.php:212
+msgid " seconds"
+msgstr " sekunder"
+
+#: inc/usp-about.php:59
+msgid " days"
+msgstr " dage"
+
+#: inc/usp-about.php:66
+msgid "Enabled: no limit"
+msgstr "Aktiveret: ingen grænse"
+
+#: inc/usp-about.php:70
+msgid " (FTP/SSH access only)"
+msgstr " (Kun FTP / SSH-adgang)"
+
+#: inc/usp-about.php:70
+msgid " (Direct access allowed)"
+msgstr " (Direkte adgang tilladt)"
+
+#: inc/usp-about.php:73
+msgid "WordPress Version:"
+msgstr "WordPress Version:"
+
+#: inc/usp-about.php:74
+msgid "Installation Type:"
+msgstr "Installationstype:"
+
+#: inc/usp-about.php:75
+msgid "Update Method:"
+msgstr "Opdateringsmetode:"
+
+#: inc/usp-about.php:76
+msgid "WP Memory Limit:"
+msgstr "WP-hukommelsesgrænse:"
+
+#: inc/usp-about.php:77
+msgid "Site Address (URL):"
+msgstr "Webstedets adresse (URL):"
+
+#: inc/usp-about.php:78
+msgid "WordPress Address (URL):"
+msgstr "WordPress-adresse (URL):"
+
+#: inc/usp-about.php:79
+msgid "Language:"
+msgstr "Sprog:"
+
+#: inc/usp-about.php:80
+msgid "Locale:"
+msgstr "Landestandard:"
+
+#: inc/usp-about.php:81
+msgid "WP Post Revisions:"
+msgstr "WP Post Revisions:"
+
+#: inc/usp-about.php:82
+msgid "WP Autosave Interval:"
+msgstr "WP Autosave Interval:"
+
+#: inc/usp-about.php:83
+msgid "WP Empty Trash Interval:"
+msgstr "WP Empty Trash Interval:"
+
+#: inc/usp-about.php:84
+msgid "Current Theme:"
+msgstr "Nuværende tema:"
+
+#: inc/usp-about.php:85
+msgid "WordPress Time:"
+msgstr "WordPress Time:"
+
+#: inc/usp-about.php:86
+msgid "Active Plugins:"
+msgstr "Aktive plugins:"
+
+#: inc/usp-about.php:87
+msgid "WP Content Directory:"
+msgstr "WP Content Directory:"
+
+#: inc/usp-about.php:88
+msgid "WP Uploads Directory:"
+msgstr "WP Uploads Directory:"
+
+#: inc/usp-about.php:89
+msgid "WP Language Directory:"
+msgstr "WP Language Directory:"
+
+#: inc/usp-about.php:90
+msgid "WP Temp Directory:"
+msgstr "WP Temp Directory:"
+
+#: inc/usp-about.php:91
+msgid "Default Theme:"
+msgstr "Standardtema:"
+
+#: inc/usp-about.php:94 inc/usp-about.php:167
+msgid "Adminstrator-level access required to view WordPress information."
+msgstr "Administrator-niveau adgang til at få vist WordPress-oplysninger."
+
+#: inc/usp-about.php:108 inc/usp-about.php:109
+msgid "Defined"
+msgstr "defineret"
+
+#: inc/usp-about.php:108 inc/usp-about.php:109
+msgid " (not displayed for security reasons)"
+msgstr " (vises ikke af sikkerhedsmæssige årsager)"
+
+#: inc/usp-about.php:112
+msgid "ABSPATH:"
+msgstr "ABSPATH:"
+
+#: inc/usp-about.php:113
+msgid "SUBDOMAIN_INSTALL:"
+msgstr "SUBDOMAIN_INSTALL:"
+
+#: inc/usp-about.php:114
+msgid "WPMU_PLUGIN_DIR:"
+msgstr "WPMU_PLUGIN_DIR:"
+
+#: inc/usp-about.php:115
+msgid "WP_ALLOW_REPAIR:"
+msgstr "WP_ALLOW_REPAIR:"
+
+#: inc/usp-about.php:116
+msgid "COOKIE_DOMAIN:"
+msgstr "COOKIE_DOMAIN:"
+
+#: inc/usp-about.php:117
+msgid "VHOST:"
+msgstr "vhost:"
+
+#: inc/usp-about.php:119
+msgid "WP_CACHE:"
+msgstr "WP_CACHE:"
+
+#: inc/usp-about.php:120
+msgid "WP_CRON_LOCK_TIMEOUT:"
+msgstr "WP_CRON_LOCK_TIMEOUT:"
+
+#: inc/usp-about.php:121
+msgid "DISABLE_WP_CRON:"
+msgstr "DISABLE_WP_CRON:"
+
+#: inc/usp-about.php:122
+msgid "ALTERNATE_WP_CRON:"
+msgstr "ALTERNATE_WP_CRON:"
+
+#: inc/usp-about.php:123
+msgid "SAVEQUERIES:"
+msgstr "SAVEQUERIES:"
+
+#: inc/usp-about.php:124
+msgid "MEDIA_TRASH:"
+msgstr "MEDIA_TRASH:"
+
+#: inc/usp-about.php:126
+msgid "CUSTOM_USER_META_TABLE:"
+msgstr "CUSTOM_USER_META_TABLE:"
+
+#: inc/usp-about.php:127
+msgid "CUSTOM_USER_TABLE:"
+msgstr "CUSTOM_USER_TABLE:"
+
+#: inc/usp-about.php:128
+msgid "NOBLOGREDIRECT:"
+msgstr "NOBLOGREDIRECT:"
+
+#: inc/usp-about.php:129
+msgid "WP_ACCESSIBLE_HOSTS:"
+msgstr "WP_ACCESSIBLE_HOSTS:"
+
+#: inc/usp-about.php:130
+msgid "WP_HTTP_BLOCK_EXTERNAL:"
+msgstr "WP_HTTP_BLOCK_EXTERNAL:"
+
+#: inc/usp-about.php:131
+msgid "FS_METHOD:"
+msgstr "FS_METHOD:"
+
+#: inc/usp-about.php:132
+msgid "DO_NOT_UPGRADE_GLOBAL_TABLES:"
+msgstr "DO_NOT_UPGRADE_GLOBAL_TABLES:"
+
+#: inc/usp-about.php:134
+msgid "WP_PROXY_HOST:"
+msgstr "WP_PROXY_HOST:"
+
+#: inc/usp-about.php:135
+msgid "WP_PROXY_PORT:"
+msgstr "WP_PROXY_PORT:"
+
+#: inc/usp-about.php:136
+msgid "WP_PROXY_USERNAME:"
+msgstr "WP_PROXY_USERNAME:"
+
+#: inc/usp-about.php:137
+msgid "WP_PROXY_PASSWORD:"
+msgstr "WP_PROXY_PASSWORD:"
+
+#: inc/usp-about.php:139
+msgid "FTP_BASE:"
+msgstr "FTP_BASE:"
+
+#: inc/usp-about.php:140
+msgid "FTP_CONTENT_DIR:"
+msgstr "FTP_CONTENT_DIR:"
+
+#: inc/usp-about.php:141
+msgid "FTP_PLUGIN_DIR:"
+msgstr "FTP_PLUGIN_DIR:"
+
+#: inc/usp-about.php:142
+msgid "FTP_PUBKEY:"
+msgstr "FTP_PUBKEY:"
+
+#: inc/usp-about.php:143
+msgid "FTP_PRIKEY:"
+msgstr "FTP_PRIKEY:"
+
+#: inc/usp-about.php:144
+msgid "FTP_USER:"
+msgstr "FTP_USER:"
+
+#: inc/usp-about.php:145
+msgid "FTP_PASS:"
+msgstr "FTP_PASS:"
+
+#: inc/usp-about.php:146
+msgid "FTP_HOST:"
+msgstr "FTP_HOST:"
+
+#: inc/usp-about.php:147
+msgid "FTP_SSL:"
+msgstr "FTP_SSL:"
+
+#: inc/usp-about.php:149
+msgid "WP_DEBUG:"
+msgstr "WP_DEBUG:"
+
+#: inc/usp-about.php:150
+msgid "WP_DEBUG_LOG:"
+msgstr "WP_DEBUG_LOG:"
+
+#: inc/usp-about.php:151
+msgid "WP_DEBUG_DISPLAY:"
+msgstr "WP_DEBUG_DISPLAY:"
+
+#: inc/usp-about.php:152
+msgid "SCRIPT_DEBUG:"
+msgstr "SCRIPT_DEBUG:"
+
+#: inc/usp-about.php:154
+msgid "ENFORCE_GZIP:"
+msgstr "ENFORCE_GZIP:"
+
+#: inc/usp-about.php:155
+msgid "COMPRESS_CSS:"
+msgstr "COMPRESS_CSS:"
+
+#: inc/usp-about.php:156
+msgid "COMPRESS_SCRIPTS:"
+msgstr "COMPRESS_SCRIPTS:"
+
+#: inc/usp-about.php:157
+msgid "CONCATENATE_SCRIPTS:"
+msgstr "CONCATENATE_SCRIPTS:"
+
+#: inc/usp-about.php:159
+msgid "DISALLOW_FILE_MODS:"
+msgstr "DISALLOW_FILE_MODS:"
+
+#: inc/usp-about.php:160
+msgid "DISALLOW_FILE_EDIT:"
+msgstr "DISALLOW_FILE_EDIT:"
+
+#: inc/usp-about.php:161
+msgid "DISALLOW_UNFILTERED_HTML:"
+msgstr "DISALLOW_UNFILTERED_HTML:"
+
+#: inc/usp-about.php:162
+msgid "ALLOW_UNFILTERED_UPLOADS:"
+msgstr "ALLOW_UNFILTERED_UPLOADS:"
+
+#: inc/usp-about.php:163
+msgid "FORCE_SSL_LOGIN:"
+msgstr "FORCE_SSL_LOGIN:"
+
+#: inc/usp-about.php:164
+msgid "FORCE_SSL_ADMIN:"
+msgstr "FORCE_SSL_ADMIN:"
+
+#: inc/usp-about.php:193
+msgid "Server Operating System:"
+msgstr "Server operativsystem:"
+
+#: inc/usp-about.php:194
+msgid "Server Software:"
+msgstr "Server Software:"
+
+#: inc/usp-about.php:195
+msgid "Server Signature:"
+msgstr "Server Signatur:"
+
+#: inc/usp-about.php:196
+msgid "Server Name:"
+msgstr "Server navn:"
+
+#: inc/usp-about.php:197
+msgid "Server Address:"
+msgstr "Serveradresse:"
+
+#: inc/usp-about.php:198
+msgid "Server Port:"
+msgstr "Serverport:"
+
+#: inc/usp-about.php:199
+msgid "Server Gateway:"
+msgstr "Server Gateway:"
+
+#: inc/usp-about.php:200
+msgid "PHP Version:"
+msgstr "PHP Version:"
+
+#: inc/usp-about.php:201
+msgid "Zend Version:"
+msgstr "Send version:"
+
+#: inc/usp-about.php:202
+msgid "Platform:"
+msgstr "Platform:"
+
+#: inc/usp-about.php:203
+msgid "Loaded Extensions:"
+msgstr "Loaded Extensions:"
+
+#: inc/usp-about.php:204
+msgid "MySQL Server:"
+msgstr "MySQL Server:"
+
+#: inc/usp-about.php:205
+msgid "Memory Limit:"
+msgstr "Hukommelsesgrænse:"
+
+#: inc/usp-about.php:206
+msgid "Server Time:"
+msgstr "Server Tid:"
+
+#: inc/usp-about.php:207
+msgid "Include Path:"
+msgstr "Inkluder sti:"
+
+#: inc/usp-about.php:208
+msgid "Display Errors:"
+msgstr "Vis fejl:"
+
+#: inc/usp-about.php:209
+msgid "Register Globals:"
+msgstr "Tilmeld Globals:"
+
+#: inc/usp-about.php:210
+msgid "Max Post Size:"
+msgstr "Max poststørrelse:"
+
+#: inc/usp-about.php:211
+msgid "Max Input Time:"
+msgstr "Maks. Indgangstid:"
+
+#: inc/usp-about.php:212
+msgid "Max Execution Time:"
+msgstr "Maks. Gennemførelsestid:"
+
+#: inc/usp-about.php:213
+msgid "File Uploads:"
+msgstr "Filoverførsler:"
+
+#: inc/usp-about.php:214
+msgid "Temp Uploads Directory:"
+msgstr "Temp Uploads Directory:"
+
+#: inc/usp-about.php:215
+msgid "Max Upload File Size:"
+msgstr "Max Upload Filstørrelse:"
+
+#: inc/usp-about.php:216
+msgid "Multibyte Function Overload:"
+msgstr "Multibyte Funktions Overbelastning:"
+
+#: inc/usp-about.php:217
+msgid "Short Open Tag:"
+msgstr "Kort åbent tag:"
+
+#: inc/usp-about.php:218
+msgid "ASP Tags:"
+msgstr "ASP Tags:"
+
+#: inc/usp-about.php:219
+msgid "Zend Compatibility:"
+msgstr "Send kompatibilitet:"
+
+#: inc/usp-about.php:220
+msgid "Remote Open Files:"
+msgstr "Fjern åbne filer:"
+
+#: inc/usp-about.php:221
+msgid "Remote Include Files:"
+msgstr "Fjern omfatter filer:"
+
+#: inc/usp-about.php:222
+msgid "PHP Safe Mode:"
+msgstr "PHP Safe Mode:"
+
+#: inc/usp-about.php:223
+msgid "Open Basedir:"
+msgstr "Åben Baseret:"
+
+#: inc/usp-about.php:224
+msgid "Disabled Functions:"
+msgstr "Deaktiverede funktioner:"
+
+#: inc/usp-about.php:225
+msgid "Disabled Classes:"
+msgstr "Handicappede klasser:"
+
+#: inc/usp-about.php:228 inc/usp-about.php:267
+msgid "Adminstrator-level access required to view Server information."
+msgstr "Administrator-niveau adgang er nødvendig for at se Server information."
+
+#: inc/usp-about.php:256
+msgid "Login/Username:"
+msgstr "Log ind / Brugernavn:"
+
+#: inc/usp-about.php:257
+msgid "Display Name:"
+msgstr "Visningsnavn:"
+
+#: inc/usp-about.php:258
+msgid "Email Address:"
+msgstr "Email adresse:"
+
+#: inc/usp-about.php:259
+msgid "IP Address:"
+msgstr "IP-adresse:"
+
+#: inc/usp-about.php:260
+msgid "User Agent:"
+msgstr "Brugeragent:"
+
+#: inc/usp-about.php:261
+msgid "Remote Address:"
+msgstr "Fjernadresse:"
+
+#: inc/usp-about.php:262
+msgid "Remote Port:"
+msgstr "Fjernport:"
+
+#: inc/usp-about.php:263
+msgid "Server Protocol:"
+msgstr "Serverprotokol:"
+
+#: inc/usp-about.php:264
+msgid "HTTP Connection:"
+msgstr "HTTP-forbindelse:"
+
+#: inc/usp-options.php:9
+msgid "WP&rsquo;s"
+msgstr "WP & rsquo; s"
+
+#: inc/usp-options.php:9 inc/usp-options.php:13
+msgid "function"
+msgstr "fungere"
+
+#: inc/usp-options.php:13
+msgid "PHP&rsquo;s"
+msgstr "PHP & rsquo; s"
+
+#: inc/usp-options.php:17
+msgid "Disable all email alerts"
+msgstr "Deaktiver alle e-mail alarmer"
+
+#: inc/usp-options.php:27
+msgid "Plain-text format"
+msgstr "Almindeligt tekstformat"
+
+#: inc/usp-options.php:31
+msgid "HTML format"
+msgstr "HTML-format"
+
+#: inc/usp-options.php:41
+msgid "Regular WP Posts"
+msgstr "Regelmæssige WP-indlæg"
+
+#: inc/usp-options.php:41
+msgid "(default)"
+msgstr "(Standard)"
+
+#: inc/usp-options.php:45
+msgid "Regular WP Pages"
+msgstr "Regelmæssige WP-sider"
+
+#: inc/usp-options.php:49 inc/usp-posts.php:40 inc/usp-posts.php:52
+msgid "USP Posts"
+msgstr "USP Stillinger"
+
+#: inc/usp-options.php:49
+msgid "(see related setting, &ldquo;Slug for USP Post&rdquo;)"
+msgstr "(se relateret indstilling, & ldquo; Slug for USP Post & rdquo;)"
+
+#: inc/usp-options.php:53
+msgid "Existing Post Type"
+msgstr "Eksisterende posttype"
+
+#: inc/usp-options.php:53
+msgid "(see related setting, &ldquo;Slug for Existing Post Type&rdquo;)"
+msgstr "(se relateret indstilling, & ldquo; Slug for eksisterende posttype & rdquo;)"
+
+#: inc/usp-options.php:63 inc/usp-options.php:77
+msgid "Dropdown/select menu"
+msgstr "Dropdown / vælg menu"
+
+#: inc/usp-options.php:67 inc/usp-options.php:81
+msgid "Checkboxes"
+msgstr "afkrydsningsfelter"
+
+#: inc/usp-options.php:85
+msgid "Text input field"
+msgstr "Tekstindtastningsfelt"
+
+#: inc/usp-options.php:95
+msgid "Name, ascending (default)"
+msgstr "Navn, stigende (standard)"
+
+#: inc/usp-options.php:99
+msgid "Name, descending"
+msgstr "Navn, faldende"
+
+#: inc/usp-options.php:103
+msgid "Tag ID, ascending"
+msgstr "Tag ID, stigende"
+
+#: inc/usp-options.php:107
+msgid "Tag ID, descending"
+msgstr "Tag-ID, faldende"
+
+#: inc/usp-options.php:111
+msgid "Count, ascending"
+msgstr "Count, stigende"
+
+#: inc/usp-options.php:115
+msgid "Count, descending"
+msgstr "Count, descending"
+
+#: inc/usp-options.php:125
+msgid "Super simple style (default)"
+msgstr "Super enkel stil (standard)"
+
+#: inc/usp-options.php:129
+msgid "Clean minimal style"
+msgstr "Rens minimal stil"
+
+#: inc/usp-options.php:133
+msgid "Smaller form style"
+msgstr "Mindre form stil"
+
+#: inc/usp-options.php:137
+msgid "Larger form style"
+msgstr "Større formular stil"
+
+#: inc/usp-options.php:141
+msgid "Define custom style"
+msgstr "Definer brugerdefineret stil"
+
+#: inc/usp-options.php:145
+msgid "Disable styles"
+msgstr "Deaktiver stilarter"
+
+#: inc/usp-options.php:155
+msgid "Before post content"
+msgstr "Før indlægsindhold"
+
+#: inc/usp-options.php:159
+msgid "After post content"
+msgstr "Efter indlægsindhold"
+
+#: inc/usp-options.php:163
+msgid "Do not auto-display images"
+msgstr "Vis ikke automatisk billeder"
+
+#: inc/usp-options.php:173
+msgid "Thumbnail (default)"
+msgstr "Miniature (standard)"
+
+#: inc/usp-options.php:177
+msgid "Medium"
+msgstr "Medium"
+
+#: inc/usp-options.php:181
+msgid "Large"
+msgstr "Stor"
+
+#: inc/usp-options.php:185
+msgid "Full"
+msgstr "Fuld"
+
+#: inc/usp-options.php:195
+msgid "Version 1 (Original reCAPTCHA)"
+msgstr "Version 1 (Original reCAPTCHA)"
+
+#: inc/usp-options.php:199
+msgid "Version 2 (noCAPTCHA reCAPTCHA)"
+msgstr "Version 2 (noCAPTCHA reCAPTCHA)"
+
+#: inc/usp-shortcodes.php:594
+msgid "File uploads not allowed. Please check your settings or contact the site administrator."
+msgstr "Filoverførsler er ikke tilladt. Tjek venligst dine indstillinger eller kontakt webstedsadministratoren."
+
+#: inc/usp-shortcodes.php:638 inc/usp-login.php:120
+msgid "Remember me"
+msgstr "Husk mig"
+
+#: inc/usp-shortcodes.php:902
+msgid "Show/hide terms"
+msgstr "Vis / skjul udtryk"
+
+#: inc/usp-shortcodes.php:903
+msgid "Put terms here."
+msgstr "Sæt betingelser her."
+
+#: inc/usp-shortcodes.php:959
+msgid "Email Alert from Site Name"
+msgstr "Email Alert fra Site Name"
+
+#: inc/usp-shortcodes.php:1029
+msgid "error:usp_form:1:"
+msgstr "error: usp_form: 1:"
+
+#: inc/usp-posts.php:41
+msgid "USP Post"
+msgstr "USP Post"
+
+#: inc/usp-posts.php:43
+msgid "Add New USP Post"
+msgstr "Tilføj nyt USP-indlæg"
+
+#: inc/usp-posts.php:44
+msgid "Edit USP Post"
+msgstr "Rediger USP Post"
+
+#: inc/usp-posts.php:45
+msgid "New USP Post"
+msgstr "Ny USP Post"
+
+#: inc/usp-posts.php:46
+msgid "View USP Post"
+msgstr "Se USP Post"
+
+#: inc/usp-posts.php:47
+msgid "All USP Posts"
+msgstr "Alle USP-indlæg"
+
+#: inc/usp-posts.php:48
+msgid "Search USP Posts"
+msgstr "Søg på USP-indlæg"
+
+#: inc/usp-posts.php:49
+msgid "No USP Posts found"
+msgstr "Ingen USP-indlæg fundet"
+
+#: inc/usp-posts.php:50
+msgid "No USP Posts found in Trash"
+msgstr "Ingen USP-indlæg fundet i papirkurven"
+
+#: inc/usp-posts.php:51
+msgid "Parent USP Post:"
+msgstr "Forældre USP Post:"
+
+#: inc/usp-posts.php:56
+msgid "USP Post Types"
+msgstr "USP posttyper"
+
+#: inc/usp-posts.php:133
+msgid "This is an example of a custom USP Post. "
+msgstr "Dette er et eksempel på en brugerdefineret USP-indlæg."
+
+#: inc/usp-posts.php:134
+msgid "To delete this post, disable the option \"Auto-generate post demo\" (Advanced settings tab) and then delete as normal. "
+msgstr "For at slette dette indlæg skal du deaktivere indstillingen \"Automatisk generering af postdemo\" (fanen Avancerede indstillinger) og derefter slette som normalt."
+
+#: inc/usp-posts.php:135
+msgid "To restore the demo post, re-enable the auto-generate option."
+msgstr "For at genoprette demo-indlægget skal du aktivere alternativet automatisk generering igen."
+
+#: inc/usp-posts.php:137
+msgid "This demo includes a few of the plugin&rsquo;s shortcodes. Visit this post on the front-end to see it in action!"
+msgstr "Denne demo indeholder et par af pluginets kortkoder. Besøg dette indlæg på forsiden for at se det i aktion!"
+
+#: inc/usp-posts.php:140
+msgid "Hello,"
+msgstr "Hej,"
+
+#: inc/usp-posts.php:140
+msgid "! Here is your information:"
+msgstr "! Her er dine oplysninger:"
+
+#: inc/usp-posts.php:143
+msgid "ID:"
+msgstr "ID:"
+
+#: inc/usp-posts.php:144
+msgid "Role:"
+msgstr "rolle:"
+
+#: inc/usp-posts.php:145
+msgid "Email:"
+msgstr "E-mail:"
+
+#: inc/usp-posts.php:148
+msgid "Display content based on user role"
+msgstr "Vis indhold baseret på brugerrolle"
+
+#: inc/usp-posts.php:149
+msgid "Content for Admins only."
+msgstr "Kun indhold til administrator."
+
+#: inc/usp-posts.php:151
+msgid "Display content for any logged-in user"
+msgstr "Vis indhold til en logget bruger"
+
+#: inc/usp-posts.php:152
+msgid "Content for logged-in users only."
+msgstr "Indhold kun for indlogget brugere."
+
+#: inc/usp-posts.php:154
+msgid "Display content for visitors"
+msgstr "Vis indhold til besøgende"
+
+#: inc/usp-posts.php:155
+msgid "Sorry, you are logged in!"
+msgstr "Beklager, du er logget ind!"
+
+#: inc/usp-posts.php:155
+msgid "Content for visitors (not logged in) only."
+msgstr "Indhold for besøgende (ikke logget ind)."
+
+#: inc/usp-posts.php:211
+msgid "USP Custom Fields"
+msgstr "USP brugerdefinerede felter"
+
+#: inc/usp-posts.php:278
+msgid "Value"
+msgstr "Værdi"
+
+#: inc/usp-posts.php:285 inc/usp-posts.php:286 inc/usp-posts.php:287
+#: inc/usp-contact.php:37 inc/usp-custom.php:579 inc/usp-custom.php:644
+#: inc/usp-process.php:2079 inc/usp-process.php:2082 inc/usp-process.php:2087
+msgid "undefined"
+msgstr "undefined"
+
+#: inc/usp-tools.php:11
+msgid "To restore USP Pro default settings:"
+msgstr "Sådan gendannes standardindstillingerne for USP Pro:"
+
+#: inc/usp-tools.php:13
+msgid "Check the box below and click &ldquo;Save Changes&rdquo;."
+msgstr "Marker afkrydsningsfeltet herunder og klik på & ldquo; Gem ændringer & rdquo ;."
+
+#: inc/usp-tools.php:14
+msgid "Deactivate your USP License"
+msgstr "Deaktiver din USP-licens"
+
+#: inc/usp-tools.php:14
+msgid "(make a note of your License Key before deactivation; you will need it to reactivate the plugin)."
+msgstr "(noter din licensnøgle før deaktivering, du skal bruge den til at genaktivere plugin)."
+
+#: inc/usp-tools.php:15
+msgid "Deactivate and then reactivate the plugin to make it so."
+msgstr "Deaktiver og genaktiver derefter plugin'et for at gøre det sådan."
+
+#: inc/usp-tools.php:17
+msgid "Note: "
+msgstr "Bemærk:"
+
+#: inc/usp-tools.php:17
+msgid "restoring default settings does not affect any submitted post data or existing USP Forms."
+msgstr "Gendannelse af standardindstillinger påvirker ikke nogen indsendte postdata eller eksisterende USP-formularer."
+
+#: inc/usp-tools.php:31
+msgid "Show/Hide Backup &amp; Restore"
+msgstr "Vis / Skjul sikkerhedskopiering & amp; Gendan"
+
+#: inc/usp-tools.php:31
+msgid "Backup &amp; Restore"
+msgstr "Backup & amp; Gendan"
+
+#: inc/usp-tools.php:34
+msgid "Show/Hide USP Shortcodes"
+msgstr "Vis / Skjul USP-kortkoder"
+
+#: inc/usp-tools.php:34
+msgid "USP Shortcodes"
+msgstr "USP-kortkoder"
+
+#: inc/usp-tools.php:37
+msgid "Show/Hide USP Template Tags"
+msgstr "Vis / Skjul USP Template Tags"
+
+#: inc/usp-tools.php:37
+msgid "USP Template Tags"
+msgstr "USP Template Tags"
+
+#: inc/usp-tools.php:40
+msgid "Show/Hide Helpful Resources"
+msgstr "Vis / Skjul hjælpsomme ressourcer"
+
+#: inc/usp-tools.php:40
+msgid "Helpful Resources"
+msgstr "Nyttige ressourcer"
+
+#: inc/usp-tools.php:43
+msgid "Show/Hide Tips &amp; Tricks"
+msgstr "Vis / Skjul Tips & amp; Tricks"
+
+#: inc/usp-tools.php:43
+msgid "Tips &amp; Tricks"
+msgstr "Tips & amp; Tricks"
+
+#: inc/usp-tools.php:58
+msgid "USP Pro provides shortcodes that make it easy to display forms and submitted content virtually anywhere. "
+msgstr "USP Pro giver kortnumre, der gør det nemt at vise formularer og indsendte indhold næsten overalt."
+
+#: inc/usp-tools.php:59 inc/usp-tools.php:76
+msgid "To get started,"
+msgstr "For at komme i gang,"
+
+#: inc/usp-tools.php:59
+msgid "learn how to use Shortcodes"
+msgstr "lære at bruge kortkoder"
+
+#: inc/usp-tools.php:60
+msgid "and then include USP Shortcodes as needed in your Posts and Pages."
+msgstr "og derefter medtage USP-kortkoder efter behov i dine indlæg og sider."
+
+#: inc/usp-tools.php:61
+msgid "Check out the complete list of USP Shortcodes &raquo;"
+msgstr "Tjek den komplette liste over USP Shortcodes & raquo;"
+
+#: inc/usp-tools.php:62
+msgid "In addition to those provided by USP Pro, there are numerous"
+msgstr "Ud over dem, der leveres af USP Pro, er der mange"
+
+#: inc/usp-tools.php:62
+msgid "default WP shortcodes"
+msgstr "standard WP-kortkoder"
+
+#: inc/usp-tools.php:63
+msgid "as well as any shortcodes that may be included with your theme and/or plugin(s). Also, FYI, more information about shortcodes may be found in the USP source code (as inline comments), "
+msgstr "samt eventuelle kortkoder, der kan være inkluderet i dit tema og / eller plugin (r). Også FYI, flere oplysninger om kortkoder findes i USP-kildekoden (som inline-kommentarer),"
+
+#: inc/usp-tools.php:64
+msgid "specifically see"
+msgstr "specifikt se"
+
+#: inc/usp-tools.php:75
+msgid "USP Pro provides template tags for displaying submitted post content, author information, file uploads and more. "
+msgstr "USP Pro leverer skabelonmærker til visning af indgivet postindhold, forfatteroplysninger, filoploader og mere."
+
+#: inc/usp-tools.php:76
+msgid "learn how to use Template Tags"
+msgstr "lær hvordan du bruger skabelonmærker"
+
+#: inc/usp-tools.php:77
+msgid "and then include USP Template Tags as needed in your theme template."
+msgstr "og derefter medtage USP Template Tags som nødvendigt i din templateskabel."
+
+#: inc/usp-tools.php:78
+msgid "Check out the complete list of USP Template Tags &raquo;"
+msgstr "Tjek den komplette liste over USP Template Tags & raquo;"
+
+#: inc/usp-tools.php:79
+msgid "In addition to those provided by USP Pro, there are a great many template tags provided by WordPress, making it possible to display just about any information anywhere on your site. "
+msgstr "Ud over dem, der leveres af USP Pro, er der mange skabeloner, der leveres af WordPress, hvilket gør det muligt at vise næsten enhver information, hvor som helst på dit websted."
+
+#: inc/usp-tools.php:80
+msgid "Also, FYI, more information about each of these template tags may be found in the USP source code (as inline comments), specifically see"
+msgstr "Også, FYI, mere information om hver af disse skabeloner kan findes i USP kildekoden (som inline kommentarer), specifikt se"
+
+#: inc/usp-tools.php:92
+msgid "Here are some useful resources for working with USP Pro and WordPress."
+msgstr "Her er nogle nyttige ressourcer til at arbejde med USP Pro og WordPress."
+
+#: inc/usp-tools.php:94
+msgid "Useful resources and places to get help"
+msgstr "Nyttige ressourcer og steder at få hjælp"
+
+#: inc/usp-tools.php:96
+msgid "Video Tutorials"
+msgstr "Video Tutorials"
+
+#: inc/usp-tools.php:97
+msgid "USP Pro Docs"
+msgstr "USP Pro Docs"
+
+#: inc/usp-tools.php:98
+msgid "USP Pro Tutorials"
+msgstr "USP Pro Tutorials"
+
+#: inc/usp-tools.php:99
+msgid "USP Pro Forum"
+msgstr "USP Pro Forum"
+
+#: inc/usp-tools.php:100
+msgid "USP Pro News"
+msgstr "USP Pro News"
+
+#: inc/usp-tools.php:101
+msgid "Bug reports, help requests, and feedback"
+msgstr "Fejlrapporter, hjælpeanmodninger og feedback"
+
+#: inc/usp-tools.php:102
+msgid "Log in to your account for current downloads"
+msgstr "Log ind på din konto for aktuelle downloads"
+
+#: inc/usp-tools.php:103
+msgid "Where to Get Help with WordPress"
+msgstr "Hvor kan man få hjælp til WordPress"
+
+#: inc/usp-tools.php:106
+msgid "Key resources at the WordPress Codex"
+msgstr "Nøgle ressourcer på WordPress Codex"
+
+#: inc/usp-tools.php:108
+msgid "WP Theme Templates"
+msgstr "WP Tema Skabeloner"
+
+#: inc/usp-tools.php:109
+msgid "WP Widgets"
+msgstr "WP Widgets"
+
+#: inc/usp-tools.php:110
+msgid "WP Shortcodes"
+msgstr "WP-kortkoder"
+
+#: inc/usp-tools.php:111
+msgid "WP Template Tags"
+msgstr "WP Template Tags"
+
+#: inc/usp-tools.php:112
+msgid "WP Quicktags"
+msgstr "WP Quicktags"
+
+#: inc/usp-tools.php:113
+msgid "WP Custom Post Types"
+msgstr "WP brugerdefinerede posttyper"
+
+#: inc/usp-tools.php:114
+msgid "The WordPress Loop"
+msgstr "WordPress Loop"
+
+#: inc/usp-tools.php:115
+msgid "WP Troubleshooting Guide"
+msgstr "WP Fejlfinding Guide"
+
+#: inc/usp-tools.php:116
+msgid "WP Help Forum"
+msgstr "WP Hjælp Forum"
+
+#: inc/usp-tools.php:119
+msgid "More WordPress plugins by Jeff Starr"
+msgstr "Flere WordPress plugins af Jeff Starr"
+
+#: inc/usp-tools.php:121
+msgid "BBQ Pro - Advanced WordPress Firewall"
+msgstr "BBQ Pro - Avanceret WordPress Firewall"
+
+#: inc/usp-tools.php:122
+msgid "SES Pro - Simple Ajax Signup Forms"
+msgstr "SES Pro - Simple Ajax Tilmeldingsskemaer"
+
+#: inc/usp-tools.php:125
+msgid "WordPress books and resources by Jeff Starr"
+msgstr "WordPress bøger og ressourcer af Jeff Starr"
+
+#: inc/usp-tools.php:127
+msgid "Digging Into WordPress, by Chris Coyier and Jeff Starr"
+msgstr "Graver i WordPress, af Chris Coyier og Jeff Starr"
+
+#: inc/usp-tools.php:128
+msgid "The Tao of WordPress &ndash; Complete guide for users, admins, and everyone"
+msgstr "Tao of WordPress & ndash; Komplet guide til brugere, admins og alle"
+
+#: inc/usp-tools.php:129
+msgid "WordPress Themes In Depth &ndash; Complete guide to building awesome themes"
+msgstr "WordPress-temaer i dybden & ndash; Komplet guide til opbygning af fantastiske temaer"
+
+#: inc/usp-tools.php:130
+msgid ".htaccess made easy &ndash; Configure, optimize, and secure your site"
+msgstr ".htaccess gjort nemt & ndash; Konfigurere, optimere og sikre dit websted"
+
+#: inc/usp-tools.php:131
+msgid "Perishable Press &ndash; WordPress, Web Design, Code &amp; Tutorials"
+msgstr "Forgængelig Tryk & ndash; WordPress, Web Design, Code & amp; Vejledninger"
+
+#: inc/usp-tools.php:132
+msgid "WP-Mix &ndash; Useful code snippets for WordPress and more"
+msgstr "WP-Mix & ndash; Nyttige kodestykker til WordPress og meget mere"
+
+#: inc/usp-tools.php:145
+msgid "Here is a growing collection of useful notes, tips &amp; tricks for working with USP Pro."
+msgstr "Her er en voksende samling af nyttige noter, tips & amp; tricks til at arbejde med USP Pro."
+
+#: inc/usp-tools.php:147
+msgid "Post Type Bug Fix"
+msgstr "Post Type Bug Fix"
+
+#: inc/usp-tools.php:148
+msgid "As explained in the "
+msgstr "Som forklaret i"
+
+#: inc/usp-tools.php:148
+msgid "WP Codex"
+msgstr "WP Codex"
+
+#: inc/usp-tools.php:148
+msgid ", an extra step is required to get WordPress to recognize theme templates for custom post types "
+msgstr ", et ekstra trin er nødvendigt for at få WordPress til at genkende tema skabeloner til brugerdefinerede posttyper"
+
+#: inc/usp-tools.php:149
+msgid "(e.g.,"
+msgstr "(f.eks.,"
+
+#: inc/usp-tools.php:149
+msgid "). So if/when you get a 404 &ldquo;Not Found&rdquo; error when trying to view a custom post type "
+msgstr "). Så hvis / når du får en 404 \"Ikke fundet & rdquo; fejl, når du forsøger at se en brugerdefineret posttype"
+
+#: inc/usp-tools.php:150
+msgid "(e.g., at"
+msgstr "(fx ved"
+
+#: inc/usp-tools.php:150
+msgid "), try the well-known fix, which is to simply"
+msgstr "), prøv den velkendte løsning, som er simpelthen"
+
+#: inc/usp-tools.php:150
+msgid "visit the WP Permalinks Settings"
+msgstr "Besøg WP Permalinks Indstillinger"
+
+#: inc/usp-tools.php:151
+msgid "After doing that, things should be working normally again. If not, try clicking the &ldquo;Save Changes&rdquo; button on the Permalink Settings page, which is another reported solution."
+msgstr "Efter at have gjort det, skal tingne fungere normalt igen. Hvis ikke, prøv at klikke på & ldquo; Gem ændringer & rdquo; knappen på siden Settings Settings, som er en anden rapporteret løsning."
+
+#: inc/usp-tools.php:153
+msgid "Template Tags Best Practice"
+msgstr "Skabelonmærker Bedste praksis"
+
+#: inc/usp-tools.php:154
+msgid "When including template tags provided by a plugin or theme, it&rsquo;s good practice to precede the tag with a conditional check to make sure that the function exists. For example: "
+msgstr "Når du indbefatter skabelonmærker, der leveres af et plugin eller tema, er det god praksis at forudgå mærket med en betinget kontrol for at sikre, at funktionen eksisterer. For eksempel:"
+
+#: inc/usp-tools.php:155
+msgid "Instead of writing this:"
+msgstr "I stedet for at skrive dette:"
+
+#: inc/usp-tools.php:155
+msgid "we can write this:"
+msgstr "vi kan skrive dette:"
+
+#: inc/usp-tools.php:156
+msgid "The first method works fine, but PHP will throw an error if the plugin is not installed or otherwise available. So to avoid the site-breaking error, the second method is preferred."
+msgstr "Den første metode fungerer fint, men PHP vil smide en fejl, hvis plugin ikke er installeret eller på anden måde tilgængelig. For at undgå den site-breaking fejl, foretrækkes den anden metode."
+
+#: inc/usp-tools.php:158
+msgid "Force Forms to Clear Contents"
+msgstr "Force Forms til Ryd indholdet"
+
+#: inc/usp-tools.php:159
+msgid "If you are savvy with CSS, it is trivial to style forms however and get them to clear preceding/parent elements. If you&rsquo;re new to the game and just want a sure-fire way to get form fields to line up "
+msgstr "Hvis du er kyndig med CSS, er det imidlertid trivielt at style former og få dem til at rydde forudgående / forældreelementer. Hvis du er ny til spillet og bare vil have en sikker ild-måde at få formularfelter til at rette op på"
+
+#: inc/usp-tools.php:160
+msgid "and look right, here is a well-known snippet of HTML/CSS that you can add to any form:"
+msgstr "og se rigtigt, her er et velkendt uddrag af HTML / CSS, som du kan tilføje til enhver form:"
+
+#: inc/usp-tools.php:160
+msgid "Just add that snippet after the last item in your form. "
+msgstr "Tilføj blot det stykke efter det sidste element i din formular."
+
+#: inc/usp-tools.php:161
+msgid "It&rsquo;s not exactly best-practices design-wise, but it&rsquo;s pretty much guaranteed to do the job. Then later on you can replace the snippet with some proper CSS."
+msgstr "Det er ikke nøjagtigt best practices design-wise, men det er ret garanteret at gøre jobbet. Så senere kan du erstatte uddraget med nogle rigtige CSS."
+
+#: inc/usp-tools.php:163
+msgid "Minimum Posting Requirements"
+msgstr "Minimumskrav til udstationering"
+
+#: inc/usp-tools.php:164
+msgid "There are basically four types of USP Forms: user-registration, content posting, contact form, and combo registration/posting. The minimum form requirements (in terms of input fields) for the contact form are "
+msgstr "Der er grundlæggende fire typer af USP Forms: brugerregistrering, indholdspostering, kontaktformular og combo-registrering / postering. Minimumskravene til formularen (i form af inputfelter) for kontaktformularen er"
+
+#: inc/usp-tools.php:165
+msgid "email, subject, and content. The minimum requirements for user registration are name and email address. The minimum for content posting is the content/textarea field. For the combo registration/posting, the minimum "
+msgstr "email, emne og indhold. Minimumskravene til brugerregistrering er navn og e-mail-adresse. Minimumet for indholdsindlæggelse er feltet indhold / tekstområde. For kombinationsregistrering / udstationering, minimum"
+
+#: inc/usp-tools.php:166
+msgid "requirements are determined by the plugin settings. Likewise, other requirements may vary depending on how the plugin settings have been configured."
+msgstr "kravene bestemmes af plugin-indstillingerne. På samme måde kan andre krav variere afhængigt af, hvordan plugin-indstillingerne er konfigureret."
+
+#: inc/usp-tools.php:168
+msgid "Shortcodes in Widgets"
+msgstr "Kortkoder i Widgets"
+
+#: inc/usp-tools.php:169
+msgid "By default, shortcodes do not work when included in widgets. To make them work, just add this snippet to your theme&rsquo;s"
+msgstr "Som standard er kortkoder ikke aktive, når de er inkluderet i widgets. For at få dem til at fungere, skal du blot føje dette uddrag til dit tema & rsquo; s"
+
+#: inc/usp-tools.php:169
+msgid "file:"
+msgstr "fil:"
+
+#: inc/usp-tools.php:170
+msgid "Nothing more to do, but remember to re-add the snippet if/when you change themes."
+msgstr "Intet mere at gøre, men husk at tilføje tilføjelsen om / når du ændrer temaer."
+
+#: inc/usp-tools.php:172
+msgid "On Install, On Uninstall"
+msgstr "På Installer, På Afinstaller"
+
+#: inc/usp-tools.php:173
+msgid "Just FYI: when USP Pro is installed it creates four new options in the WordPress"
+msgstr "Bare FYI: Når USP Pro er installeret, skaber det fire nye muligheder i WordPress"
+
+#: inc/usp-tools.php:173
+msgid "table. That&rsquo;s it. No new database tables are created. While the plugin is active, new content (post data, user info) may "
+msgstr "bord. Det er det. Der oprettes ingen nye databasetabeller. Mens plugin er aktiv, kan nyt indhold (postdata, brugeroplysninger)"
+
+#: inc/usp-tools.php:174
+msgid "be added to the database, but no other changes are made anywhere by the plugin. Lastly, when the plugin is uninstalled (deleted from the server), the four options it created are removed from the database. "
+msgstr "tilføjes til databasen, men ingen andre ændringer foretages overalt af plugin'et. Til sidst, når plugin'en er afinstalleret (slettet fra serveren), fjernes de fire muligheder, den oprettede, fra databasen."
+
+#: inc/usp-tools.php:175
+msgid "Note that the plugin does not delete any posted/submitted content or registered users. If any posts or users were added, it is up to the admin whether or not to remove them."
+msgstr "Bemærk, at plugin ikke sletter noget udgivet / sendt indhold eller registrerede brugere. Hvis der blev tilføjet nogen indlæg eller brugere, er det op til administratoren, om de skal fjernes."
+
+#: inc/usp-tools.php:177
+msgid "Alternate Way to Reset Form"
+msgstr "Alternativ måde at nulstille formularen på"
+
+#: inc/usp-tools.php:178
+msgid "USP Pro includes a shortcode/quicktag for a link that will reset the form. To use a button instead, add this code to any form:"
+msgstr "USP Pro indeholder en shortcode / quicktag for et link, der vil nulstille formularen. For at bruge en knap i stedet, tilføj denne kode til enhver form:"
+
+#: inc/usp-tools.php:179
+msgid "Note that the shortcode requires the form URL as one of its attributes, but the reset"
+msgstr "Bemærk, at kortkoden kræver formularwebadressen som en af ​​dets attributter, men nulstiller"
+
+#: inc/usp-tools.php:179
+msgid "tag works without requiring any URL."
+msgstr "tag fungerer uden at kræve nogen webadresse."
+
+#: inc/usp-tools.php:181 inc/usp-tools.php:192
+msgid "Custom Field Recipes"
+msgstr "Custom Field Recipes"
+
+#: inc/usp-tools.php:182
+msgid "USP Pro supports unlimited Custom Fields. Here is a cheatsheet for various types of form elements. Click the links for more details."
+msgstr "USP Pro understøtter ubegrænsede brugerdefinerede felter. Her er et cheatsheet for forskellige former for formelementer. Klik på linkene for flere detaljer."
+
+#: inc/usp-tools.php:184
+msgid "Textarea"
+msgstr "textarea"
+
+#: inc/usp-tools.php:185
+msgid "Text Input"
+msgstr "Tekstindtastning"
+
+#: inc/usp-tools.php:186
+msgid "Radio Select"
+msgstr "Radio Vælg"
+
+#: inc/usp-tools.php:187
+msgid "Checkbox"
+msgstr "Afkrydsningsfelt"
+
+#: inc/usp-tools.php:188
+msgid "Select/Option"
+msgstr "Vælg / Option"
+
+#: inc/usp-tools.php:191
+msgid "For more fields and other options, check out the"
+msgstr "For flere felter og andre muligheder, tjek den"
+
+#: inc/usp-tools.php:191
+msgid "Custom Field Reference"
+msgstr "Brugerdefineret feltreference"
+
+#: inc/usp-tools.php:192
+msgid "USP Pro - Custom Field Recipes"
+msgstr "USP Pro - Custom Field Recipes"
+
+#: inc/usp-contact.php:120 inc/usp-contact.php:121
+msgid "Additional Information"
+msgstr "Yderligere Information"
+
+#: inc/usp-contact.php:121
+msgid "----------------------"
+msgstr "----------------------"
+
+#: inc/usp-contact.php:134 inc/usp-contact.php:146
+msgid "Message Details"
+msgstr "Meddelelsesdetaljer"
+
+#: inc/usp-contact.php:146
+msgid "---------------"
+msgstr "---------------"
+
+#: inc/usp-functions.php:1220
+msgid " by "
+msgstr " ved"
+
+#: inc/usp-functions.php:1459
+msgid "File 1"
+msgstr "Fil 1"
+
+#: inc/usp-functions.php:1476
+msgid "File 2"
+msgstr "Fil 2"
+
+#: inc/usp-functions.php:1493
+msgid "File 3"
+msgstr "Fil 3"
+
+#: inc/usp-functions.php:1786
+msgid "View full post"
+msgstr "Se hele indlægget"
+
+#: inc/usp-functions.php:1791
+msgid "Edit"
+msgstr "Redigere"
+
+#: inc/usp-functions.php:1794
+msgid "Delete this post"
+msgstr "Slet dette indlæg"
+
+#: inc/usp-functions.php:1795
+msgid "Delete"
+msgstr "Slet"
+
+#: inc/usp-functions.php:1797
+msgid " - "
+msgstr " -"
+
+#: inc/usp-functions.php:1798
+msgid " "
+msgstr " "
+
+#: inc/usp-login.php:84 inc/usp-login.php:123
+msgid "Login"
+msgstr "Log på"
+
+#: inc/usp-login.php:85
+msgid "Register"
+msgstr "Tilmeld"
+
+#: inc/usp-login.php:86
+msgid "Forgot?"
+msgstr "Glemte?"
+
+#: inc/usp-login.php:93 inc/usp-login.php:98
+msgid "Success!"
+msgstr "Succes!"
+
+#: inc/usp-login.php:94
+msgid "Check your email for the password."
+msgstr "Tjek din email for adgangskoden."
+
+#: inc/usp-login.php:99
+msgid "Check your email to reset your password."
+msgstr "Tjek din email for at nulstille din adgangskode."
+
+#: inc/usp-login.php:103
+msgid "Have an account?"
+msgstr "Har du en konto?"
+
+#: inc/usp-login.php:104
+msgid "Log in or sign up! It&rsquo;s fast &amp; free!"
+msgstr "Log ind eller tilmeld dig! Det er hurtigt & amp; gratis!"
+
+#: inc/usp-login.php:110 inc/usp-login.php:135
+msgid "Username"
+msgstr "Brugernavn"
+
+#: inc/usp-login.php:131
+msgid "Register for this site!"
+msgstr "Tilmeld dig denne side!"
+
+#: inc/usp-login.php:132
+msgid "Sign up now for the good stuff."
+msgstr "Tilmeld dig nu de gode ting."
+
+#: inc/usp-login.php:139
+msgid "Your Email"
+msgstr "Din email"
+
+#: inc/usp-login.php:143
+msgid "Sign up!"
+msgstr "Tilmelde!"
+
+#: inc/usp-login.php:151
+msgid "Lose something?"
+msgstr "Miste noget?"
+
+#: inc/usp-login.php:152
+msgid "Enter your username or email to reset your password."
+msgstr "Indtast dit brugernavn eller din email for at nulstille dit kodeord."
+
+#: inc/usp-login.php:155
+msgid "Username or Email"
+msgstr "Brugernavn eller e-mail"
+
+#: inc/usp-login.php:159
+msgid "Reset my password"
+msgstr "Nulstil min adgangskode"
+
+#: inc/usp-login.php:173
+msgid "Welcome, "
+msgstr "Velkommen,"
+
+#: inc/usp-login.php:176
+msgid "Congratulations, you&rsquo;re logged in."
+msgstr "Tillykke, du er logget ind."
+
+#: inc/usp-login.php:178
+msgid "Log out"
+msgstr "Log ud"
+
+#: inc/usp-login.php:180
+msgid "Profile"
+msgstr "Profil"
+
+#: inc/usp-custom.php:26
+msgid "error:usp_custom_field:1:"
+msgstr "error: usp_custom_field: 1:"
+
+#: inc/usp-custom.php:29
+msgid "error:usp_custom_field:2:"
+msgstr "error: usp_custom_field: 2:"
+
+#: inc/usp-custom.php:32
+msgid "error:usp_custom_field:3:"
+msgstr "error: usp_custom_field: 3:"
+
+#: inc/usp-custom.php:54
+msgid "error:usp_custom_field:4:"
+msgstr "error: usp_custom_field: 4:"
+
+#: inc/usp-custom.php:165
+msgid "error:usp_custom_field:5:"
+msgstr "error: usp_custom_field: 5:"
+
+#: inc/usp-custom.php:258
+msgid "Example Input "
+msgstr "Eksempelindgang"
+
+#: inc/usp-custom.php:268
+msgid "Example Label "
+msgstr "Eksempel etiket"
+
+#: inc/usp-custom.php:287
+msgid "Please select"
+msgstr "Vælg venligst"
+
+#: inc/usp-custom.php:303
+msgid "Add another file"
+msgstr "Tilføj en anden fil"
+
+#: inc/usp-callbacks.php:9
+msgid "Text for submit button when &ldquo;Auto-Include&rdquo; setting is enabled"
+msgstr "Tekst til indsend knap når & quot; Auto-Include & rdquo; indstillingen er aktiveret"
+
+#: inc/usp-callbacks.php:10
+msgid "HTML tags that should be allowed in submitted post content and/or post excerpt."
+msgstr "HTML-tags, der skal være tilladt i indsendte postindhold og / eller efter uddrag."
+
+#: inc/usp-callbacks.php:10 inc/usp-callbacks.php:11 inc/usp-callbacks.php:12
+#: inc/usp-callbacks.php:13 inc/usp-callbacks.php:14 inc/usp-callbacks.php:253
+#: inc/usp-callbacks.php:254
+msgid "Learn more &raquo;"
+msgstr "Få mere at vide & raquo;"
+
+#: inc/usp-callbacks.php:11
+msgid "Name for the &ldquo;Your Name&rdquo; field."
+msgstr "Navn på & dit navn & rdquo; Mark."
+
+#: inc/usp-callbacks.php:12
+msgid "Name for the &ldquo;Post URL&rdquo; field."
+msgstr "Navn på & Postadresse & rdquo; Mark."
+
+#: inc/usp-callbacks.php:13
+msgid "Name for the &ldquo;Post Title&rdquo; field."
+msgstr "Navn på & Posttitel & rdquo; Mark."
+
+#: inc/usp-callbacks.php:14
+msgid "Name for the &ldquo;Post Tags&rdquo; field."
+msgstr "Navn på & Ldquo; Post Tags & rdquo; Mark."
+
+#: inc/usp-callbacks.php:15
+msgid "Name for the &ldquo;Challenge Question&rdquo; and &ldquo;reCAPTCHA&rdquo; fields."
+msgstr "Navn på & Udfordring Spørgsmål & rdquo; og & quot; reCAPTCHA & rdquo; felter."
+
+#: inc/usp-callbacks.php:16
+msgid "Name for the &ldquo;Post Category&rdquo; field."
+msgstr "Navn på & Postkategori & rdquo; Mark."
+
+#: inc/usp-callbacks.php:17
+msgid "Name for the &ldquo;Post Content&rdquo; field."
+msgstr "Navn på & Postindhold & rdquo; Mark."
+
+#: inc/usp-callbacks.php:18
+msgid "Name for the &ldquo;File(s)&rdquo; field."
+msgstr "Navn på & ldquo; Fil (er) & rdquo; Mark."
+
+#: inc/usp-callbacks.php:19
+msgid "Name for the &ldquo;Email Address&rdquo; field."
+msgstr "Navn på & ldquo; E-mailadresse & rdquo; Mark."
+
+#: inc/usp-callbacks.php:20
+msgid "Name for the &ldquo;Email Subject&rdquo; field."
+msgstr "Navn på & ldquo; E-mail-emne & rdquo; Mark."
+
+#: inc/usp-callbacks.php:21
+msgid "Name for the &ldquo;Alt Text&rdquo; field."
+msgstr "Navn på & ldquo; Alt tekst & rdquo; Mark."
+
+#: inc/usp-callbacks.php:22
+msgid "Name for the &ldquo;Caption&rdquo; field."
+msgstr "Navn på & Caption & rdquo; Mark."
+
+#: inc/usp-callbacks.php:23
+msgid "Name for the &ldquo;Description&rdquo; field."
+msgstr "Navn på & ldquo; Beskrivelse & rdquo; Mark."
+
+#: inc/usp-callbacks.php:24
+msgid "Name for the &ldquo;Taxonomy&rdquo; field."
+msgstr "Navn på & Taxonomi & rdquo; Mark."
+
+#: inc/usp-callbacks.php:25
+msgid "Name for the &ldquo;Post Format&rdquo; field."
+msgstr "Navn på & Postformat & rdquo; Mark."
+
+#: inc/usp-callbacks.php:26
+msgid "Name for the &ldquo;Media Title&rdquo; field."
+msgstr "Navn på & ldquo; Medietitel & rdquo; Mark."
+
+#: inc/usp-callbacks.php:27
+msgid "Name for the &ldquo;File Name&rdquo; field."
+msgstr "Navn på & ldquo; Filnavn & rdquo; Mark."
+
+#: inc/usp-callbacks.php:28
+msgid "Name for the &ldquo;Agree to Terms&rdquo; field."
+msgstr "Navn for & ldquo; Aftale med vilkår & rdquo; Mark."
+
+#: inc/usp-callbacks.php:29
+msgid "Name for the &ldquo;Post Excerpt&rdquo; field."
+msgstr "Navn på & ldquo; Postuddrag & rdquo; Mark."
+
+#: inc/usp-callbacks.php:30
+msgid "Name for the &ldquo;User Nicename&rdquo; field"
+msgstr "Navn på & ldquo; User Nicename & rdquo; Mark"
+
+#: inc/usp-callbacks.php:31
+msgid "Name for the &ldquo;User Display Name&rdquo; field"
+msgstr "Navn på & ldquo; Brugerens displaynavn & rdquo; Mark"
+
+#: inc/usp-callbacks.php:32
+msgid "Name for the &ldquo;User Nickname&rdquo; field"
+msgstr "Navn på & ldquo; Brugernavnet & rdquo; Mark"
+
+#: inc/usp-callbacks.php:33
+msgid "Name for the &ldquo;User First Name&rdquo; field"
+msgstr "Navn på & ldquo; Bruger fornavn & rdquo; Mark"
+
+#: inc/usp-callbacks.php:34
+msgid "Name for the &ldquo;User Last Name&rdquo; field"
+msgstr "Navn på & ldquo; Bruger efternavn & rdquo; Mark"
+
+#: inc/usp-callbacks.php:35
+msgid "Name for the &ldquo;User Description&rdquo; field"
+msgstr "Navn på & ldquo; Brugerbeskrivelse & rdquo; Mark"
+
+#: inc/usp-callbacks.php:36
+msgid "Name for the &ldquo;User Password&rdquo; field (deprecated)"
+msgstr "Navn på & ldquo; Brugeradgangskode & rdquo; felt (udskrevet)"
+
+#: inc/usp-callbacks.php:37
+msgid "Custom text to prepend to the Subject line"
+msgstr "Brugerdefineret tekst for at udfylde til emnelinjen"
+
+#: inc/usp-callbacks.php:38
+msgid "Default Subject line (when not using"
+msgstr "Standard emnelinje (når den ikke bruges"
+
+#: inc/usp-callbacks.php:38 inc/usp-callbacks.php:39
+msgid "shortcode)"
+msgstr "kortkode)"
+
+#: inc/usp-callbacks.php:39
+msgid "Default &ldquo;From&rdquo; address (when not using"
+msgstr "Standard & ldquo; Fra & rdquo; adresse (når den ikke bruges"
+
+#: inc/usp-callbacks.php:40
+msgid "Email addresses that should be carbon copied (comma-separated)"
+msgstr "E-mail-adresser, der skal kopieres (kommasepareret)"
+
+#: inc/usp-callbacks.php:41
+msgid "Where should visitors go after successful form submission? Enter any complete URL (e.g.,"
+msgstr "Hvor skal besøgende gå efter vellykket formindgivelse? Indtast en komplet URL (f.eks."
+
+#: inc/usp-callbacks.php:41
+msgid ") or leave blank to redirect to the current page. Note that you can"
+msgstr ") eller efterlad blank for at omdirigere til den aktuelle side. Bemærk at du kan"
+
+#: inc/usp-callbacks.php:41
+msgid "override this setting on any form"
+msgstr "tilsidesætte denne indstilling på enhver form"
+
+#: inc/usp-callbacks.php:41
+msgid "Important: this option is for advanced users; recommended to leave blank. See"
+msgstr "Vigtigt: Denne mulighed er for avancerede brugere; anbefales at forlade blank. Se"
+
+#: inc/usp-callbacks.php:41 inc/usp-callbacks.php:42
+msgid "for more info."
+msgstr "for mere info."
+
+#: inc/usp-callbacks.php:42
+msgid "Where should visitors go after failed form submission? Enter any complete URL (e.g.,"
+msgstr "Hvor skal besøgende gå efter mislykket form indsendelse? Indtast en komplet URL (f.eks."
+
+#: inc/usp-callbacks.php:42
+msgid ") or leave blank to redirect to the current page. Important: this option is for advanced users; recommended to leave blank. See"
+msgstr ") eller efterlad blank for at omdirigere til den aktuelle side. Vigtigt: Denne mulighed er for avancerede brugere; anbefales at forlade blank. Se"
+
+#: inc/usp-callbacks.php:43
+msgid "This question is displayed when"
+msgstr "Dette spørgsmål vises når"
+
+#: inc/usp-callbacks.php:43
+msgid "is added to any form"
+msgstr "tilføjes til enhver form"
+
+#: inc/usp-callbacks.php:44
+msgid "Enter the <em>only</em> correct answer to the previous &ldquo;Challenge Question&rdquo;"
+msgstr "Indtast <em> eneste </ em> korrekte svar på det tidligere & Udfordringsspørgsmål & rdquo;"
+
+#: inc/usp-callbacks.php:45 inc/usp-callbacks.php:46
+msgid "To use Google reCAPTCHA instead of the Challenge Question, enter your Public &amp; Private Keys"
+msgstr "Hvis du vil bruge Google reCAPTCHA i stedet for udfordringsspørgsmålet, skal du indtaste din offentlige & amp; Private nøgler"
+
+#: inc/usp-callbacks.php:47
+msgid "Automatically include these category IDs for all submitted posts (comma-separated)"
+msgstr "Inkluder automatisk disse kategoris ID'er for alle indsendte indlæg (kommasepareret)"
+
+#: inc/usp-callbacks.php:48
+msgid "Messages from contact forms and email alerts will be sent to this address"
+msgstr "Meddelelser fra kontaktformularer og e-mail-beskeder sendes til denne adresse"
+
+#: inc/usp-callbacks.php:49
+msgid "Email alerts will be addressed to this name"
+msgstr "E-mail-advarsler vil blive adresseret til dette navn"
+
+#: inc/usp-callbacks.php:50
+msgid "Email alerts will use this address as the &ldquo;From&rdquo; header"
+msgstr "E-mail-advarsler bruger denne adresse som & ldquo; Fra & rdquo; header"
+
+#: inc/usp-callbacks.php:51
+msgid "Subject line for submission alerts sent to the admin"
+msgstr "Emnelinje for indberetningsvarsler sendt til administratoren"
+
+#: inc/usp-callbacks.php:52
+msgid "Subject line for approval alerts sent to the admin"
+msgstr "Emnelinje til godkendelsesvarsler sendt til administratoren"
+
+#: inc/usp-callbacks.php:53
+msgid "Subject line for denied alerts sent to the admin"
+msgstr "Emnelinje for nægtede advarsler sendt til administratoren"
+
+#: inc/usp-callbacks.php:54
+msgid "Subject line for submission alerts sent to the user"
+msgstr "Emnelinje for indberetningsvarsler sendt til brugeren"
+
+#: inc/usp-callbacks.php:55
+msgid "Subject line for approval alerts sent to the user"
+msgstr "Emnelinje til godkendelsesvarsler sendt til brugeren"
+
+#: inc/usp-callbacks.php:56
+msgid "Subject line for denied alerts sent to the user"
+msgstr "Emne linje for afviste advarsler sendt til brugeren"
+
+#: inc/usp-callbacks.php:57
+msgid "Subject line for scheduled alerts sent to the admin"
+msgstr "Emnelinje for planlagte alarmer sendt til administratoren"
+
+#: inc/usp-callbacks.php:58
+msgid "Subject line for scheduled alerts sent to the user"
+msgstr "Emnelinje for planlagte alarmer sendt til brugeren"
+
+#: inc/usp-callbacks.php:59
+msgid "Additional addresses for submission alerts (comma-separated)"
+msgstr "Yderligere adresser for indberetningsvarsler (komma-adskilt)"
+
+#: inc/usp-callbacks.php:60
+msgid "Additional addresses for approval alerts (comma-separated)"
+msgstr "Yderligere adresser til godkendelsesalarmer (kommasepareret)"
+
+#: inc/usp-callbacks.php:61
+msgid "Additional addresses for denied alerts (comma-separated)"
+msgstr "Yderligere adresser for nægtede advarsler (kommasepareret)"
+
+#: inc/usp-callbacks.php:62
+msgid "Additional addresses for scheduled alerts (comma-separated)"
+msgstr "Yderligere adresser til planlagte varsler (komma-adskilt)"
+
+#: inc/usp-callbacks.php:63
+msgid "Minimum number of characters required for post content and excerpt fields (0 = no minimum)"
+msgstr "Minimum antal tegn, der kræves for postindhold og uddragsfelter (0 = intet minimum)"
+
+#: inc/usp-callbacks.php:64
+msgid "Maximum number of characters allowed for post content and excerpt fields (0 = no maximum)"
+msgstr "Maksimalt antal tegn tilladt for postindhold og uddragsfelter (0 = ingen maksimum)"
+
+#: inc/usp-callbacks.php:65
+msgid "Slug to use when &ldquo;USP Posts&rdquo; is selected for the setting, &ldquo;Submitted Post Type&rdquo;. Note: this setting is for advanced users. Recommended to use the default value,"
+msgstr "Slug til brug når & quot; USP Posts & rdquo; er valgt til indstillingen & ldquo; Indsendt posttype & rdquo ;. Bemærk: Denne indstilling er for avancerede brugere. Anbefales til at bruge standardværdien,"
+
+#: inc/usp-callbacks.php:66
+msgid "Slug to use when &ldquo;Existing Post Type&rdquo; is selected for the setting, &ldquo;Submitted Post Type&rdquo;. Note: the Custom Post Type specified here must be provided by your theme."
+msgstr "Slug at bruge, når & quot; Eksisterende posttype & rdquo; er valgt til indstillingen & ldquo; Indsendt posttype & rdquo ;. Bemærk: Den brugerdefinerede posttype, der er angivet her, skal angives af dit tema."
+
+#: inc/usp-callbacks.php:67
+msgid "Number of tags that should be displayed for the &ldquo;Post Tags&rdquo; setting (use"
+msgstr "Antal tags, der skal vises for & ldquo; Post tags & rdquo; indstilling (brug"
+
+#: inc/usp-callbacks.php:67
+msgid "to display all tags)"
+msgstr "for at vise alle tags)"
+
+#: inc/usp-callbacks.php:68
+msgid "Min size (in bytes) for uploaded files (applies to all file types). Default:"
+msgstr "Min størrelse (i bytes) for uploadede filer (gælder for alle filtyper). Standard:"
+
+#: inc/usp-callbacks.php:69
+msgid "Max size (in bytes) for uploaded files (applies to all file types). Default:"
+msgstr "Maks størrelse (i bytes) for uploadede filer (gælder for alle filtyper). Standard:"
+
+#: inc/usp-callbacks.php:70
+msgid "Minimum width (in pixels) for uploaded images"
+msgstr "Minimum bredde (i pixels) for uploadede billeder"
+
+#: inc/usp-callbacks.php:71
+msgid "Maximum width (in pixels) for uploaded images"
+msgstr "Maksimal bredde (i pixels) for uploadede billeder"
+
+#: inc/usp-callbacks.php:72
+msgid "Minimum height (in pixels) for uploaded images"
+msgstr "Minimum højde (i pixel) for uploadede billeder"
+
+#: inc/usp-callbacks.php:73
+msgid "Maximum height (in pixels) for uploaded images"
+msgstr "Maksimal højde (i pixels) for uploadede billeder"
+
+#: inc/usp-callbacks.php:74
+msgid "Allowed file types (comma-separated) for any USP Form."
+msgstr "Tilladte filtyper (kommasepareret) for en hvilken som helst USP-formular."
+
+#: inc/usp-callbacks.php:75
+msgid "Message displayed on the contact form (when the setting &ldquo;CC User&rdquo; is enabled)"
+msgstr "Meddelelse vises på kontaktformularen (når indstillingen & ldquo; CC Bruger & rdquo; er aktiveret)"
+
+#: inc/usp-callbacks.php:76
+msgid "Image to use as the Featured Image (when &ldquo;Featured Images&rdquo; setting is enabled)."
+msgstr "Billede, der skal bruges som det fremhævede billede (når indstillingen \"Udvalgte billeder\" er aktiveret)."
+
+#: inc/usp-callbacks.php:77
+msgid "Comma-separated list of URLs (leave blank to load CSS/JS on all pages)"
+msgstr "Kommasepareret liste over webadresser (lad være tom for at indlæse CSS / JS på alle sider)"
+
+#: inc/usp-callbacks.php:78
+msgid "Applies when &ldquo;Default Post Status&rdquo; is set to &ldquo;Always moderate via Custom Status&rdquo;"
+msgstr "Gælder når & ldquo; Standard poststatus & rdquo; er indstillet til & ldquo; Altid moderat via brugerdefineret status & rdquo;"
+
+#: inc/usp-callbacks.php:79
+msgid "Email address for Custom Recipient 1"
+msgstr "E-mail-adresse til Custom Recipient 1"
+
+#: inc/usp-callbacks.php:80
+msgid "Email address for Custom Recipient 2"
+msgstr "E-mail-adresse til Custom Recipient 2"
+
+#: inc/usp-callbacks.php:81
+msgid "Email address for Custom Recipient 3"
+msgstr "E-mail-adresse til Custom Recipient 3"
+
+#: inc/usp-callbacks.php:82
+msgid "Email address for Custom Recipient 4"
+msgstr "E-mail-adresse til Custom Recipient 4"
+
+#: inc/usp-callbacks.php:83
+msgid "Email address for Custom Recipient 5"
+msgstr "E-mail-adresse til Custom Recipient 5"
+
+#: inc/usp-callbacks.php:84
+msgid "Unique prefix for Custom Fields (leave blank to disable)"
+msgstr "Unikt præfiks for brugerdefinerede felter (lad blank være at deaktivere)"
+
+#: inc/usp-callbacks.php:85
+msgid "Optional Custom Fields (leave blank to disable)"
+msgstr "Valgfrie brugerdefinerede felter (efterlad blank for at deaktivere)"
+
+#: inc/usp-callbacks.php:86
+msgid "Required Custom Fields (leave blank to disable)"
+msgstr "Nødvendige brugerdefinerede felter (lad tomt stå for at deaktivere)"
+
+#: inc/usp-callbacks.php:87
+msgid "Default Post Title for submitted posts"
+msgstr "Standard Post Titel for indsendte indlæg"
+
+#: inc/usp-callbacks.php:88
+msgid "Custom attributes that should be included in the"
+msgstr "Brugerdefinerede attributter, der skal inkluderes i"
+
+#: inc/usp-callbacks.php:88 inc/usp-callbacks.php:127
+msgid "tag"
+msgstr "tag"
+
+#: inc/usp-callbacks.php:89
+msgid "Form IDs of any post-submission forms"
+msgstr "Form-id'er for eventuelle post-indsendelsesskemaer"
+
+#: inc/usp-callbacks.php:90
+msgid "Form IDs of any user-registration forms"
+msgstr "Form-id'er af eventuelle brugerregistreringsformer"
+
+#: inc/usp-callbacks.php:91
+msgid "Form IDs of any contact forms"
+msgstr "Form ID'er af eventuelle kontaktformularer"
+
+#: inc/usp-callbacks.php:100
+msgid "Text/markup to be included before all USP Forms"
+msgstr "Tekst / markering skal inkluderes før alle USP-formularer"
+
+#: inc/usp-callbacks.php:101
+msgid "Text/markup to be included after all USP Forms"
+msgstr "Tekst / markup, der skal medtages efter alle USP-formularer"
+
+#: inc/usp-callbacks.php:102
+msgid "Message for submission alerts sent to the admin"
+msgstr "Meddelelse til indberetningsvarsler sendt til administratoren"
+
+#: inc/usp-callbacks.php:103
+msgid "Message for submission alerts sent to the user"
+msgstr "Meddelelse til indberetningsvarsler sendt til brugeren"
+
+#: inc/usp-callbacks.php:104
+msgid "Message for approval alerts sent to the admin"
+msgstr "Meddelelse til godkendelsesvarsler sendt til administratoren"
+
+#: inc/usp-callbacks.php:105
+msgid "Message for approval alerts sent to the user"
+msgstr "Meddelelse til godkendelsesvarsler sendt til brugeren"
+
+#: inc/usp-callbacks.php:106
+msgid "Message for denied alerts sent to the admin"
+msgstr "Meddelelse om afviste advarsler sendt til administratoren"
+
+#: inc/usp-callbacks.php:107
+msgid "Message for denied alerts sent to the user"
+msgstr "Meddelelse om afviste advarsler sendt til brugeren"
+
+#: inc/usp-callbacks.php:108
+msgid "Message for scheduled alerts sent to the admin"
+msgstr "Meddelelse til planlagte varsler sendt til administratoren"
+
+#: inc/usp-callbacks.php:109
+msgid "Message for scheduled alerts sent to the user"
+msgstr "Meddelelse til planlagte varsler sendt til brugeren"
+
+#: inc/usp-callbacks.php:110
+msgid "Custom content that should be appended to messages sent via contact form"
+msgstr "Brugerdefineret indhold, der skal vedhæftes til beskeder sendt via kontaktformular"
+
+#: inc/usp-callbacks.php:111
+msgid "Message displayed when a user is registered successfully"
+msgstr "Meddelelse vises, når en bruger er registreret med succes"
+
+#: inc/usp-callbacks.php:112
+msgid "Message displayed when a post is submitted successfully"
+msgstr "Meddelelse vises, når et indlæg er sendt korrekt"
+
+#: inc/usp-callbacks.php:113
+msgid "Message displayed when user is registered and post is submitted"
+msgstr "Meddelelse vises, når brugeren er registreret og post er indsendt"
+
+#: inc/usp-callbacks.php:114
+msgid "Message displayed when email is sent via contact form"
+msgstr "Meddelelse vises, når email sendes via kontaktformular"
+
+#: inc/usp-callbacks.php:115
+msgid "Message displayed when email is sent and user is registered"
+msgstr "Meddelelse vises, når e-mail sendes og bruger er registreret"
+
+#: inc/usp-callbacks.php:116
+msgid "Message displayed when email is sent and post is submitted"
+msgstr "Meddelelse vises, når e-mail er sendt og indlæg sendes"
+
+#: inc/usp-callbacks.php:117
+msgid "Message displayed when email is sent, user is registered, and post is submitted"
+msgstr "Meddelelse vises, når e-mail er sendt, bruger er registreret, og indlæg sendes"
+
+#: inc/usp-callbacks.php:118
+msgid "Custom text/markup to appear before the listed errors"
+msgstr "Brugerdefineret tekst / markup vises før de angivne fejl"
+
+#: inc/usp-callbacks.php:119
+msgid "Custom text/markup to appear after the listed errors"
+msgstr "Brugerdefineret tekst / markup vises efter de angivne fejl"
+
+#: inc/usp-callbacks.php:120
+msgid "Custom text/markup to appear before the success message"
+msgstr "Brugerdefineret tekst / markering vises før succesmeddelelsen"
+
+#: inc/usp-callbacks.php:121
+msgid "Custom text/markup to appear after the success message"
+msgstr "Brugerdefineret tekst / markering vises efter succesmeddelelsen"
+
+#: inc/usp-callbacks.php:122
+msgid "CSS for Simple form style (edit as needed to fit your theme)"
+msgstr "CSS for Simple form style (rediger som nødvendigt for at passe dit tema)"
+
+#: inc/usp-callbacks.php:123
+msgid "CSS for Minimal form style (edit as needed to fit your theme)"
+msgstr "CSS for minimal form stil (rediger efter behov for at passe dit tema)"
+
+#: inc/usp-callbacks.php:124
+msgid "CSS for Small form style (edit as needed to fit your theme)"
+msgstr "CSS for lille formular stil (rediger efter behov for at passe dit tema)"
+
+#: inc/usp-callbacks.php:125
+msgid "CSS for Large form style (edit as needed to fit your theme)"
+msgstr "CSS for stor formular stil (rediger efter behov for at passe dit tema)"
+
+#: inc/usp-callbacks.php:126
+msgid "CSS for Custom form style (edit as needed to fit your theme)"
+msgstr "CSS for brugerdefineret formular stil (rediger efter behov for at passe dit tema)"
+
+#: inc/usp-callbacks.php:127
+msgid "Custom JavaScript, included inline via"
+msgstr "Brugerdefineret JavaScript, inkluderet inline via"
+
+#: inc/usp-callbacks.php:128
+msgid "Default Post Content for submitted posts (basic HTML allowed)"
+msgstr "Standardindhold for indsendte indlæg (grundlæggende HTML tilladt)"
+
+#: inc/usp-callbacks.php:129
+msgid "Words that are not allowed in any submitted post content and/or post excerpt ("
+msgstr "Ord, der ikke er tilladt i ethvert indsendt indlæg og / eller uddrag ("
+
+#: inc/usp-callbacks.php:129
+msgid "put each word on its own line"
+msgstr "sæt hvert ord på sin egen linje"
+
+#: inc/usp-callbacks.php:131
+msgid "Name errors &ndash; when using"
+msgstr "Navngiv fejl & ndash; når du bruger"
+
+#: inc/usp-callbacks.php:131 inc/usp-callbacks.php:132
+#: inc/usp-callbacks.php:133 inc/usp-callbacks.php:134
+#: inc/usp-callbacks.php:135 inc/usp-callbacks.php:136
+#: inc/usp-callbacks.php:137 inc/usp-callbacks.php:138
+#: inc/usp-callbacks.php:139 inc/usp-callbacks.php:140
+#: inc/usp-callbacks.php:144 inc/usp-callbacks.php:148
+#: inc/usp-callbacks.php:149
+msgid "shortcode"
+msgstr "kortkode"
+
+#: inc/usp-callbacks.php:132
+msgid "URL errors &ndash; when using"
+msgstr "URL-fejl & ndash; når du bruger"
+
+#: inc/usp-callbacks.php:133
+msgid "Title errors &ndash; when using"
+msgstr "Titelfejl & ndash; når du bruger"
+
+#: inc/usp-callbacks.php:134
+msgid "Tag errors &ndash; when using"
+msgstr "Tag fejl & ndash; når du bruger"
+
+#: inc/usp-callbacks.php:135
+msgid "Captcha errors &ndash; when using"
+msgstr "Captcha fejl & ndash; når du bruger"
+
+#: inc/usp-callbacks.php:136
+msgid "Category errors &ndash; when using"
+msgstr "Kategori fejl & ndash; når du bruger"
+
+#: inc/usp-callbacks.php:137
+msgid "Content errors &ndash; when using"
+msgstr "Indholdsfejl & ndash; når du bruger"
+
+#: inc/usp-callbacks.php:138
+msgid "Files errors &ndash; when using"
+msgstr "Filer fejl & ndash; når du bruger"
+
+#: inc/usp-callbacks.php:139
+msgid "Email errors &ndash; when using"
+msgstr "Email fejl & ndash; når du bruger"
+
+#: inc/usp-callbacks.php:140
+msgid "Subject errors &ndash; when using"
+msgstr "Emnefejl & ndash; når du bruger"
+
+#: inc/usp-callbacks.php:141
+msgid "Alt Text errors &ndash; when using"
+msgstr "Alt tekstfejl & ndash; når du bruger"
+
+#: inc/usp-callbacks.php:141 inc/usp-callbacks.php:142
+#: inc/usp-callbacks.php:143 inc/usp-callbacks.php:146
+#: inc/usp-callbacks.php:147
+msgid "with"
+msgstr "med"
+
+#: inc/usp-callbacks.php:142
+msgid "Caption errors &ndash; when using"
+msgstr "Billedfejl & ndash; når du bruger"
+
+#: inc/usp-callbacks.php:143
+msgid "Description errors &ndash; when using"
+msgstr "Beskrivelse fejl & ndash; når du bruger"
+
+#: inc/usp-callbacks.php:144
+msgid "Taxonomy errors &ndash; when using"
+msgstr "Taxonomi fejl & ndash; når du bruger"
+
+#: inc/usp-callbacks.php:145
+msgid "Post Format errors &ndash; when using"
+msgstr "Postformatfejl & ndash; når du bruger"
+
+#: inc/usp-callbacks.php:146
+msgid "Media Title errors &ndash; when using"
+msgstr "Media Titel fejl & ndash; når du bruger"
+
+#: inc/usp-callbacks.php:147
+msgid "File Name errors &ndash; when using"
+msgstr "Filnavn fejl & ndash; når du bruger"
+
+#: inc/usp-callbacks.php:148
+msgid "\"Agree to Terms\" errors &ndash; when using"
+msgstr "\"Accept to Terms\" fejl & ndash; når du bruger"
+
+#: inc/usp-callbacks.php:149
+msgid "Post Excerpt errors &ndash; when using"
+msgstr "Post Uddrag fejl & ndash; når du bruger"
+
+#: inc/usp-callbacks.php:151
+msgid "Errors for the &ldquo;User Nicename&rdquo; field"
+msgstr "Fejl for & ldquo; User Nicename & rdquo; Mark"
+
+#: inc/usp-callbacks.php:152
+msgid "Errors for the &ldquo;User Display Name&rdquo; field"
+msgstr "Fejl for & ldquo; Brugerens displaynavn & rdquo; Mark"
+
+#: inc/usp-callbacks.php:153
+msgid "Errors for the &ldquo;User Nickname&rdquo; field"
+msgstr "Fejl for & ldquo; brugernavnet & rdquo; Mark"
+
+#: inc/usp-callbacks.php:154
+msgid "Errors for the &ldquo;User First Name&rdquo; field"
+msgstr "Fejl for & ldquo; Bruger fornavn & rdquo; Mark"
+
+#: inc/usp-callbacks.php:155
+msgid "Errors for the &ldquo;User Last Name&rdquo; field"
+msgstr "Fejl for & ldquo; brugerens efternavn & rdquo; Mark"
+
+#: inc/usp-callbacks.php:156
+msgid "Errors for the &ldquo;User Description&rdquo; field"
+msgstr "Fejl for & ldquo; Brugerbeskrivelse & rdquo; Mark"
+
+#: inc/usp-callbacks.php:157
+msgid "Errors for the &ldquo;User Password&rdquo; field (deprecated)"
+msgstr "Fejl for & ldquo; Brugeradgangskode & rdquo; felt (udskrevet)"
+
+#: inc/usp-callbacks.php:159
+msgid "User Name errors (when using a form that registers users)"
+msgstr "Brugernavn fejl (når du bruger en formular, der registrerer brugere)"
+
+#: inc/usp-callbacks.php:160
+msgid "User Email errors (when using a form that registers users)"
+msgstr "Bruger Email-fejl (når du bruger en formular, der registrerer brugere)"
+
+#: inc/usp-callbacks.php:161
+msgid "Registration Disabled errors (when using a form that registers users)"
+msgstr "Registrering Deaktiveret fejl (når du bruger et formular, der registrerer brugere)"
+
+#: inc/usp-callbacks.php:162
+msgid "User Exists errors (when using a form that registers users)"
+msgstr "Bruger Eksisterer fejl (når du bruger en formular, der registrerer brugere)"
+
+#: inc/usp-callbacks.php:163
+msgid "Post Required errors (when using a form that submits posts)"
+msgstr "Post Påkrævede fejl (når du bruger en formular, der sender indlæg)"
+
+#: inc/usp-callbacks.php:164
+msgid "Duplicate Post errors (when using a form that submits posts)"
+msgstr "Duplicate postfejl (når du bruger en formular, der sender indlæg)"
+
+#: inc/usp-callbacks.php:165
+msgid "Illegal characters in the Name field"
+msgstr "Ulovlige tegn i feltet Navn"
+
+#: inc/usp-callbacks.php:166
+msgid "Incorrect response for the anti-spam captcha/challenge question"
+msgstr "Fejlagtigt svar til anti-spam captcha / challenge spørgsmål"
+
+#: inc/usp-callbacks.php:167
+msgid "Minimum number of characters not met in Post Content field"
+msgstr "Mindste antal tegn, der ikke er opfyldt i feltet Postindhold"
+
+#: inc/usp-callbacks.php:168
+msgid "Maximum number of characters not met in Post Content field"
+msgstr "Maksimalt antal tegn, der ikke er opfyldt i feltet Postindhold"
+
+#: inc/usp-callbacks.php:169
+msgid "Minimum number of characters not met in Post Excerpt field"
+msgstr "Minimum antal tegn, der ikke er opfyldt i feltet Postuddrag"
+
+#: inc/usp-callbacks.php:170
+msgid "Maximum number of characters not met in Post Excerpt field"
+msgstr "Maksimalt antal tegn, der ikke er opfyldt i feltet Postuddrag"
+
+#: inc/usp-callbacks.php:171
+msgid "Email address is incorrect, incomplete, or contains restricted characters"
+msgstr "E-mail-adresse er forkert, ufuldstændig eller indeholder begrænsede tegn"
+
+#: inc/usp-callbacks.php:172
+msgid "Illegal characters in the Email Subject field"
+msgstr "Ulovlige tegn i feltet E-mail-emne"
+
+#: inc/usp-callbacks.php:173
+msgid "Incorrect form type (when &ldquo;Extra Form Security&rdquo; is enabled in General settings)"
+msgstr "Forkert formtype (når \"Ekstra form Security\" er aktiveret i Generelle indstillinger)"
+
+#: inc/usp-callbacks.php:174
+msgid "Forbidden words in Post Content (when &ldquo;Content Filter&rdquo; is enabled in Advanced settings)"
+msgstr "Forbudte ord i Indholdsfortegnelse (når \"Indholdsfilter\" er aktiveret i Avancerede indstillinger)"
+
+#: inc/usp-callbacks.php:176
+msgid "Files required (for multiple-select files)"
+msgstr "Filer der kræves (til flere valgte filer)"
+
+#: inc/usp-callbacks.php:177
+msgid "File required (for single-select files)"
+msgstr "Fil nødvendig (for single-select filer)"
+
+#: inc/usp-callbacks.php:178
+msgid "File type not allowed"
+msgstr "Filtype er ikke tilladt"
+
+#: inc/usp-callbacks.php:179
+msgid "File width and height exceed limits"
+msgstr "Filbredde og højde overstiger grænser"
+
+#: inc/usp-callbacks.php:180
+msgid "Maximum file size exceeded"
+msgstr "Maksimal filstørrelse overskredet"
+
+#: inc/usp-callbacks.php:181
+msgid "Minimum file size not met"
+msgstr "Mindste filstørrelse er ikke opfyldt"
+
+#: inc/usp-callbacks.php:182
+msgid "Length of file name exceeds limit"
+msgstr "Længden af ​​filnavn overstiger grænsen"
+
+#: inc/usp-callbacks.php:183
+msgid "Minimum number of files not met"
+msgstr "Mindste antal filer, der ikke er opfyldt"
+
+#: inc/usp-callbacks.php:184
+msgid "Maximum number of files exceeded"
+msgstr "Maksimalt antal filer overskredet"
+
+#: inc/usp-callbacks.php:185
+msgid "Image is not square (width does not equal height)"
+msgstr "Billedet er ikke firkantet (bredden er ikke højde)"
+
+#: inc/usp-callbacks.php:187
+msgid "Text/markup displayed before each Taxonomy error"
+msgstr "Tekst / markering vises før hver taxonomis fejl"
+
+#: inc/usp-callbacks.php:188
+msgid "Text/markup displayed after each Taxonomy error"
+msgstr "Tekst / markering vises efter hver taxonomis fejl"
+
+#: inc/usp-callbacks.php:189
+msgid "Text/markup displayed before each Custom Field error"
+msgstr "Tekst / markering vises før hver brugerdefineret feltfejl"
+
+#: inc/usp-callbacks.php:190
+msgid "Text/markup displayed after each Custom Field error"
+msgstr "Tekst / markering vises efter hver brugerdefineret feltfejl"
+
+#: inc/usp-callbacks.php:191
+msgid "Text/markup displayed between each error (e.g.,"
+msgstr "Tekst / markup vises mellem hver fejl (f.eks."
+
+#: inc/usp-callbacks.php:200 inc/usp-callbacks.php:201
+msgid "This default value can be overridden via the"
+msgstr "Denne standardværdi kan overstyres via"
+
+#: inc/usp-callbacks.php:200 inc/usp-callbacks.php:201
+msgid "shortcode attribute"
+msgstr "shortcode attribut"
+
+#: inc/usp-callbacks.php:202
+msgid "Size of auto-displayed images"
+msgstr "Størrelse af automatisk viste billeder"
+
+#: inc/usp-callbacks.php:203
+msgid "Format for all email (contact form and email alerts)."
+msgstr "Formatér for alle e-mail (kontaktformular og e-mail alarmer)."
+
+#: inc/usp-callbacks.php:203
+msgid "Note:"
+msgstr "Bemærk:"
+
+#: inc/usp-callbacks.php:203
+msgid "to allow HTML in contact-form messages, the option &ldquo;Post Formatting&rdquo; must be enabled in Advanced settings."
+msgstr "For at tillade HTML i kontaktformularbeskeder, kan du vælge indstillingen \"Postformatering & rdquo; skal være aktiveret i Avancerede indstillinger."
+
+#: inc/usp-callbacks.php:204
+msgid "reCAPTCHA version to display via"
+msgstr "reCAPTCHA version til visning via"
+
+#: inc/usp-callbacks.php:213
+msgid "Send post-submission alert to the user"
+msgstr "Send besked efter indgivelse til brugeren"
+
+#: inc/usp-callbacks.php:214
+msgid "Send post-submission alert to the admin"
+msgstr "Send indberetning efter indgivelse til administratoren"
+
+#: inc/usp-callbacks.php:215
+msgid "Send post-approval alert to the user (published post)"
+msgstr "Send efter godkendelsesalarm til brugeren (offentliggjort post)"
+
+#: inc/usp-callbacks.php:216
+msgid "Send post-approval alert to the admin (published post)"
+msgstr "Send efter godkendelsesalarm til administratoren (offentliggjort post)"
+
+#: inc/usp-callbacks.php:217
+msgid "Send post-denied alert to the user (trashed post)"
+msgstr "Send efter-nægtet advarsel til brugeren (skraldespost)"
+
+#: inc/usp-callbacks.php:218
+msgid "Send post-denied alert to the admin (trashed post)"
+msgstr "Send efter-nægtet advarsel til administratoren (skraldespost)"
+
+#: inc/usp-callbacks.php:219
+msgid "Send alert to the admin when a submitted post is scheduled"
+msgstr "Send alarm til administratoren, når et indgivet indlæg er planlagt"
+
+#: inc/usp-callbacks.php:220
+msgid "Send alert to the user when a submitted post is scheduled"
+msgstr "Send alarm til brugeren, når et indgivet indlæg er planlagt"
+
+#: inc/usp-callbacks.php:221
+msgid "Send a copy of the message to the sender (via CC)"
+msgstr "Send en kopi af meddelelsen til afsenderen (via CC)"
+
+#: inc/usp-callbacks.php:222
+msgid "Append user data to messages (e.g., IP address, referrer, request, et al)"
+msgstr "Tilføj brugerdata til meddelelser (f.eks. IP-adresse, henvisning, anmodning, et al.)"
+
+#: inc/usp-callbacks.php:223
+msgid "Append any Custom Field data to messages."
+msgstr "Tilføj eventuelle brugerdefinerede feltdata til meddelelser."
+
+#: inc/usp-callbacks.php:224
+msgid "Include external USP JavaScript file (required for multiple file uploads and thumbnail previews). Note: this file will be overwritten with each plugin upgrade, so if you need to customize or add any JavaScript, use the previous option or some other method."
+msgstr "Medtag ekstern USP JavaScript-fil (kræves til flere filoploader og miniaturebilleder). Bemærk: Denne fil overskrives med hver pluginopgradering, så hvis du har brug for at tilpasse eller tilføje JavaScript, skal du bruge den forrige indstilling eller en anden metode."
+
+#: inc/usp-callbacks.php:225
+msgid "Include Parsley.js (required for front-end form validation). Note: this file will be overwritten with each plugin upgrade, so if you need to customize or add any JavaScript, use the previous option or some other method."
+msgstr "Inkluder Parsley.js (kræves til validering af formen). Bemærk: Denne fil overskrives med hver pluginopgradering, så hvis du har brug for at tilpasse eller tilføje JavaScript, skal du bruge den forrige indstilling eller en anden metode."
+
+#: inc/usp-callbacks.php:226
+msgid "Include external CSS file (optional). Includes Parsley.js v2.7.0. Note: this file will be overwritten with each plugin upgrade; so if you need to customize or add any CSS, use the previous option or some other method."
+msgstr "Inkluder ekstern CSS-fil (valgfrit). Inkluderer Parsley.js v2.7.0. Bemærk: Denne fil overskrives med hver plugin opgradering; så hvis du har brug for at tilpasse eller tilføje noget CSS, skal du bruge den forrige indstilling eller en anden metode."
+
+#: inc/usp-callbacks.php:227
+msgid "Display the submission form with the success message"
+msgstr "Vis indsendelsesskemaet med succesmeddelelsen"
+
+#: inc/usp-callbacks.php:228
+msgid "Apply WP&rsquo;s auto-formatting to form content"
+msgstr "Anvend WPs autoformatering til at danne indhold"
+
+#: inc/usp-callbacks.php:229
+msgid "Automatically wrap form inputs with"
+msgstr "Indpakker formularindgange automatisk med"
+
+#: inc/usp-callbacks.php:229
+msgid "tags"
+msgstr "tags"
+
+#: inc/usp-callbacks.php:230
+msgid "Automatically regenerate the USP Form Demos (for any form that is permanently deleted)"
+msgstr "Automatisk regenere USP Form Demos (for enhver form, der er permanent slettet)"
+
+#: inc/usp-callbacks.php:231
+msgid "Automatically regenerate the USP Post Demos"
+msgstr "Regenerér automatisk USP Post Demos"
+
+#: inc/usp-callbacks.php:232
+msgid "Automatically include a submit button on all USP Forms"
+msgstr "Indsæt automatisk en afsendelsesknapp på alle USP Forms"
+
+#: inc/usp-callbacks.php:233
+msgid "Use the registered username as the Post Author."
+msgstr "Brug det registrerede brugernavn som postforfatter."
+
+#: inc/usp-callbacks.php:234
+msgid "Use submitted name as Post Author, and submitted URL as Author URL."
+msgstr "Brug indgivet navn som Postforfatter, og indsendt URL som Forfatter URL."
+
+#: inc/usp-callbacks.php:235
+msgid "Redirect users to their submitted post, applies when &ldquo;Default Post Status&rdquo; is set to &ldquo;Always publish immediately&rdquo;"
+msgstr "Omdirigere brugere til deres indsendte indlæg, gælder når & ldquo; Standard poststatus & rdquo; er indstillet til & ldquo; Publicér altid straks & rdquo;"
+
+#: inc/usp-callbacks.php:236
+msgid "Attach user data (e.g., IP Address, Referrer, Request, et al) to submitted posts as Custom Fields"
+msgstr "Vedhæft brugerdata (f.eks. IP-adresse, Henviser, Request, et al) for at indsende indlæg som Brugerdefinerede felter"
+
+#: inc/usp-callbacks.php:237
+msgid "Make the &ldquo;Challenge Response&rdquo; case-sensitive"
+msgstr "Lav 'Udfordringsresponsen' & rdquo; små bogstaver"
+
+#: inc/usp-callbacks.php:238
+msgid "Enable nested/hierarchical display of subcategories"
+msgstr "Aktivér indlejret / hierarkisk visning af underkategorier"
+
+#: inc/usp-callbacks.php:239
+msgid "Enable required categories for all forms (see next option)"
+msgstr "Aktivér krævede kategorier for alle former (se næste mulighed)"
+
+#: inc/usp-callbacks.php:240
+msgid "Hide Category field when using"
+msgstr "Skjul kategori felt, når du bruger"
+
+#: inc/usp-callbacks.php:241
+msgid "Allow users to select multiple categories when using the dropdown menu"
+msgstr "Tillad brugere at vælge flere kategorier, når du bruger rullemenuen"
+
+#: inc/usp-callbacks.php:242
+msgid "Do not display empty tags for the &ldquo;Post Tags&rdquo; setting"
+msgstr "Vis ikke tomme tags for & ldquo; Post tags & rdquo; indstilling"
+
+#: inc/usp-callbacks.php:243
+msgid "Hide Tags field when using"
+msgstr "Skjul mærker felt når du bruger"
+
+#: inc/usp-callbacks.php:244
+msgid "Allow users to select multiple tags when using the dropdown menu"
+msgstr "Tillad brugere at vælge flere tags, når de bruger rullemenuen"
+
+#: inc/usp-callbacks.php:245
+msgid "Enable &ldquo;remembering&rdquo; of form data"
+msgstr "Aktivér & ldquo; husk & rdquo; af formdata"
+
+#: inc/usp-callbacks.php:246
+msgid "Super strength: remember form values forever, even after successful form submission"
+msgstr "Super styrke: Husk formularværdier for evigt, selv efter vellykket formindgivelse"
+
+#: inc/usp-callbacks.php:247
+msgid "Default state of the &ldquo;remember me&rdquo; checkbox field (checked or unchecked)"
+msgstr "Standardtilstand for & ldquo; husk mig & rdquo; afkrydsningsfelt (markeret eller afkrydset)"
+
+#: inc/usp-callbacks.php:248
+msgid "Require Post Titles to be unique"
+msgstr "Kræve posttitler at være unikke"
+
+#: inc/usp-callbacks.php:249
+msgid "Require Post Content to be unique"
+msgstr "Kræver postindhold for at være unikt"
+
+#: inc/usp-callbacks.php:250
+msgid "Check this box to enable the following three options"
+msgstr "Marker denne boks for at aktivere følgende tre muligheder"
+
+#: inc/usp-callbacks.php:251
+msgid "Auto-display submitted images as Featured Images (theme support required)"
+msgstr "Automatisk visning af indsendte billeder som Fremhævede billeder (tema understøttelse nødvendig)"
+
+#: inc/usp-callbacks.php:252
+msgid "Make submitted file names unique by prepending a date-based/random string"
+msgstr "Lav indleverede filnavne unikt ved at udarbejde en datobaseret / tilfældig streng"
+
+#: inc/usp-callbacks.php:253
+msgid "Check this box to enable User Shortcodes in submitted post content."
+msgstr "Marker denne boks for at aktivere brugerkortkoder i indsendt postindhold."
+
+#: inc/usp-callbacks.php:254
+msgid "Enable non-admin users to upload media via the &ldquo;Add Media&rdquo; button."
+msgstr "Aktivér brugere, der ikke administrerer, at uploade medier via & ldquo; Tilføj medier & rdquo; knap."
+
+#: inc/usp-callbacks.php:255
+msgid "Restore plugin settings upon plugin deactivation/reactivation"
+msgstr "Gendan plugin indstillinger ved plugin deaktivering / reaktivering"
+
+#: inc/usp-callbacks.php:256
+msgid "Require each submitted image to have an equal width and height"
+msgstr "Kræver hvert indsendt billede for at have en lige bredde og højde"
+
+#: inc/usp-callbacks.php:257
+msgid "Auto-rotate JPG images if necessary (requires PHP memory_limit &gt; 128M)"
+msgstr "Automatisk omdrejning af JPG-billeder, hvis det er nødvendigt (kræver PHP memory_limit & gt; 128M)"
+
+#: inc/usp-callbacks.php:266
+msgid "Number of Custom Fields to auto-generate for each USP Form"
+msgstr "Antal brugerdefinerede felter til automatisk generering for hver USP-formular"
+
+#: inc/usp-callbacks.php:275
+msgid "Default author for user-submitted posts"
+msgstr "Standardforfatter til brugerindsendte indlæg"
+
+#: inc/usp-callbacks.php:276
+msgid "Role for users registering via USP Form (default: subscriber)"
+msgstr "Rolle for brugere, der registrerer via USP-formular (standard: abonnent)"
+
+#: inc/usp-callbacks.php:277
+msgid "Note: this setting"
+msgstr "Bemærk: Denne indstilling"
+
+#: inc/usp-callbacks.php:277
+msgid "can be overridden per form"
+msgstr "kan overstyres pr. formular"
+
+#: inc/usp-callbacks.php:286
+msgid "Send email alerts using: "
+msgstr "Send email alerts ved hjælp af:"
+
+#: inc/usp-callbacks.php:287
+msgid "Submitted content should be posted as: "
+msgstr "Indleveret indhold skal bogføres som:"
+
+#: inc/usp-callbacks.php:288
+msgid "On the frontend, categories should be displayed as: "
+msgstr "På frontenden skal kategorier vises som:"
+
+#: inc/usp-callbacks.php:289
+msgid "On the frontend, display tags ordered by: "
+msgstr "På frontenden er visningsetiketter bestilt af:"
+
+#: inc/usp-callbacks.php:290
+msgid "On the frontend, tags should be displayed as: "
+msgstr "På frontenden skal tags vises som:"
+
+#: inc/usp-callbacks.php:291
+msgid "Include the following styles with all USP Forms (included via inline CSS): "
+msgstr "Inkluder følgende stilarter med alle USP Forms (inkluderet via inline CSS):"
+
+#: inc/usp-callbacks.php:292
+msgid "Automatically display images in submitted posts: "
+msgstr "Vis automatisk billeder i indsendte indlæg:"
+
+#: inc/usp-process.php:496
+msgid "Guest"
+msgstr "Gæst"
+
+#: inc/usp-process.php:502
+msgid "Information about your submitted post."
+msgstr "Oplysninger om dit indsendte indlæg."
+
+#: inc/usp-process.php:503
+msgid "Hello "
+msgstr "Hej"
+
+#: inc/usp-process.php:504
+msgid "Here is the password for your submitted post: "
+msgstr "Her er adgangskoden til dit indlæg:"
+
+#: inc/usp-process.php:505
+msgid "Visit your post at "
+msgstr "Besøg dit indlæg på"
+
+#: inc/usp-process.php:1288
+msgid "Blog URL"
+msgstr "Blog-URL"
+
+#: inc/usp-process.php:1289
+msgid "Blog Name"
+msgstr "Blog navn"
+
+#: inc/usp-process.php:1290
+msgid "Admin Name"
+msgstr "Adminnavn"
+
+#: inc/usp-process.php:1291
+msgid "Admin From"
+msgstr "Admin Fra"
+
+#: inc/usp-process.php:1292
+msgid "Admin Email"
+msgstr "Admin E-mail"
+
+#: inc/usp-process.php:1293
+msgid "User Name"
+msgstr "Brugernavn"
+
+#: inc/usp-process.php:1294
+msgid "User Email"
+msgstr "Bruger Email"
+
+#: inc/usp-process.php:1295
+msgid "Post Date"
+msgstr "Postdato"
+
+#: inc/usp-process.php:1300
+msgid "Post ID"
+msgstr "Post-id"
+
+#: inc/usp-process.php:1301
+msgid "Post Object"
+msgstr "Post objekt"
+
+#: inc/usp-process.php:1303
+msgid "Post Custom"
+msgstr "Post tilpasset"
+
+#: inc/usp-process.php:1304
+msgid "Post Author"
+msgstr "Postforfatter"
+
+#: inc/usp-process.php:2057
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Lad venligst ikke indlæse denne side direkte. Tak!"
+
+#: inc/usp-backup.php:8
+msgid "Here you can download a backup of your settings, and/or import previous settings as needed. Note that your USP Pro License Key is not saved in the backup file."
+msgstr "Her kan du downloade en sikkerhedskopi af dine indstillinger, og / eller importere tidligere indstillinger efter behov. Bemærk, at din USP Pro Licensnøgle ikke er gemt i backupfilen."
+
+#: inc/usp-backup.php:10
+msgid "Backup/Export"
+msgstr "Backup / Eksport"
+
+#: inc/usp-backup.php:12
+msgid "Download your current settings:"
+msgstr "Download dine nuværende indstillinger:"
+
+#: inc/usp-backup.php:13
+msgid "Export Settings"
+msgstr "Eksportindstillinger"
+
+#: inc/usp-backup.php:18
+msgid "Restore/Import"
+msgstr "Genoprette / Import"
+
+#: inc/usp-backup.php:20
+msgid "Step 1: Select the backup file that you would like to restore:"
+msgstr "Trin 1: Vælg den sikkerhedskopieringsfil, du gerne vil gendanne:"
+
+#: inc/usp-backup.php:22
+msgid "Step 2: Click to restore your settings:"
+msgstr "Trin 2: Klik for at gendanne dine indstillinger:"
+
+#: inc/usp-backup.php:23
+msgid "Import Settings"
+msgstr "Importindstillinger"
+
+#: inc/usp-backup.php:71
+msgid "Invalid file type (must be JSON format)"
+msgstr "Ugyldig filtype (skal være JSON-format)"
+
+#: inc/usp-backup.php:74
+msgid "File is empty"
+msgstr "Filen er tom"
+
+#: shortcodes/usp-tax.php:53 shortcodes/usp-tags.php:48
+#: shortcodes/usp-cats.php:62
+msgid "Please select.."
+msgstr "Vælg venligst.."
+
+#: shortcodes/usp-tax.php:192
+msgid "No terms found for "
+msgstr "Ingen betingelser fundet for"
+
+#. Description of the plugin
+#: 
+msgid "Create unlimited forms and let visitors submit content, register, and more from the front-end."
+msgstr "Opret ubegrænsede formularer og lad besøgende indsende indhold, registrere og mere fra front-end."
+
+#. URI of the plugin
+#: 
+msgid "https://plugin-planet.com/usp-pro/"
+msgstr "https://plugin-planet.com/usp-pro/"
+
+#. Author of the plugin
+#: 
+msgid "Jeff Starr"
+msgstr "Jeff Starr"
+
+#. Author URI of the plugin
+#: 
+msgid "https://plugin-planet.com/"
+msgstr "https://plugin-planet.com/"
+

@@ -1,0 +1,315 @@
+// @import "../layout/content-sidebar";
+// @import "../layout/sidebar-content";
+
+/*--------------------------------------------------------------
+## Posts and pages
+--------------------------------------------------------------*/
+@import "primary/posts-and-pages";
+
+/*--------------------------------------------------------------
+## Comments
+--------------------------------------------------------------*/
+@import "primary/comments";
+
+
+/*--------------------------------------------------------------
+## Custom code for KMB site
+--------------------------------------------------------------*/
+
+body {
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
+}
+
+.page {
+  @include bp(desktop) {
+    max-width: 80%;
+    margin: 0 auto;
+  }
+
+  @include bp(tablet) {
+    max-width: 90%;
+    margin: 0 auto;
+  }
+}
+
+//  
+//  Header
+//  -----
+//  
+
+.site-header {
+  padding: 1.0em;
+  margin-bottom: 2.0em;
+
+  @include bp(mobile) {
+    padding: 0.5em;
+    margin-bottom: 0;
+  }
+}
+
+.site-branding {
+  float: left;
+  
+  @include bp(desktop-tablet) {
+    width: 20em;
+    height: 44px;
+  }
+
+  @include bp(mobile) {
+    max-width: 20em;
+    width: 80%;
+    line-height: 44px;
+  }
+  
+  & > a {
+    vertical-align: middle;
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+}
+
+//  
+//  Content
+//  -----
+//  
+
+.site-content {
+  @include bp(mobile) {
+    margin: 0 1.0em;
+  }
+}
+
+.entry-content {
+  margin-top: 0;
+
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p,
+  blockquote {
+    @include bp(desktop-tablet) {
+      width: 75%;
+    }
+
+    max-width: 40rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+//
+//  Sections
+//  -----
+//  
+
+.wp-block-mkl-section-block,
+.entry-content > .wp-block-mkl-section-block {
+  @include bp(mobile) {
+    padding: 1.0em;
+    padding-top: 1.0em !important;
+    padding-bottom: 1.0em !important;
+    margin-left: -1.0em;
+    margin-right: -1.0em;
+    width: auto;
+  }
+
+  & > *:first-child {
+    margin-top: 0;
+  }
+
+  & > *:last-child {
+    margin-bottom: 0;
+  }
+}
+
+//  
+//  Gutenberg Block Customizations
+//  -----
+//  
+
+.wp-block-cover-text {
+  margin-top: 0;
+}
+
+//  
+//  Resource List Shortcode & Resource List CTA
+//  -----
+//  
+
+.resource_list,
+.resource_cta {
+  max-width: 40rem;
+  margin-left: -0.5em;
+  margin-right: -0.5em;
+  margin-bottom: 0;
+
+  @include bp(desktop-tablet) {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.resource_list {
+  padding: 0;
+  list-style-type: none;
+  background-color: $color__white;
+
+  li {
+    padding: 1.0em 1.0em 1px;
+
+    &:after {
+      content: '';
+      display: block;
+      width: 100%;
+      height: 3px;
+      border-radius: 0.25em;
+      background-color: $color__blue-lighter;
+    }
+    
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    p,
+    blockquote {
+      width: auto;
+      max-width: none;
+    }
+
+    &:last-child {
+      &:after {
+        display: none;
+      }
+    }
+  }
+
+  .resource__title {
+    margin: 0;
+    
+    a {
+      &:hover, &:focus, &:active {
+        color: $color__blue-dark;
+      }
+    }
+  }
+
+  .resource__link {
+    margin: 0 0 1.0em;
+    font-size: 0.875em;
+
+    a {
+      text-decoration: none;
+      font-weight: bold;
+      color: $color__blue-mid;
+
+      &:hover, &:focus, &:active {
+        color: $color__blue-dark;
+      }
+    }
+  }
+
+  .resource__content {
+    padding-bottom: 1.0em;
+
+    & > *:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
+
+//  
+//  Buttons
+//  -----
+//  
+
+.wp-block-button {
+  .wp-block-button__link {
+    min-width: 15em;
+    padding: 1.0em 2.0em;
+  }
+
+  &.is-style-squared {
+    .wp-block-button__link {
+      border-radius: 0.25em;
+    }
+  }
+}
+
+//  
+//  Footer
+//  -----
+//  
+
+.widget-area {
+  max-width: 40em;
+  margin: 0 auto;
+  text-align: center;
+  color: $color___grey;
+}
+
+//  
+//  Forms
+//  -----
+//  
+
+.usp-pro {
+  padding: 0 1.0em;
+
+  @include bp(desktop-tablet) {
+    width: 75%;
+    max-width: 40rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.usp-label {
+  margin-bottom: 0.5em;
+  font-style: 1.125em;
+  font-weight: bold;
+}
+
+.usp-input,
+.usp-input[type="text"] {
+  padding: 0.5em 1.0em;
+  border: 0;
+  border-radius: 0.25em;
+
+  &::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    font-style: italic;
+  }
+  &::-moz-placeholder { /* Firefox 19+ */
+    font-style: italic;
+  }
+  &:-ms-input-placeholder { /* IE 10+ */
+    font-style: italic;
+  }
+  &:-moz-placeholder { /* Firefox 18- */
+    font-style: italic;
+  }
+}
+
+.usp-submit[type="submit"] {
+  min-width: 15em;
+  padding: 1.0em 2.0em;
+  border-radius: 0.25em;
+  border: 0;
+  font-size: 1.125em;
+  font-weight: bold;
+  color: $color__white;
+  background-color: $color__orange;
+}
+
+.usp-success {
+  margin-bottom: 1.5rem;
+  font-size: 1.825em;
+  font-weight: bold;
+}

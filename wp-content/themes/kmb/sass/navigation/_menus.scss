@@ -1,0 +1,160 @@
+.main-navigation {
+	line-height: 44px;
+	text-align: right;
+	
+	@include bp(desktop-tablet) {
+		float: right;
+	  width: 50%;
+	}
+
+	ul {
+		display: none;
+		list-style: none;
+		margin: 0;
+		padding-left: 0;
+
+		@include bp(desktop-tablet) {
+			display: block;
+		}
+
+		ul {
+			box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
+			float: left;
+			position: absolute;
+			top: 100%;
+			left: -999em;
+			z-index: 99999;
+
+			ul {
+				left: -999em;
+				top: 0;
+			}
+
+			li {
+				&:hover > ul,
+				&.focus > ul {
+					left: 100%;
+				}
+			}
+
+			a {
+				width: 200px;
+			}
+
+			:hover > a,
+			.focus > a {
+			}
+
+			a:hover,
+			a.focus {
+			}
+		}
+
+		li:hover > ul,
+		li.focus > ul {
+			left: auto;
+		}
+	}
+
+	li {
+		position: relative;
+		display: inline-block;
+		margin: 0 0.5em;
+
+		&:hover > a,
+		&.focus > a {
+		}
+	}
+
+	a {
+		display: block;
+		text-decoration: none;
+	}
+
+	.current_page_item > a,
+	.current-menu-item > a,
+	.current_page_ancestor > a,
+	.current-menu-ancestor > a {
+	}
+}
+
+/* Small menu. */
+.menu-toggle,
+.main-navigation.toggled ul {
+	display: block;
+}
+
+// Mobile menu button
+.menu-toggle {
+	vertical-align: middle;
+	display: inline-block;
+	width: 44px;
+	height: 44px;
+	border: 0;
+	background: transparent url($menu_button) left top no-repeat;
+	background-size: cover;
+	cursor: pointer;
+
+	@include bp(desktop-tablet) {
+		display: none;
+	}
+	
+	span {
+		display: none;
+	}
+
+	&:hover, &:focus, &:active {
+		background-position: left 25%;
+	}
+}
+
+//	
+//	Visible Mobile Menu
+//	-----
+//	
+
+.main-navigation.toggled {
+	.menu-toggle {
+		background-position: left 75%;
+
+		&:hover, &:focus, &:active {
+			background-position: left 50%;
+		}
+	}
+
+	.main-navigation {
+		li {
+			float: none;
+			display: inline-block;
+			padding: 0.5em;
+		}
+	}
+
+	// Mobile menu
+	.menu-top-menu-container {
+		display: block;
+		text-align: center;
+		clear: both;
+	}
+}
+
+.comment-navigation,
+.posts-navigation,
+.post-navigation {
+
+	.site-main & {
+		margin: 0 0 1.5em;
+		overflow: hidden;
+	}
+
+	.nav-previous {
+		float: left;
+		width: 50%;
+	}
+
+	.nav-next {
+		float: right;
+		text-align: right;
+		width: 50%;
+	}
+}

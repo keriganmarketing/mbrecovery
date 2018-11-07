@@ -1,0 +1,4721 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: USP Pro\n"
+"Language: sl\n"
+
+#. Name of the plugin
+#: usp-pro.php:162 usp-pro.php:1268 updates/usp-updates.php:49
+msgid "USP Pro"
+msgstr "USP Pro"
+
+#: usp-pro.php:163
+msgid "should not be run with the free version of USP (there is no need for both plugins). "
+msgstr "ne bi smeli zagnati s prosto različico USP-ja (za oba vtičnika ni potrebe)."
+
+#: usp-pro.php:164
+msgid "Please return to the"
+msgstr "Prosim, vrnite se na"
+
+#: usp-pro.php:164
+msgid "WP Admin Area"
+msgstr "Upravno območje WP"
+
+#: usp-pro.php:165
+msgid "to deactivate the free version and try again. "
+msgstr "da deaktivirate brezplačno različico in poskusite znova."
+
+#: usp-pro.php:166
+msgid "Note: before uninstalling/deleting the free version, you may want to make a backup of your settings."
+msgstr "Opomba: preden odstranite / izbrišete brezplačno različico, boste morda želeli varnostno kopirati svoje nastavitve."
+
+#: usp-pro.php:201
+msgid "has been deactivated because it requires WordPress version "
+msgstr "je bil deaktiviran, ker zahteva WordPress različico"
+
+#: usp-pro.php:201
+msgid " or higher. "
+msgstr " ali višje."
+
+#: usp-pro.php:202
+msgid "Please"
+msgstr "Prosim"
+
+#: usp-pro.php:202
+msgid "return to the Admin Area"
+msgstr "vrnite se na področje Admin"
+
+#: usp-pro.php:202
+msgid "to upgrade WordPress and try again."
+msgstr "da nadgradite WordPress in poskusite znova."
+
+#: usp-pro.php:246 inc/usp-forms.php:1422 inc/usp-about.php:43
+#: inc/usp-about.php:107 inc/usp-about.php:181 inc/usp-about.php:247
+#: inc/usp-callbacks.php:7 inc/usp-callbacks.php:98 inc/usp-callbacks.php:198
+#: inc/usp-callbacks.php:211 inc/usp-callbacks.php:264
+#: inc/usp-callbacks.php:273 inc/usp-callbacks.php:284
+msgid "Undefined"
+msgstr "Nedoločeno"
+
+#: usp-pro.php:285
+msgid "USP"
+msgstr "USP"
+
+#: usp-pro.php:369
+msgid "General"
+msgstr "Splošno"
+
+#: usp-pro.php:374
+msgid "Basic Settings"
+msgstr "Osnovne nastavitve"
+
+#: usp-pro.php:375
+msgid "Default Post Status"
+msgstr "Privzeti status posta"
+
+#: usp-pro.php:376
+msgid "Custom Post Status"
+msgstr "Stanje po meri"
+
+#: usp-pro.php:377
+msgid "Redirect to Post"
+msgstr "Preusmerite na Objavi"
+
+#: usp-pro.php:378
+msgid "Enable Basic Statistics"
+msgstr "Omogoči osnovno statistiko"
+
+#: usp-pro.php:379
+msgid "Min Character Limit"
+msgstr "Minimalna meja znakov"
+
+#: usp-pro.php:380
+msgid "Max Character Limit"
+msgstr "Maksimalna meja znakov"
+
+#: usp-pro.php:381
+msgid "Unique Post Titles"
+msgstr "Edinstveni naslovi naslovov"
+
+#: usp-pro.php:382
+msgid "Unique Post Content"
+msgstr "Edinstvena vsebina objave"
+
+#: usp-pro.php:384
+msgid "Memory Settings"
+msgstr "Nastavitve pomnilnika"
+
+#: usp-pro.php:385
+msgid "Remember Form Values"
+msgstr "Zapomni si vrednosti obrazca"
+
+#: usp-pro.php:386
+msgid "Memory Duration"
+msgstr "Trajanje spomina"
+
+#: usp-pro.php:387
+msgid "Memory Default"
+msgstr "Privzeto pomnilnik"
+
+#: usp-pro.php:389
+msgid "User Settings"
+msgstr "Uporabniške nastavitve"
+
+#: usp-pro.php:390
+msgid "Default Assigned Author"
+msgstr "Privzeto dodeljeni avtor"
+
+#: usp-pro.php:391
+msgid "Default Assigned Role"
+msgstr "Privzeta dodeljena vloga"
+
+#: usp-pro.php:392
+msgid "Use Registered Author"
+msgstr "Uporabite registrirani avtor"
+
+#: usp-pro.php:393
+msgid "Replace Author &amp; URL"
+msgstr "Zamenjaj avtor & amp; URL"
+
+#: usp-pro.php:395
+msgid "Antispam/Captcha"
+msgstr "Antispam / Captcha"
+
+#: usp-pro.php:396 inc/usp-defaults.php:113 inc/usp-forms.php:698
+msgid "Challenge Question"
+msgstr "Izziv vprašanje"
+
+#: usp-pro.php:397
+msgid "Challenge Response"
+msgstr "Odgovor na izziv"
+
+#: usp-pro.php:398
+msgid "Case-sensitivity"
+msgstr "Čustvena občutljivost"
+
+#: usp-pro.php:399
+msgid "reCAPTCHA Public Key"
+msgstr "javni ključ reCAPTCHA"
+
+#: usp-pro.php:400
+msgid "reCAPTCHA Private Key"
+msgstr "zasebni ključ reCAPTCHA"
+
+#: usp-pro.php:401
+msgid "reCAPTCHA Version"
+msgstr "različica reCAPTCHA"
+
+#: usp-pro.php:403
+msgid "Category Settings"
+msgstr "Nastavitve kategorije"
+
+#: usp-pro.php:404
+msgid "Category Menu"
+msgstr "Meni kategorije"
+
+#: usp-pro.php:405
+msgid "Multiple Categories"
+msgstr "Več kategorij"
+
+#: usp-pro.php:406
+msgid "Nested Categories"
+msgstr "Nested Kategorije"
+
+#: usp-pro.php:407
+msgid "Hide Category Field"
+msgstr "Skrij polje kategorije"
+
+#: usp-pro.php:408
+msgid "Required Categories"
+msgstr "Zahtevane kategorije"
+
+#: usp-pro.php:409
+msgid "Required Category IDs"
+msgstr "Zahtevane ID-ji kategorije"
+
+#: usp-pro.php:410 inc/usp-process.php:1298
+msgid "Post Categories"
+msgstr "Objavi kategorije"
+
+#: usp-pro.php:412
+msgid "Tag Settings"
+msgstr "Nastavitve oznake"
+
+#: usp-pro.php:413
+msgid "Tag Menu"
+msgstr "Meni z oznako"
+
+#: usp-pro.php:414
+msgid "Allow Multiple Tags"
+msgstr "Dovoli več oznak"
+
+#: usp-pro.php:415
+msgid "Hide Tags Field"
+msgstr "Skrij polja z oznako"
+
+#: usp-pro.php:416
+msgid "Tag Order"
+msgstr "Oznaka naročila"
+
+#: usp-pro.php:417 inc/usp-defaults.php:112 inc/usp-process.php:1299
+msgid "Post Tags"
+msgstr "Objavi oznake"
+
+#: usp-pro.php:418
+msgid "Number of Tags"
+msgstr "Število oznak"
+
+#: usp-pro.php:419
+msgid "Hide Empty Tags"
+msgstr "Skrij prazne oznake"
+
+#: usp-pro.php:421
+msgid "Extra Form Security"
+msgstr "Dodatna varnost obrazca"
+
+#: usp-pro.php:422
+msgid "Enable this feature"
+msgstr "Omogočite to funkcijo"
+
+#: usp-pro.php:423
+msgid "Post-Submission Forms"
+msgstr "Obrazci za naknadno oddajo"
+
+#: usp-pro.php:424
+msgid "User-Registration Forms"
+msgstr "Obrazci za registracijo uporabnika"
+
+#: usp-pro.php:425
+msgid "Contact Forms"
+msgstr "Kontaktni obrazci"
+
+#: usp-pro.php:433
+msgid "CSS/JS"
+msgstr "CSS / JS"
+
+#: usp-pro.php:439
+msgid "Select Form Style"
+msgstr "Izberite slog obrazca"
+
+#: usp-pro.php:440
+msgid "Simple Style"
+msgstr "Preprost stil"
+
+#: usp-pro.php:441
+msgid "Minimal Style"
+msgstr "Minimalni stil"
+
+#: usp-pro.php:442
+msgid "Smaller Form"
+msgstr "Manjša oblika"
+
+#: usp-pro.php:443
+msgid "Larger Form"
+msgstr "Večja oblika"
+
+#: usp-pro.php:444
+msgid "Custom Style"
+msgstr "Custom Style"
+
+#: usp-pro.php:445
+msgid "External Stylesheet"
+msgstr "Zunanja slogovna tabela"
+
+#: usp-pro.php:448
+msgid "Custom JavaScript"
+msgstr "Prilagojen JavaScript"
+
+#: usp-pro.php:449
+msgid "Include USP JavaScript"
+msgstr "Vključite JavaScript USP"
+
+#: usp-pro.php:450
+msgid "Include Parsley.js"
+msgstr "Vključi Parsley.js"
+
+#: usp-pro.php:453
+msgid "Targeted Loading"
+msgstr "Ciljno nakladanje"
+
+#: usp-pro.php:461
+msgid "Uploads"
+msgstr "Nalaganje"
+
+#: usp-pro.php:466
+msgid "Auto-Display Images"
+msgstr "Samodejno prikazovanje slik"
+
+#: usp-pro.php:467
+msgid "Auto-Display Size"
+msgstr "Velikost samodejnega prikaza"
+
+#: usp-pro.php:468
+msgid "Min number of files"
+msgstr "Min število datotek"
+
+#: usp-pro.php:469
+msgid "Max number of files"
+msgstr "Največje število datotek"
+
+#: usp-pro.php:470
+msgid "Allowed File Types"
+msgstr "Dovoljene vrste datotek"
+
+#: usp-pro.php:471
+msgid "Minimum file size"
+msgstr "Najmanjša velikost datoteke"
+
+#: usp-pro.php:472
+msgid "Maximum file size"
+msgstr "Največja velikost datoteke"
+
+#: usp-pro.php:473
+msgid "Min width for images"
+msgstr "Min width za slike"
+
+#: usp-pro.php:474
+msgid "Max width for images"
+msgstr "Največja širina za slike"
+
+#: usp-pro.php:475
+msgid "Min height for images"
+msgstr "Minimalna višina za slike"
+
+#: usp-pro.php:476
+msgid "Max height for images"
+msgstr "Največja višina za slike"
+
+#: usp-pro.php:477
+msgid "Featured Images"
+msgstr "Predstavljene slike"
+
+#: usp-pro.php:478
+msgid "Featured Image Key"
+msgstr "Izbrani slikovni ključ"
+
+#: usp-pro.php:479
+msgid "Unique File Names"
+msgstr "Edinstvena imena datotek"
+
+#: usp-pro.php:480
+msgid "User Shortcodes"
+msgstr "Uporabniške kratice"
+
+#: usp-pro.php:481
+msgid "Non-Admin Media"
+msgstr "Mediji, ki niso skrbniki"
+
+#: usp-pro.php:482 usp-pro.php:712
+msgid "Require Square Images"
+msgstr "Zahtevajte kvadratne slike"
+
+#: usp-pro.php:483
+msgid "Auto-Rotate Images"
+msgstr "Samodejno zasuk slike"
+
+#: usp-pro.php:491 inc/usp-login.php:179
+msgid "Admin"
+msgstr "Admin"
+
+#: usp-pro.php:497
+msgid "Admin Email To"
+msgstr "Admin E-pošta v"
+
+#: usp-pro.php:498
+msgid "Admin Email From"
+msgstr "Admin E-pošta od"
+
+#: usp-pro.php:499
+msgid "Admin Email Name"
+msgstr "Ime e-poštnega sporočila skrbnika"
+
+#: usp-pro.php:502
+msgid "Email Alerts"
+msgstr "Opozorila e-pošte"
+
+#: usp-pro.php:503
+msgid "Email Format"
+msgstr "Format e-pošte"
+
+#: usp-pro.php:506 usp-pro.php:524
+msgid "Submission Alerts"
+msgstr "Opozorila za predložitev"
+
+#: usp-pro.php:507 usp-pro.php:525
+msgid "Approval Alerts"
+msgstr "Opozorila o odobritvi"
+
+#: usp-pro.php:508 usp-pro.php:526
+msgid "Denied Alerts"
+msgstr "Zavrnjena opozorila"
+
+#: usp-pro.php:509 usp-pro.php:527
+msgid "Scheduled Alerts"
+msgstr "Načrtovane opozorila"
+
+#: usp-pro.php:510 usp-pro.php:528
+msgid "Submission Alert Subject"
+msgstr "Predmet opozorila o predložitvi"
+
+#: usp-pro.php:511 usp-pro.php:529
+msgid "Submission Alert Message"
+msgstr "Sporočilo o opozorilu o predložitvi"
+
+#: usp-pro.php:512 usp-pro.php:530
+msgid "Approval Alert Subject"
+msgstr "Zadeva za odobritev odobritve"
+
+#: usp-pro.php:513 usp-pro.php:531
+msgid "Approval Alert Message"
+msgstr "Sporočilo o odobritvi odobritve"
+
+#: usp-pro.php:514 usp-pro.php:532
+msgid "Denied Alert Subject"
+msgstr "Zavrnjen predmet opozorila"
+
+#: usp-pro.php:515 usp-pro.php:533
+msgid "Denied Alert Message"
+msgstr "Zavrnjeno obvestilo o opozorilu"
+
+#: usp-pro.php:516 usp-pro.php:534
+msgid "Scheduled Alert Subject"
+msgstr "Predvideni seznam opozoril"
+
+#: usp-pro.php:517 usp-pro.php:535
+msgid "Scheduled Alert Message"
+msgstr "Sporočilo o načrtovanem opozorilu"
+
+#: usp-pro.php:518
+msgid "CC Submission Alerts"
+msgstr "Opozorila o oddaji CC"
+
+#: usp-pro.php:519
+msgid "CC Approval Alerts"
+msgstr "Opozorila o odobritvi CC"
+
+#: usp-pro.php:520
+msgid "CC Denied Alerts"
+msgstr "CC zavrnjenih opozoril"
+
+#: usp-pro.php:521
+msgid "CC Scheduled Alerts"
+msgstr "CC načrtovane opozorila"
+
+#: usp-pro.php:538
+msgid "Subject Line Prefix"
+msgstr "Predmetna linija predmeta"
+
+#: usp-pro.php:539
+msgid "Subject Line"
+msgstr "Zadeva"
+
+#: usp-pro.php:540
+msgid "Email From"
+msgstr "E-pošta od"
+
+#: usp-pro.php:541
+msgid "Custom Content"
+msgstr "Vsebina po meri"
+
+#: usp-pro.php:542
+msgid "CC Emails"
+msgstr "CC Emails"
+
+#: usp-pro.php:543
+msgid "CC User"
+msgstr "Uporabnik CC"
+
+#: usp-pro.php:544
+msgid "CC User Message"
+msgstr "Uporabniško sporočilo CC"
+
+#: usp-pro.php:545
+msgid "Include User Stats"
+msgstr "Vključi statistiko uporabnikov"
+
+#: usp-pro.php:546
+msgid "Include Custom Fields"
+msgstr "Vključi polja po meri"
+
+#: usp-pro.php:549
+msgid "Custom Recipient 1"
+msgstr "Po meri prejemnik 1"
+
+#: usp-pro.php:550
+msgid "Custom Recipient 2"
+msgstr "Custom prejemnik 2"
+
+#: usp-pro.php:551
+msgid "Custom Recipient 3"
+msgstr "Custom prejemnik 3"
+
+#: usp-pro.php:552
+msgid "Custom Recipient 4"
+msgstr "Custom prejemnik 4"
+
+#: usp-pro.php:553
+msgid "Custom Recipient 5"
+msgstr "Custom prejemnik 5"
+
+#: usp-pro.php:562
+msgid "Advanced"
+msgstr "Napredno"
+
+#: usp-pro.php:567
+msgid "Form Configuration"
+msgstr "Konfiguracija obrazca"
+
+#: usp-pro.php:568
+msgid "Display Form on Success"
+msgstr "Prikazni obrazec za uspeh"
+
+#: usp-pro.php:569
+msgid "Enable Auto-Formatting"
+msgstr "Omogoči samodejno oblikovanje"
+
+#: usp-pro.php:570
+msgid "Auto-Include Fieldsets"
+msgstr "Samodejno vključi polja"
+
+#: usp-pro.php:571
+msgid "Auto-Generate Form Demos"
+msgstr "Samodejno ustvarjanje demo obrazca"
+
+#: usp-pro.php:572
+msgid "Auto-Generate Post Demos"
+msgstr "Samodejno ustvarjanje demo sporočil"
+
+#: usp-pro.php:573
+msgid "Auto-Include Submit Button"
+msgstr "Samodejno vključi gumb za pošiljanje"
+
+#: usp-pro.php:574
+msgid "Text for Submit Button"
+msgstr "Besedilo za gumb za pošiljanje"
+
+#: usp-pro.php:575
+msgid "Post Formatting"
+msgstr "Oblikovanje objave"
+
+#: usp-pro.php:576
+msgid "Custom Form Attributes"
+msgstr "Atributi atributa po meri"
+
+#: usp-pro.php:577
+msgid "Redirect URL for Success"
+msgstr "Preusmeri URL za uspeh"
+
+#: usp-pro.php:578
+msgid "Redirect URL for Failure"
+msgstr "Preusmeri URL za napako"
+
+#: usp-pro.php:579 usp-pro.php:700
+msgid "Content Filter"
+msgstr "Filtri vsebine"
+
+#: usp-pro.php:581
+msgid "Custom Post Type"
+msgstr "Vrsta po meri po meri"
+
+#: usp-pro.php:582
+msgid "Submitted Post Type"
+msgstr "Poslana vrsta objave"
+
+#: usp-pro.php:583
+msgid "Slug for USP Post"
+msgstr "Slug za USP Post"
+
+#: usp-pro.php:584
+msgid "Slug for Existing Post Type"
+msgstr "Slug za obstoječi način pošte"
+
+#: usp-pro.php:585
+msgid "Roles for USP Posts"
+msgstr "Vloge za objave USP"
+
+#: usp-pro.php:586
+msgid "Roles for USP Forms"
+msgstr "Vloge za obrazce USP"
+
+#: usp-pro.php:588
+msgid "Default Form Fields"
+msgstr "Privzeta polja obrazca"
+
+#: usp-pro.php:589
+msgid "Default Post Title"
+msgstr "Privzeti naslov"
+
+#: usp-pro.php:590
+msgid "Default Post Content"
+msgstr "Privzeta vsebina objave"
+
+#: usp-pro.php:592
+msgid "Before/After USP Forms"
+msgstr "Pred / po obrazci USP"
+
+#: usp-pro.php:593
+msgid "Custom Before Forms"
+msgstr "Custom Before Forms"
+
+#: usp-pro.php:594
+msgid "Custom After Forms"
+msgstr "Custom After Forms"
+
+#: usp-pro.php:596
+msgid "Success Message"
+msgstr "Sporočilo o uspehu"
+
+#: usp-pro.php:597
+msgid "Register User"
+msgstr "Registriraj uporabnik"
+
+#: usp-pro.php:598 inc/usp-defaults.php:72 inc/usp-shortcodes.php:676
+msgid "Submit Post"
+msgstr "Pošlji sporočilo"
+
+#: usp-pro.php:599
+msgid "Register and Submit"
+msgstr "Registriraj in pošlji"
+
+#: usp-pro.php:600
+msgid "Contact Form"
+msgstr "Kontaktni obrazec"
+
+#: usp-pro.php:601
+msgid "Contact Form and Register"
+msgstr "Kontaktni obrazec in register"
+
+#: usp-pro.php:602
+msgid "Contact Form and Post"
+msgstr "Kontaktni obrazec in pošta"
+
+#: usp-pro.php:603
+msgid "Contact, Register, and Post"
+msgstr "Stik, registracija in objava"
+
+#: usp-pro.php:604
+msgid "Custom Before Message"
+msgstr "Po meri pred sporočilom"
+
+#: usp-pro.php:605
+msgid "Custom After Message"
+msgstr "Po meri po sporočilu"
+
+#: usp-pro.php:607
+msgid "Primary Form Fields"
+msgstr "Primarna polja obrazca"
+
+#: usp-pro.php:609
+msgid "Primary Field "
+msgstr "Primarno polje"
+
+#: usp-pro.php:612
+msgid "User-Registration Fields"
+msgstr "Polja za registracijo uporabnikov"
+
+#: usp-pro.php:613 usp-pro.php:715
+msgid "Nicename"
+msgstr "Lepo ime"
+
+#: usp-pro.php:613 usp-pro.php:715
+msgid "Display Name"
+msgstr "Prikazno ime"
+
+#: usp-pro.php:613 usp-pro.php:715
+msgid "Nickname"
+msgstr "Vzdevek"
+
+#: usp-pro.php:613 usp-pro.php:715
+msgid "First Name"
+msgstr "Ime"
+
+#: usp-pro.php:613 usp-pro.php:715
+msgid "Last Name"
+msgstr "Priimek"
+
+#: usp-pro.php:613 usp-pro.php:676 usp-pro.php:715 inc/usp-defaults.php:121
+msgid "Description"
+msgstr "Opis"
+
+#: usp-pro.php:613 usp-pro.php:715 inc/usp-login.php:114
+msgid "Password"
+msgstr "Geslo"
+
+#: usp-pro.php:618 usp-pro.php:619
+msgid "Custom Fields"
+msgstr "Polja po meri"
+
+#: usp-pro.php:621
+msgid "Custom Field Names"
+msgstr "Imena polj po meri"
+
+#: usp-pro.php:626
+msgid "Custom Field "
+msgstr "Polje po meri"
+
+#: usp-pro.php:631
+msgid "Custom Field Prefix"
+msgstr "Predpona po meri"
+
+#: usp-pro.php:632
+msgid "Custom Prefix"
+msgstr "Predpona po meri"
+
+#: usp-pro.php:634
+msgid "Custom Custom Fields"
+msgstr "Prilagojena polja po meri"
+
+#: usp-pro.php:635
+msgid "Optional Fields"
+msgstr "Neobvezna polja"
+
+#: usp-pro.php:636
+msgid "Required Fields"
+msgstr "zahtevana polja"
+
+#: usp-pro.php:638
+msgid "Custom Custom Field Names"
+msgstr "Po meri prilagojena imena polj"
+
+#: usp-pro.php:654
+msgid "Errors"
+msgstr "Napake"
+
+#: usp-pro.php:659
+msgid "Default Error Message"
+msgstr "Privzeto sporočilo o napaki"
+
+#: usp-pro.php:660
+msgid "Custom Before Errors"
+msgstr "Po meri pred napakami"
+
+#: usp-pro.php:661
+msgid "Custom After Errors"
+msgstr "Custom Po napakah"
+
+#: usp-pro.php:663
+msgid "Primary Field Errors"
+msgstr "Primarne napake na terenu"
+
+#: usp-pro.php:664 inc/usp-posts.php:277
+msgid "Name"
+msgstr "Ime"
+
+#: usp-pro.php:665
+msgid "URL"
+msgstr "URL"
+
+#: usp-pro.php:666 inc/usp-forms.php:242
+msgid "Title"
+msgstr "Naslov"
+
+#: usp-pro.php:667
+msgid "Tags"
+msgstr "Oznake"
+
+#: usp-pro.php:668
+msgid "Captcha"
+msgstr "Captcha"
+
+#: usp-pro.php:669
+msgid "Category"
+msgstr "Kategorija"
+
+#: usp-pro.php:670
+msgid "Content"
+msgstr "Vsebina"
+
+#: usp-pro.php:671
+msgid "Files"
+msgstr "Datoteke"
+
+#: usp-pro.php:672 inc/usp-defaults.php:117
+msgid "Email Address"
+msgstr "Email naslov"
+
+#: usp-pro.php:673 inc/usp-defaults.php:47 inc/usp-defaults.php:118
+msgid "Email Subject"
+msgstr "Tema elektronske pošte"
+
+#: usp-pro.php:674
+msgid "Alt Text"
+msgstr "Alt Besedilo"
+
+#: usp-pro.php:675 inc/usp-defaults.php:120
+msgid "Caption"
+msgstr "Napis"
+
+#: usp-pro.php:677 inc/usp-defaults.php:122
+msgid "Taxonomy"
+msgstr "Taksonomija"
+
+#: usp-pro.php:678 inc/usp-defaults.php:123
+msgid "Post Format"
+msgstr "Oblika zapisa"
+
+#: usp-pro.php:679 inc/usp-defaults.php:124
+msgid "Media Title"
+msgstr "Naslov medija"
+
+#: usp-pro.php:680 inc/usp-defaults.php:125
+msgid "File Name"
+msgstr "Ime datoteke"
+
+#: usp-pro.php:681
+msgid "Agree to Terms"
+msgstr "Se strinjam s pogoji"
+
+#: usp-pro.php:682 inc/usp-defaults.php:127
+msgid "Post Excerpt"
+msgstr "Objavljanje izpiskov"
+
+#: usp-pro.php:684
+msgid "Form Submission Errors"
+msgstr "Napake pri oddaji obrazca"
+
+#: usp-pro.php:685
+msgid "Username Error"
+msgstr "Uporabniška napaka"
+
+#: usp-pro.php:686
+msgid "User Email Error"
+msgstr "Napaka uporabniške pošte"
+
+#: usp-pro.php:687
+msgid "User Exists"
+msgstr "Uporabnik obstaja"
+
+#: usp-pro.php:688
+msgid "Registration Disabled"
+msgstr "Prijava onemogočena"
+
+#: usp-pro.php:689
+msgid "Post Required"
+msgstr "Objava obvezna"
+
+#: usp-pro.php:690
+msgid "Duplicate Post"
+msgstr "Podvojena objava"
+
+#: usp-pro.php:691
+msgid "Name Restriction"
+msgstr "Omejitev imena"
+
+#: usp-pro.php:692
+msgid "Incorrect Captcha"
+msgstr "Nepravilna Captcha"
+
+#: usp-pro.php:693
+msgid "Content Minimum"
+msgstr "Minimalna vsebina"
+
+#: usp-pro.php:694
+msgid "Content Maximum"
+msgstr "Najvišja vsebina"
+
+#: usp-pro.php:695
+msgid "Excerpt Minimum"
+msgstr "Minimalni izvleček"
+
+#: usp-pro.php:696
+msgid "Excerpt Maximum"
+msgstr "Izvleček Najvišji"
+
+#: usp-pro.php:697
+msgid "Incorrect Address"
+msgstr "Nepravilen naslov"
+
+#: usp-pro.php:698
+msgid "Subject Restriction"
+msgstr "Omejitev predmeta"
+
+#: usp-pro.php:699
+msgid "Incorrect Form Type"
+msgstr "Napačna oblika obrazca"
+
+#: usp-pro.php:702
+msgid "File Submission Errors"
+msgstr "Napake pri oddaji datotek"
+
+#: usp-pro.php:703
+msgid "Files Required"
+msgstr "Zahtevane datoteke"
+
+#: usp-pro.php:704
+msgid "File Required"
+msgstr "Zahtevana datoteka"
+
+#: usp-pro.php:705
+msgid "File Type Not Allowed"
+msgstr "Vrsta datoteke ni dovoljena"
+
+#: usp-pro.php:706
+msgid "File Dimensions"
+msgstr "Mere datotek"
+
+#: usp-pro.php:707
+msgid "Maximum File Size"
+msgstr "Največja velikost datoteke"
+
+#: usp-pro.php:708
+msgid "Minimum File Size"
+msgstr "Najmanjša velikost datoteke"
+
+#: usp-pro.php:709
+msgid "File Name Length"
+msgstr "Dolžina datoteke datoteke"
+
+#: usp-pro.php:710
+msgid "Min Number of Files"
+msgstr "Min Število datotek"
+
+#: usp-pro.php:711
+msgid "Max Number of Files"
+msgstr "Največje število datotek"
+
+#: usp-pro.php:714
+msgid "User Registration Errors"
+msgstr "Napake pri registraciji uporabnika"
+
+#: usp-pro.php:720
+msgid "Miscellaneous Errors"
+msgstr "Razne napake"
+
+#: usp-pro.php:721
+msgid "Error Separator"
+msgstr "Separator napak"
+
+#: usp-pro.php:722
+msgid "Before Taxonomy"
+msgstr "Pred taksonomijo"
+
+#: usp-pro.php:723
+msgid "After Taxonomy"
+msgstr "Po taksonomiji"
+
+#: usp-pro.php:724
+msgid "Before Custom Field"
+msgstr "Pred poljem po meri"
+
+#: usp-pro.php:725
+msgid "After Custom Field"
+msgstr "Po meri po meri"
+
+#: usp-pro.php:734
+msgid "Tools"
+msgstr "Orodja"
+
+#: usp-pro.php:739 usp-pro.php:740
+msgid "Restore Default Settings"
+msgstr "Obnovi privzete nastavitve"
+
+#: usp-pro.php:747
+msgid "About"
+msgstr "O podjetju"
+
+#: usp-pro.php:753
+msgid "License"
+msgstr "Licenca"
+
+#: usp-pro.php:786
+msgid "Name for Custom Field #"
+msgstr "Ime polja po meri #"
+
+#: usp-pro.php:787
+msgid "Name for Custom Field:"
+msgstr "Ime po meri:"
+
+#: usp-pro.php:874
+msgid "No Limit"
+msgstr "Ni omejitev"
+
+#: usp-pro.php:940
+msgid "Select which tags may be assigned to submitted posts (see next two options). "
+msgstr "Izberite, katere oznake se lahko dodelijo predloženim objavam (glejte naslednje dve možnosti)."
+
+#: usp-pro.php:941
+msgid "Show/Hide Tags&nbsp;&raquo;"
+msgstr "Prikaži / skrij oznake & nbsp; & raquo;"
+
+#: usp-pro.php:955
+msgid "Select which categories may be assigned to submitted posts. "
+msgstr "Izberite, katere kategorije se lahko dodelijo za poslane objave."
+
+#: usp-pro.php:956
+msgid "Show/Hide Categories&nbsp;&raquo;"
+msgstr "Prikaži / skrij kategorije & nbsp; & raquo;"
+
+#: usp-pro.php:1028
+msgid "Which user roles should have access to USP Posts (when applicable): "
+msgstr "Katera uporabniška vloga mora imeti dostop do delovnih mest USP (če je to ustrezno):"
+
+#: usp-pro.php:1039
+msgid "Which user roles should have access to USP Forms: "
+msgstr "Kateri uporabniški vlogi morajo imeti dostop do obrazcev USP:"
+
+#: usp-pro.php:1112
+msgid "Future (Scheduled Post)"
+msgstr "Prihodnost (načrtovana pošta)"
+
+#: usp-pro.php:1113
+msgid "Always publish (via Password)"
+msgstr "Vedno objavi (prek gesla)"
+
+#: usp-pro.php:1114
+msgid "Always publish (via Private)"
+msgstr "Vedno objavi (prek zasebnega)"
+
+#: usp-pro.php:1115
+msgid "Always moderate (via Custom Status, defined below)"
+msgstr "Vedno zmeraj (prek možnosti po meri, definiranem spodaj)"
+
+#: usp-pro.php:1116
+msgid "Always moderate (via Pending)"
+msgstr "Vedno zmeraj (prek čakanja)"
+
+#: usp-pro.php:1117
+msgid "Always moderate (via Draft)"
+msgstr "Vedno zmeraj (prek osnutka)"
+
+#: usp-pro.php:1118
+msgid "Always publish immediately"
+msgstr "Vedno objavi takoj"
+
+#: usp-pro.php:1207
+msgid "Settings"
+msgstr "Nastavitve"
+
+#: usp-pro.php:1215
+msgid "USP Pro Quick Start Guide"
+msgstr "USP Pro Quick Start Guide"
+
+#: usp-pro.php:1215
+msgid "Getting started"
+msgstr "Začetek"
+
+#: usp-pro.php:1271
+msgid "Your settings have been restored."
+msgstr "Vaše nastavitve so bile obnovljene."
+
+#: usp-pro.php:1288
+msgid "Welcome to USP Pro!"
+msgstr "Dobrodošli v USP Pro!"
+
+#: usp-pro.php:1290
+msgid "Thank you for installing USP Pro. To begin using the plugin,"
+msgstr "Hvala, ker ste namestili USP Pro. Če želite začeti uporabljati vtičnik,"
+
+#: usp-pro.php:1291
+msgid "enter your license key &raquo;"
+msgstr "vnesite svoj licenčni ključ & raquo;"
+
+#: updates/usp-updates.php:44
+msgid "Settings saved."
+msgstr "Nastavitve so shranjene."
+
+#: updates/usp-updates.php:51
+msgid "USP Pro License"
+msgstr "Licenca USP Pro"
+
+#: updates/usp-updates.php:54
+msgid "Activate your license to enable USP Pro and free automatic updates."
+msgstr "Aktivirajte svojo licenco, da omogočite USP Pro in brezplačne samodejne posodobitve."
+
+#: updates/usp-updates.php:55
+msgid "Show/hide instructions"
+msgstr "Navodila za prikaz / skrivanje"
+
+#: updates/usp-updates.php:55
+msgid "View the steps&nbsp;&raquo;"
+msgstr "Oglejte si korake & nbsp; & raquo;"
+
+#: updates/usp-updates.php:58
+msgid "Follow these steps to activate your license:"
+msgstr "Če želite aktivirati svojo licenco, sledite tem korakom:"
+
+#: updates/usp-updates.php:60
+msgid "Get your License Key"
+msgstr "Pridobite svoj licenčni ključ"
+
+#: updates/usp-updates.php:61
+msgid "Enter your license in the field, &ldquo;License Key&rdquo;"
+msgstr "Vnesite svojo licenco v polje, & ldquo; License Key & rdquo;"
+
+#: updates/usp-updates.php:62
+msgid "Click &ldquo;Save Changes&rdquo;"
+msgstr "Kliknite & ldquo; Shrani spremembe & rdquo;"
+
+#: updates/usp-updates.php:63
+msgid "Click &ldquo;Activate License&rdquo;"
+msgstr "Kliknite & ldquo; Aktiviraj licenco & rdquo;"
+
+#: updates/usp-updates.php:66
+msgid "If you need help,"
+msgstr "Če potrebujete pomoč,"
+
+#: updates/usp-updates.php:67
+msgid "check out this guide"
+msgstr "Oglejte si ta priročnik"
+
+#: updates/usp-updates.php:67
+msgid "and/or"
+msgstr "in / ali"
+
+#: updates/usp-updates.php:68
+msgid "contact us"
+msgstr "kontaktiraj nas"
+
+#: updates/usp-updates.php:72 updates/usp-updates.php:125
+msgid "Activate License"
+msgstr "Aktiviraj licenco"
+
+#: updates/usp-updates.php:83 updates/usp-updates.php:104
+#: updates/usp-updates.php:114
+msgid "License Key"
+msgstr "Licenčni ključ"
+
+#: updates/usp-updates.php:87
+msgid "Your USP Pro License is active."
+msgstr "Vaša licenca USP Pro je aktivna."
+
+#: updates/usp-updates.php:92 updates/usp-updates.php:123
+#: inc/usp-settings.php:276
+msgid "License Status"
+msgstr "Status licence"
+
+#: updates/usp-updates.php:94
+msgid "Deactivate License"
+msgstr "Deaktiviraj licenco"
+
+#: updates/usp-updates.php:107
+msgid "Enter your License Key"
+msgstr "Vnesite svoj licenčni ključ"
+
+#: updates/usp-updates.php:118
+msgid "Your license is inactive. To activate, click &ldquo;Activate License&rdquo;"
+msgstr "Vaša licenca je neaktivna. Če želite aktivirati, kliknite & ldquo; Aktiviraj licenco & rdquo;"
+
+#: updates/usp-updates.php:137
+msgid "Visit USP Pro Settings &raquo;"
+msgstr "Obiščite nastavitve USP Pro & raquo;"
+
+#: inc/usp-settings.php:8
+msgid "Welcome to USP Pro! Before diving in,"
+msgstr "Dobrodošli v USP Pro! Pred potapljanjem,"
+
+#: inc/usp-settings.php:8
+msgid "check out the Quick Start guide &raquo;"
+msgstr "Oglejte si vodič za hiter začetek & raquo;"
+
+#: inc/usp-settings.php:11
+msgid "These settings control basic form functionality."
+msgstr "Te nastavitve nadzorujejo osnovno funkcionalnost obrazca."
+
+#: inc/usp-settings.php:14
+msgid "These settings control how forms behave if returned with an error."
+msgstr "Te nastavitve nadzirajo, kako se obrazci obnašajo, če se vrnejo z napako."
+
+#: inc/usp-settings.php:14 inc/usp-settings.php:20 inc/usp-settings.php:36
+#: inc/usp-settings.php:52 inc/usp-settings.php:72 inc/usp-settings.php:97
+#: inc/usp-settings.php:146 inc/usp-settings.php:171 inc/usp-settings.php:174
+#: inc/usp-callbacks.php:15 inc/usp-callbacks.php:16 inc/usp-callbacks.php:17
+#: inc/usp-callbacks.php:18 inc/usp-callbacks.php:19 inc/usp-callbacks.php:20
+#: inc/usp-callbacks.php:21 inc/usp-callbacks.php:22 inc/usp-callbacks.php:23
+#: inc/usp-callbacks.php:24 inc/usp-callbacks.php:25 inc/usp-callbacks.php:26
+#: inc/usp-callbacks.php:27 inc/usp-callbacks.php:28 inc/usp-callbacks.php:66
+#: inc/usp-callbacks.php:76 inc/usp-callbacks.php:145
+#: inc/usp-callbacks.php:223 inc/usp-callbacks.php:233
+#: inc/usp-callbacks.php:234
+msgid "Learn more&nbsp;&raquo;"
+msgstr "Več o & nbsp; & raquo;"
+
+#: inc/usp-settings.php:17
+msgid "These settings determine how users and handled when submitting form content."
+msgstr "Te nastavitve določajo, kako se uporabniki ob pošiljanju vsebine obrazca obravnavajo."
+
+#: inc/usp-settings.php:20
+msgid "Here you may configure the Google reCAPTCHA and antispam/challenge question."
+msgstr "Tukaj lahko konfigurirate vprašanje Google reCAPTCHA in protispam / izziv."
+
+#: inc/usp-settings.php:23
+msgid "These settings determine how categories are handled with submitted content."
+msgstr "Te nastavitve določajo, kako se kategorije obravnavajo s predloženo vsebino."
+
+#: inc/usp-settings.php:26
+msgid "These settings determine how tags are handled with submitted content."
+msgstr "Te nastavitve določajo, kako se oznake obdelujejo s predloženo vsebino."
+
+#: inc/usp-settings.php:29
+msgid "Optional security measure. After publishing each form, enter its"
+msgstr "Neobvezni varnostni ukrep. Po objavi vsakega obrazca vnesite svojo"
+
+#: inc/usp-settings.php:29
+msgid "Form ID"
+msgstr "ID obrazca"
+
+#: inc/usp-settings.php:30
+msgid "in the appropriate field(s) below. See"
+msgstr "v ustreznem polju (-ih) spodaj. Glej"
+
+#: inc/usp-settings.php:30 inc/usp-callbacks.php:41 inc/usp-callbacks.php:42
+msgid "this post"
+msgstr "ta objava"
+
+#: inc/usp-settings.php:30
+msgid "for more information."
+msgstr "za več informacij."
+
+#: inc/usp-settings.php:36
+msgid "Customize the appearance (CSS) and behavior (JavaScript) of USP Forms."
+msgstr "Prilagodite videz (CSS) in vedenje (JavaScript) obrazcev USP."
+
+#: inc/usp-settings.php:39
+msgid "Here you may customize CSS/styles for your USP Forms."
+msgstr "Tukaj lahko prilagodite CSS / sloge za svoje obrazce USP."
+
+#: inc/usp-settings.php:42
+msgid "Here you may customize JavaScript for your USP Forms."
+msgstr "Tukaj lahko prilagodite JavaScript za svoje obrazce USP."
+
+#: inc/usp-settings.php:45
+msgid "By default, external CSS &amp; JavaScript files are loaded on every page. Here you can optimize performance by loading resources only on specific URLs."
+msgstr "Privzeto je zunanji CSS & amp; Datoteke JavaScript so naložene na vsaki strani. Tu lahko optimizirate učinkovitost, tako da naložite vire le na določene URL-je."
+
+#: inc/usp-settings.php:51
+msgid "Configure file uploads. Advanced configuration is possible via the"
+msgstr "Konfiguracija nalaganja datotek. Napredna konfiguracija je mogoča preko"
+
+#: inc/usp-settings.php:51
+msgid "shortcode and Custom Fields. "
+msgstr "kratka koda in polja po meri."
+
+#: inc/usp-settings.php:55
+msgid "Here are the main settings for file uploads. If in doubt on anything, go with the default option."
+msgstr "Tukaj so glavne nastavitve za nalaganje datotek. Če ste v dvomih, pojdite s privzeto možnostjo."
+
+#: inc/usp-settings.php:61
+msgid "Customize email alerts and contact forms."
+msgstr "Prilagodite e-poštna opozorila in kontaktne obrazce."
+
+#: inc/usp-settings.php:64
+msgid "Here are you may specify your email settings, which are used for email alerts and contact forms."
+msgstr "Tukaj lahko določite nastavitve e-pošte, ki se uporabljajo za opozorila po e-pošti in kontaktne obrazce."
+
+#: inc/usp-settings.php:67
+msgid "Here are you may customize email alerts. Note: user-registration email is sent automatically by WordPress and can&rsquo;t be disabled via USP Pro."
+msgstr "Tukaj lahko prilagodite e-poštna opozorila. Opomba: e-poštno sporočilo za registracijo uporabnika samodejno pošlje WordPress in ga lahko onemogočite preko USP Proa."
+
+#: inc/usp-settings.php:70
+msgid "Here are you may customize email alerts that are sent to the admin. You may use "
+msgstr "Tukaj lahko prilagodite e-poštna opozorila, ki se pošljejo skrbniku. Lahko uporabite"
+
+#: inc/usp-settings.php:71 inc/usp-settings.php:96
+msgid "Show/Hide Variables"
+msgstr "Pokaži / Skrij spremenljivke"
+
+#: inc/usp-settings.php:71 inc/usp-settings.php:96 inc/usp-settings.php:122
+msgid "shortcut variables"
+msgstr "spremenljivke bližnjice"
+
+#: inc/usp-settings.php:72
+msgid "in your alert messages to display dynamic bits of information."
+msgstr "v opozorilnih sporočilih prikazati dinamične bite podatkov."
+
+#: inc/usp-settings.php:95
+msgid "Here are you may customize email alerts that are sent to the user. You may use "
+msgstr "Tukaj lahko prilagodite e-poštna opozorila, ki se pošljejo uporabniku. Lahko uporabite"
+
+#: inc/usp-settings.php:97
+msgid "in your alert messages to display dynamic bits of information. "
+msgstr "v opozorilnih sporočilih prikazati dinamične bite podatkov."
+
+#: inc/usp-settings.php:120
+msgid "Here you may customize default"
+msgstr "Tu lahko prilagodite privzeto"
+
+#: inc/usp-settings.php:120
+msgid "contact form"
+msgstr "Kontaktni obrazec"
+
+#: inc/usp-settings.php:120
+msgid "functionality. For "
+msgstr "funkcionalnost. Za"
+
+#: inc/usp-settings.php:121
+msgid "Contact/Post Combo Forms"
+msgstr "Kontaktni obrazci / obrazci"
+
+#: inc/usp-settings.php:121
+msgid "you can use any of the "
+msgstr "lahko uporabite katerega koli od"
+
+#: inc/usp-settings.php:122
+msgid "Show/Hide Variables &raquo;"
+msgstr "Prikaži / skrij spremenljivke & raquo;"
+
+#: inc/usp-settings.php:122
+msgid "for the &ldquo;Custom Content&rdquo; setting. Note that "
+msgstr "za & ldquo; Prilagojeno vsebino & rdquo; nastavitev. Upoštevajte, da"
+
+#: inc/usp-settings.php:123
+msgid "post-formatting"
+msgstr "post-oblikovanje"
+
+#: inc/usp-settings.php:123
+msgid "must be enabled to send HTML-formatted email."
+msgstr "mora biti omogočeno, da pošlje e-poštno sporočilo v obliki zapisa HTML."
+
+#: inc/usp-settings.php:146
+msgid "Here you may specify custom recipients for any contact form."
+msgstr "Tukaj lahko določite prejemnike po meri za kateri koli kontaktni obrazec."
+
+#: inc/usp-settings.php:152
+msgid "Customize form configuration, post types, custom fields, and more."
+msgstr "Prilagodite konfiguracijo obrazca, vrste objav, polja po meri in drugo."
+
+#: inc/usp-settings.php:155
+msgid "Here you may customize formatting, form demos, custom redirects, content filter, and other automatic functionality."
+msgstr "Tu lahko prilagodite oblikovanje, demografske obrazce, preusmeritve po meri, filter vsebine in druge samodejne funkcije."
+
+#: inc/usp-settings.php:158
+msgid "Here you may customize the post types used by USP Pro. The option &ldquo;USP Posts&rdquo; uses a Custom Post Type provided by USP Pro. The option &ldquo;Existing Post Type&rdquo; uses a Custom Post Type that is provided by your theme. If in doubt, use the default option, &ldquo;Regular WP Posts&rdquo;."
+msgstr "Tukaj lahko prilagodite vrste objav, ki jih uporablja USP Pro. Možnost & ldquo; USP Posts & rdquo; uporablja tip za objavo po meri, ki ga nudi USP Pro. Možnost & ldquo; Obstoječa vrsta objave & rdquo; uporablja tip za objavo po meri, ki ga ponuja vaša tema. Če ste v dvomih, uporabite privzeto možnost, & ldquo; Redna WP Posts & rdquo ;."
+
+#: inc/usp-settings.php:161
+msgid "Here you may specify default values for submitted Post Title and Post Content. This enables you to exclude title and content fields on forms and use these values instead. "
+msgstr "Tukaj lahko določite privzete vrednosti za predloženi naslov in vsebino objave. To vam omogoča, da izključite naslove in vsebinska polja na obrazcih in namesto tega uporabite te vrednosti."
+
+#: inc/usp-settings.php:162
+msgid "Note that default fields also may be specified on a per-form basis by"
+msgstr "Upoštevajte, da lahko privzeta polja določite tudi na podlagi obrazca"
+
+#: inc/usp-settings.php:162
+msgid "setting values with hidden fields"
+msgstr "nastavitev vrednosti s skritimi polji"
+
+#: inc/usp-settings.php:165
+msgid "Here you may specify any custom text and/or markup to appear before and after all USP Forms."
+msgstr "Tu lahko določite besedilo po meri in / ali oznako, ki se prikaže pred in po vseh obrazcih USP."
+
+#: inc/usp-settings.php:168
+msgid "Here you may customize the various success messages. Basic markup allowed."
+msgstr "Tu lahko prilagodite različna sporočila o uspehu. Dovoljena je osnovna oznaka."
+
+#: inc/usp-settings.php:171
+msgid "Here you may customize default names/labels for primary fields. These values may be customized on a per-form basis via the"
+msgstr "Tu lahko prilagodite privzeta imena / oznake za primarna polja. Te vrednosti se lahko prilagodijo na podlagi obrazca prek"
+
+#: inc/usp-settings.php:171 inc/usp-settings.php:174
+msgid "attribute."
+msgstr "atribut."
+
+#: inc/usp-settings.php:174
+msgid "Here you may customize default names/labels for"
+msgstr "Tu lahko prilagodite privzeta imena / oznake za"
+
+#: inc/usp-settings.php:174
+msgid "user-registration fields"
+msgstr "polja za registracijo uporabnikov"
+
+#: inc/usp-settings.php:174
+msgid "These values may be customized on a per-form basis via the"
+msgstr "Te vrednosti se lahko prilagodijo na podlagi obrazca prek"
+
+#: inc/usp-settings.php:177
+msgid "Number of Custom Fields to auto-generate for each USP Form."
+msgstr "Število polj po meri za samodejno generiranje za vsako obliko USP."
+
+#: inc/usp-settings.php:177 inc/usp-settings.php:184 inc/usp-settings.php:189
+#: inc/usp-settings.php:196 inc/usp-settings.php:203
+msgid "Show/Hide Description"
+msgstr "Prikaži / skrij opis"
+
+#: inc/usp-settings.php:177 inc/usp-settings.php:184 inc/usp-settings.php:189
+#: inc/usp-settings.php:196 inc/usp-settings.php:203
+msgid "Toggle more info"
+msgstr "Preklopi več informacij"
+
+#: inc/usp-settings.php:179
+msgid "The number specified below is used for two things: 1) it determines how many Custom Fields are added to newly created forms, and 2) it determines how many options to generate for the next "
+msgstr "Spodaj navedena številka se uporablja za dve stvari: 1) določa, koliko polj po meri se doda na novo oblikovanih obrazcih, in 2) določa, koliko možnosti bo ustvarilo za naslednje"
+
+#: inc/usp-settings.php:180
+msgid "group of settings, &ldquo;Custom Field Names&rdquo;. So for example, if"
+msgstr "skupina nastavitev, & ldquo; Lastno ime polja & rdquo ;. Tako na primer, če"
+
+#: inc/usp-settings.php:180
+msgid "is selected for this setting, all new USP Forms will include three Custom Fields, "
+msgstr "za to nastavitev je izbrano, bodo vse nove obrazce USP vključevale tri polja po meri,"
+
+#: inc/usp-settings.php:181
+msgid "each with its own option in the following setting, &ldquo;Custom Field Names&rdquo;. Note that unused Custom Fields are fine; the idea is to have them readily available for each form."
+msgstr "vsak z lastno možnostjo v naslednji nastavitvi, & ldquo; Lastno ime polja & rdquo ;. Upoštevajte, da so neuporabljena polja po meri v redu; ideja je, da jih je na voljo za vsako obliko."
+
+#: inc/usp-settings.php:181 inc/usp-settings.php:186
+msgid "Learn more about Custom Fields&nbsp;&raquo;"
+msgstr "Več o poljih po meri & nbsp; & raquo;"
+
+#: inc/usp-settings.php:184
+msgid "Here you may define names for Custom Fields (see previous setting)."
+msgstr "Tukaj lahko določite imena za polja po meri (glejte prejšnjo nastavitev)."
+
+#: inc/usp-settings.php:186
+msgid "This setting defines &ldquo;human readable&rdquo; names for any Custom Custom Fields. They are displayed in error messages, contact-form messages, and elsewhere. They apply only to default Custom Fields."
+msgstr "Ta nastavitev določa & ldquo; človeško berljivo & rdquo; imena za poljubna polja po meri. Prikazani so v sporočilih o napakah, sporočilih za stik in drugje. Uporabljajo se le za privzeta polja po meri."
+
+#: inc/usp-settings.php:189
+msgid "Here you may specify a unique prefix to use for Custom Field names."
+msgstr "Tukaj lahko določite edinstveno predpono, ki jo želite uporabiti za imena po meri."
+
+#: inc/usp-settings.php:191
+msgid "For example, if you specify"
+msgstr "Če na primer navedete"
+
+#: inc/usp-settings.php:191
+msgid "for this setting, you can create unique Custom Fields by including the parameter"
+msgstr "za to nastavitev lahko ustvarite edinstvena polja po meri, tako da vključite parameter"
+
+#: inc/usp-settings.php:191
+msgid "in your custom-field definition. "
+msgstr "v definiciji po meri."
+
+#: inc/usp-settings.php:192
+msgid "Note that the custom prefix may contain lowercase/uppercase alphanumeric characters, plus underscores and dashes. "
+msgstr "UpoĹĄtevajte, da lahko predpona po meri vsebuje alfanumerićne znake z malimi ćrkami in velikimi ćrkami ter podčrtaje in pomišljaje."
+
+#: inc/usp-settings.php:193 inc/usp-settings.php:199
+msgid "Important:"
+msgstr "Pomembno:"
+
+#: inc/usp-settings.php:193
+msgid "do not use"
+msgstr "Ne uporabljajte"
+
+#: inc/usp-settings.php:193 inc/usp-settings.php:200 inc/usp-callbacks.php:191
+msgid "or"
+msgstr "ali"
+
+#: inc/usp-settings.php:193
+msgid "for the custom prefix (these are reserved for default Custom Fields)."
+msgstr "za predpone po meri (ti so rezervirani za privzeta polja po meri)."
+
+#: inc/usp-settings.php:193
+msgid "Learn more about Prefix Custom Fields&nbsp;&raquo;"
+msgstr "Preberite več o poljubnih polj prefiksov & nbsp; & raquo;"
+
+#: inc/usp-settings.php:196
+msgid "Here you may specify any of your own"
+msgstr "Tukaj lahko navedete katero koli od svojih"
+
+#: inc/usp-settings.php:196 inc/usp-settings.php:203
+msgid "Custom"
+msgstr "Po meri"
+
+#: inc/usp-settings.php:196
+msgid "Custom Field names (separated by commas)."
+msgstr "Imena polj po meri (ločena z vejicami)."
+
+#: inc/usp-settings.php:198
+msgid "For this setting, there are two types of fields, Optional and Required. Required fields will trigger an error if left empty when the form is submitted; whereas Optional fields will not trigger an error if left empty. "
+msgstr "Za to nastavitev obstajata dve vrsti polj, Neobvezno in Zahtevano. Obvezna polja bodo sprožila napako, če je bila ob oddaji obrazca prazna; ker poljubna polja ne sprožijo napake, če je prazna."
+
+#: inc/usp-settings.php:199
+msgid "Note that Custom Field names may contain lowercase/uppercase alphanumeric characters, plus underscores and dashes. "
+msgstr "Upoštevajte, da imena po meri lahko vsebujejo male črke ali velike črke z alfanumeričnimi znaki ter podčrtaje in pomišljaje."
+
+#: inc/usp-settings.php:200
+msgid "your Custom Field names must NOT begin with"
+msgstr "imena po meri se ne smejo začeti"
+
+#: inc/usp-settings.php:200
+msgid "(these are reserved for default Custom Fields)."
+msgstr "(ti so rezervirani za privzeta polja po meri)."
+
+#: inc/usp-settings.php:200
+msgid "Learn more about Custom Custom Fields&nbsp;&raquo;"
+msgstr "Več o poljih po meri po meri & nbsp; & raquo;"
+
+#: inc/usp-settings.php:203
+msgid "Here you may define names for any"
+msgstr "Tukaj lahko določite imena za katerokoli"
+
+#: inc/usp-settings.php:203
+msgid "Custom Fields (see previous setting)."
+msgstr "Polja po meri (glejte prejšnjo nastavitev)."
+
+#: inc/usp-settings.php:205
+msgid "This setting defines &ldquo;human readable&rdquo; names for any Custom Custom Fields. They are displayed in error messages, contact-form messages, and elsewhere. "
+msgstr "Ta nastavitev določa & ldquo; človeško berljivo & rdquo; imena za poljubna polja po meri. Prikazani so v sporočilih o napakah, sporočilih za stik in drugje."
+
+#: inc/usp-settings.php:206
+msgid "Note: in order to define any names, you first must specify some Custom Custom Fields in the previous setting, then click &ldquo;Save Changes&rdquo; and return to this location."
+msgstr "Opomba: če želite določiti vsa imena, morate najprej določiti nekaj polj po meri po meri v prejšnji nastavitvi in ​​nato kliknite & ldquo; Shrani spremembe & rdquo; in se vrnite na to mesto."
+
+#: inc/usp-settings.php:212
+msgid "Here you may customize error messages for USP Pro."
+msgstr "Tu lahko prilagodite sporočila o napakah za USP Pro."
+
+#: inc/usp-settings.php:215
+msgid "Here you may customize the default error message. You may use text and/or basic markup."
+msgstr "Tu lahko prilagodite privzeto sporočilo o napaki. Uporabite lahko besedilno in / ali osnovno oznako."
+
+#: inc/usp-settings.php:218
+msgid "Here you may customize primary field errors. You may use text and/or basic markup."
+msgstr "Tu lahko prilagodite primarne napake v polju. Uporabite lahko besedilno in / ali osnovno oznako."
+
+#: inc/usp-settings.php:221
+msgid "Here you may customize form-submission errors. You may use text and/or basic markup."
+msgstr "Tukaj lahko prilagodite napake pri oddaji obrazca. Uporabite lahko besedilno in / ali osnovno oznako."
+
+#: inc/usp-settings.php:224
+msgid "Here you may customize file-submission errors. You may use text and/or basic markup."
+msgstr "Tukaj lahko prilagodite napake pri pošiljanju datotek. Uporabite lahko besedilno in / ali osnovno oznako."
+
+#: inc/usp-settings.php:227
+msgid "Here you may customize user-registration errors. You may use text and/or basic markup."
+msgstr "Tukaj lahko prilagodite napake pri registraciji uporabnika. Uporabite lahko besedilno in / ali osnovno oznako."
+
+#: inc/usp-settings.php:230
+msgid "Here you may customize various aspects of miscellaneous errors. You may use text and/or basic markup."
+msgstr "Tukaj lahko prilagodite različne vidike različnih napak. Uporabite lahko besedilno in / ali osnovno oznako."
+
+#: inc/usp-settings.php:236
+msgid "Here you will find a tools for resetting, exporting, and importing options, as well as information on shortcodes, template tags, and other useful resources."
+msgstr "Tukaj najdete orodja za ponastavitev, izvoz in uvoz možnosti, kot tudi informacije o kratkih kodah, predlogah oznak in drugih uporabnih virih."
+
+#: inc/usp-settings.php:245
+msgid "About USP Pro, WordPress, the server and current user."
+msgstr "O USP Pro, WordPress, strežniku in trenutnem uporabniku."
+
+#: inc/usp-settings.php:249
+msgid "Show/Hide Plugin Info"
+msgstr "Prikaži / skrij informacije o pluginu"
+
+#: inc/usp-settings.php:249
+msgid "Plugin Information"
+msgstr "Informacije o vtičniku"
+
+#: inc/usp-settings.php:252
+msgid "Show/Hide WordPress Info"
+msgstr "Pokaži / skrij informacije o programu WordPress"
+
+#: inc/usp-settings.php:252
+msgid "WordPress Information"
+msgstr "Informacije o WordPressu"
+
+#: inc/usp-settings.php:255
+msgid "Show/Hide WP Contants Info"
+msgstr "Prikaži / skrij informacije WP Contants"
+
+#: inc/usp-settings.php:255
+msgid "WordPress Contants"
+msgstr "WordPress Contants"
+
+#: inc/usp-settings.php:258
+msgid "Show/Hide Server Info"
+msgstr "Prikaži / skrij informacije o strežniku"
+
+#: inc/usp-settings.php:258
+msgid "Server Information"
+msgstr "Informacije o strežniku"
+
+#: inc/usp-settings.php:261
+msgid "Show/Hide User Info"
+msgstr "Prikaži / skrij informacije o uporabniku"
+
+#: inc/usp-settings.php:261
+msgid "User Information"
+msgstr "Informacije o uporabniku"
+
+#: inc/usp-settings.php:274
+msgid "Activate your license"
+msgstr "Aktivirajte svojo licenco"
+
+#: inc/usp-settings.php:274
+msgid "to unlock USP Pro and enable free automatic updates. "
+msgstr "da odklenete USP Pro in omogočite brezplačne samodejne posodobitve."
+
+#: inc/usp-settings.php:275
+msgid "Get your License Key&nbsp;&raquo;"
+msgstr "Pridobite svoj licenčni ključ & nbsp; & raquo;"
+
+#: inc/usp-settings.php:280 inc/usp-settings.php:288
+msgid "License Status:"
+msgstr "Status licence:"
+
+#: inc/usp-settings.php:280
+msgid "Your USP Pro License is currently active."
+msgstr "Vaša USP Pro licenca je trenutno aktivna."
+
+#: inc/usp-settings.php:281
+msgid "License Key:"
+msgstr "Licenčni ključ:"
+
+#: inc/usp-settings.php:282
+msgid "License Domain:"
+msgstr "Domena licence:"
+
+#: inc/usp-settings.php:283
+msgid "License Admin:"
+msgstr "Administracija licence:"
+
+#: inc/usp-settings.php:288
+msgid "Your USP Pro License is currently inactive."
+msgstr "Vaša licenca za licenco USP Pro je trenutno neaktivna."
+
+#: inc/usp-settings.php:292
+msgid "Resources"
+msgstr "Viri"
+
+#: inc/usp-settings.php:294
+msgid "Get Your License Key"
+msgstr "Pridobite licenčni ključ"
+
+#: inc/usp-settings.php:295
+msgid "Manage Licensed Domains"
+msgstr "Upravljanje licenciranih domen"
+
+#: inc/usp-settings.php:296
+msgid "Download Current Version"
+msgstr "Prenesite trenutno različico"
+
+#: inc/usp-settings.php:297
+msgid "Download Purchase Receipt"
+msgstr "Prenos nabavnega potrdila"
+
+#: inc/usp-settings.php:298
+msgid "Troubleshooting License Activation"
+msgstr "Odpravljanje težav pri aktiviranju licence"
+
+#: inc/usp-defaults.php:30
+msgid "New User Submitted Post!"
+msgstr "Nova uporabniška sporočila!"
+
+#: inc/usp-defaults.php:31
+msgid "New user-submitted post at "
+msgstr "Nov prispevek, ki ga je poslal uporabnik na"
+
+#: inc/usp-defaults.php:31
+msgid "! URL: "
+msgstr "! URL:"
+
+#: inc/usp-defaults.php:32
+msgid "Thank you for your submitted post!"
+msgstr "Hvala za vašo objavljeno objavo!"
+
+#: inc/usp-defaults.php:33
+msgid "Thank you for your submission at "
+msgstr "Hvala za oddajo na"
+
+#: inc/usp-defaults.php:33
+msgid "! If submissions require approval, you'll receive an email once it's approved."
+msgstr "! Če predložitve zahtevajo odobritev, boste prejeli e-poštno sporočilo, ko bo odobreno."
+
+#: inc/usp-defaults.php:34 inc/usp-defaults.php:36
+msgid "Submitted Post Approved!"
+msgstr "Odobreno poslano sporočilo!"
+
+#: inc/usp-defaults.php:35 inc/usp-defaults.php:37
+msgid "!"
+msgstr "!"
+
+#: inc/usp-defaults.php:38 inc/usp-defaults.php:40
+msgid "Submitted Post Denied"
+msgstr "Poslano zavrnjeno sporočilo"
+
+#: inc/usp-defaults.php:41
+msgid "Sorry, but your submission has been denied."
+msgstr "Oprostite, vaša prijava je bila zavrnjena."
+
+#: inc/usp-defaults.php:42 inc/usp-defaults.php:44
+msgid "Submitted Post Scheduled"
+msgstr "Predloženo objavljeno sporočilo"
+
+#: inc/usp-defaults.php:43 inc/usp-defaults.php:45
+msgid "."
+msgstr "."
+
+#: inc/usp-defaults.php:46
+msgid "Message sent from "
+msgstr "Sporočilo je poslano iz"
+
+#: inc/usp-defaults.php:50
+msgid "A copy of this message will be sent to the specified email address."
+msgstr "Kopija tega sporočila bo poslana na navedeni e-poštni naslov."
+
+#: inc/usp-defaults.php:91
+msgid "Success! You have successfully submitted a post."
+msgstr "Uspeh! Uspešno ste poslali objavo."
+
+#: inc/usp-defaults.php:92
+msgid "Congratulations, you have been registered with the site."
+msgstr "Čestitam, prijavljeni ste bili na spletnem mestu."
+
+#: inc/usp-defaults.php:93
+msgid "Registration successful! Post Submission successful! You&rsquo;re golden."
+msgstr "Registracija uspešna! Post Submission je uspešen! Zlati ste."
+
+#: inc/usp-defaults.php:94
+msgid "Email sent! We&rsquo;ll get back to you as soon as possible."
+msgstr "Email poslan! Kmalu se bomo vrnili k vam."
+
+#: inc/usp-defaults.php:95
+msgid "Registration successful! Email sent! We&rsquo;ll get back to you as soon as possible."
+msgstr "Registracija uspešna! Email poslan! Kmalu se bomo vrnili k vam."
+
+#: inc/usp-defaults.php:96
+msgid "Post Submitted! Email sent! We&rsquo;ll get back to you as soon as possible."
+msgstr "Objava je bila poslana! Email poslan! Kmalu se bomo vrnili k vam."
+
+#: inc/usp-defaults.php:97
+msgid "Post Submitted! Registration successful! Email sent! We&rsquo;ll get back to you as soon as possible."
+msgstr "Objava je bila poslana! Registracija uspešna! Email poslan! Kmalu se bomo vrnili k vam."
+
+#: inc/usp-defaults.php:109
+msgid "Your Name"
+msgstr "Tvoje ime"
+
+#: inc/usp-defaults.php:110 inc/usp-process.php:1297
+msgid "Post URL"
+msgstr "Objavi URL"
+
+#: inc/usp-defaults.php:111 inc/usp-process.php:1296
+msgid "Post Title"
+msgstr "Naslov prispevka"
+
+#: inc/usp-defaults.php:114
+msgid "Post Category"
+msgstr "Kategorija objave"
+
+#: inc/usp-defaults.php:115 inc/usp-process.php:1302
+msgid "Post Content"
+msgstr "Objava vsebine"
+
+#: inc/usp-defaults.php:116
+msgid "File(s)"
+msgstr "Datoteke"
+
+#: inc/usp-defaults.php:119
+msgid "Alt text"
+msgstr "Alt besedilo"
+
+#: inc/usp-defaults.php:126
+msgid "I agree to the terms"
+msgstr "Strinjam se s pogoji"
+
+#: inc/usp-defaults.php:130
+msgid "User Nicename"
+msgstr "Uporabnik Nicename"
+
+#: inc/usp-defaults.php:131
+msgid "User Display Name"
+msgstr "Uporabniško prikazno ime"
+
+#: inc/usp-defaults.php:132
+msgid "User Nickname"
+msgstr "Uporabniško ime"
+
+#: inc/usp-defaults.php:133
+msgid "User First Name"
+msgstr "Uporabniško ime"
+
+#: inc/usp-defaults.php:134
+msgid "User Last Name"
+msgstr "Uporabniško ime"
+
+#: inc/usp-defaults.php:135
+msgid "User Description"
+msgstr "Uporabniško ime"
+
+#: inc/usp-defaults.php:136
+msgid "User Password"
+msgstr "Uporabniško geslo"
+
+#: inc/usp-defaults.php:146 inc/usp-defaults.php:148
+msgid "Required field: "
+msgstr "Zahtevano polje:"
+
+#: inc/usp-defaults.php:151
+msgid "Important!"
+msgstr "Pomembno!"
+
+#: inc/usp-defaults.php:151
+msgid "Please fix the following issues:"
+msgstr "Popravite naslednje težave:"
+
+#: inc/usp-defaults.php:154
+msgid "Required field: Your Name"
+msgstr "Zahtevano polje: Vaše ime"
+
+#: inc/usp-defaults.php:155
+msgid "Required field: Post URL"
+msgstr "Obvezno polje: Objavi URL"
+
+#: inc/usp-defaults.php:156
+msgid "Required field: Post Title"
+msgstr "Obvezno polje: Naslov prispevka"
+
+#: inc/usp-defaults.php:157
+msgid "Required field: Post Tags"
+msgstr "Obvezno polje: Objavi oznake"
+
+#: inc/usp-defaults.php:158
+msgid "Required field: Challenge Question"
+msgstr "Zahtevano polje: vprašanje za vprašanje"
+
+#: inc/usp-defaults.php:159
+msgid "Required field: Post Category"
+msgstr "Obvezno polje: Objavi kategorijo"
+
+#: inc/usp-defaults.php:160
+msgid "Required field: Post Content"
+msgstr "Obvezno polje: Objava vsebine"
+
+#: inc/usp-defaults.php:161
+msgid "Required field: File(s)"
+msgstr "Zahtevano polje: datoteke (datoteke)"
+
+#: inc/usp-defaults.php:162
+msgid "Required field: Email Address"
+msgstr "Obvezno polje: E-poštni naslov"
+
+#: inc/usp-defaults.php:163
+msgid "Required field: Email Subject"
+msgstr "Obvezno polje: Naslov e-pošte"
+
+#: inc/usp-defaults.php:164
+msgid "Required field: Alt text"
+msgstr "Zahtevano polje: Alt besedilo"
+
+#: inc/usp-defaults.php:165
+msgid "Required field: Caption"
+msgstr "Obvezno polje: Naslov"
+
+#: inc/usp-defaults.php:166
+msgid "Required field: Description"
+msgstr "Zahtevano polje: Opis"
+
+#: inc/usp-defaults.php:167
+msgid "Required field: Taxonomy"
+msgstr "Zahtevano polje: Taksonomija"
+
+#: inc/usp-defaults.php:168
+msgid "Required field: Post Format"
+msgstr "Obvezno polje: Oblika zapisa"
+
+#: inc/usp-defaults.php:169
+msgid "Required field: Media Title"
+msgstr "Obvezno polje: Naslov medija"
+
+#: inc/usp-defaults.php:170
+msgid "Required field: File Name"
+msgstr "Zahtevano polje: Ime datoteke"
+
+#: inc/usp-defaults.php:171
+msgid "Required field: Agree to Terms"
+msgstr "Zahtevano polje: se strinjate s pogoji"
+
+#: inc/usp-defaults.php:172
+msgid "Required field: Post Excerpt"
+msgstr "Obvezno polje: Izpisek"
+
+#: inc/usp-defaults.php:174
+msgid "Required field: User Nicename"
+msgstr "Zahtevano polje: Uporabnik Nicename"
+
+#: inc/usp-defaults.php:175
+msgid "Required field: User Display Name"
+msgstr "Zahtevano polje: Uporabniško prikazno ime"
+
+#: inc/usp-defaults.php:176
+msgid "Required field: User Nickname"
+msgstr "Obvezno polje: Uporabniško ime"
+
+#: inc/usp-defaults.php:177
+msgid "Required field: User First Name"
+msgstr "Zahtevano polje: Uporabniško ime"
+
+#: inc/usp-defaults.php:178
+msgid "Required field: User Last Name"
+msgstr "Obvezno polje: Uporabniško ime"
+
+#: inc/usp-defaults.php:179
+msgid "Required field: User Description"
+msgstr "Obvezno polje: Uporabniško ime"
+
+#: inc/usp-defaults.php:180
+msgid "Required field: User Password"
+msgstr "Zahtevano polje: uporabniško geslo"
+
+#: inc/usp-defaults.php:182
+msgid "Username already registered. If that is your username, please log in to submit posts. Otherwise, please choose a different username."
+msgstr "Uporabniško ime je že registrirano. Če je to vaše uporabniško ime, se prijavite, če želite poslati objave. V nasprotnem primeru izberite drugačno uporabniško ime."
+
+#: inc/usp-defaults.php:183
+msgid "Email already registered. If that is your address, please log in to submit content. Otherwise, please choose a different email address."
+msgstr "E-pošta že registrirana. Če je to vaš naslov, se prijavite, da pošljete vsebino. V nasprotnem primeru izberite drug e-poštni naslov."
+
+#: inc/usp-defaults.php:184
+msgid "User-registration is currently disabled. Please contact the admin if you need help."
+msgstr "Registracija uporabnika je trenutno onemogočena. Če potrebujete pomoč, se obrnite na skrbnika."
+
+#: inc/usp-defaults.php:185
+msgid "You are already registered with this site. Please contact the admin if you need help."
+msgstr "Na tej spletni strani ste že registrirani. Če potrebujete pomoč, se obrnite na skrbnika."
+
+#: inc/usp-defaults.php:186
+msgid "Post-submission required. Please try again or contact the admin if you need help."
+msgstr "Potrebna je naknadna predložitev. Poskusite znova ali se obrnite na skrbnika, če potrebujete pomoč."
+
+#: inc/usp-defaults.php:187
+msgid "Duplicate post detected. Please enter a unique post title and unique post content."
+msgstr "Dvojno objavljeno sporočilo. Vnesite edinstven naslov in edinstveno objavo po vsebini."
+
+#: inc/usp-defaults.php:188
+msgid "Incorrect form type. Please notify the administrator."
+msgstr "Nepravilna vrsta obrazca. Prosimo, obvestite skrbnika."
+
+#: inc/usp-defaults.php:190
+msgid "Restricted characters found in Name field. Please try again."
+msgstr "Omejeni znaki, najdeni v polju Ime. Prosim poskusite ponovno."
+
+#: inc/usp-defaults.php:191
+msgid "Incorrect response for the spam check. Please try again."
+msgstr "Napačen odziv za preverjanje neželene pošte. Prosim poskusite ponovno."
+
+#: inc/usp-defaults.php:192
+msgid "Minimum number of characters not met in content field. Please try again."
+msgstr "Najmanjše število znakov, ki jih ni bilo mogoče najti v vsebinskem polju. Prosim poskusite ponovno."
+
+#: inc/usp-defaults.php:193
+msgid "Number of characters in content field exceeds maximum allowed. Please try again."
+msgstr "Število znakov v vsebinskem polju presega dovoljeno največ. Prosim poskusite ponovno."
+
+#: inc/usp-defaults.php:194
+msgid "Minimum number of characters not met in excerpt field. Please try again."
+msgstr "Najmanjše število znakov, ki jih ni bilo mogoče najti v odseku. Prosim poskusite ponovno."
+
+#: inc/usp-defaults.php:195
+msgid "Number of characters in excerpt field exceeds maximum allowed. Please try again."
+msgstr "Število znakov v odseku presega dovoljeno največ. Prosim poskusite ponovno."
+
+#: inc/usp-defaults.php:196
+msgid "Please enter a valid email address."
+msgstr "Vnesite veljaven elektronski naslov."
+
+#: inc/usp-defaults.php:197
+msgid "Restricted characters found in Subject field. Please try again."
+msgstr "Omejeni znaki, najdeni v polju Zadeva. Prosim poskusite ponovno."
+
+#: inc/usp-defaults.php:198
+msgid "Restricted terms found in Content field. Please try again."
+msgstr "Omejeni izrazi najdeni v polju Vsebina. Prosim poskusite ponovno."
+
+#: inc/usp-defaults.php:200 inc/usp-defaults.php:205
+msgid "File(s) required. Please check any required file(s) and try again."
+msgstr "Potrebne datoteke. Preverite vse potrebne datoteke in poskusite znova."
+
+#: inc/usp-defaults.php:201
+msgid "File type not allowed. Please check the allowed file types and try again."
+msgstr "Vrsta datoteke ni dovoljena. Preverite dovoljene vrste datotek in poskusite znova."
+
+#: inc/usp-defaults.php:202
+msgid "Image dimensions (width/height) exceed set limits. Please check the requirements and try again."
+msgstr "Dimenzije slike (širina / višina) presegajo nastavljene meje. Preverite zahteve in poskusite znova."
+
+#: inc/usp-defaults.php:203
+msgid "Maximum file-size limit exceeded. Please check the file requirements and try again."
+msgstr "Presežena je bila največja dovoljena velikost datoteke. Preverite zahteve datoteke in poskusite znova."
+
+#: inc/usp-defaults.php:204
+msgid "Minimum file-size not met. Please check the file requirements and try again."
+msgstr "Najmanjša velikost datoteke ni bila izpolnjena. Preverite zahteve datoteke in poskusite znova."
+
+#: inc/usp-defaults.php:206
+msgid "Length of filename exceeds allowed limit. Please check the requirements and try again."
+msgstr "Dolžina imena datoteke presega dovoljeno mejo. Preverite zahteve in poskusite znova."
+
+#: inc/usp-defaults.php:207
+msgid "Please ensure that you have met the minimum number of required files, and that any specific requirements have been met (e.g., size, dimensions)."
+msgstr "Prepričajte se, da ste dosegli najmanjše število zahtevanih datotek in da so izpolnjene morebitne posebne zahteve (npr. Velikost, mere)."
+
+#: inc/usp-defaults.php:208
+msgid "Please ensure that you have not exceeded the maximum number of files, and that any specific requirements have been met (e.g., size, dimensions)."
+msgstr "Zagotovite, da niste presegli največjega števila datotek in da so izpolnjene morebitne posebne zahteve (npr. Velikost, mere)."
+
+#: inc/usp-defaults.php:209
+msgid "A square image is required. Please check the requirements and try again."
+msgstr "Potrebna je kvadratna slika. Preverite zahteve in poskusite znova."
+
+#: inc/usp-forms.php:46 inc/usp-forms.php:58
+msgid "USP Forms"
+msgstr "Obrazci USP"
+
+#: inc/usp-forms.php:47
+msgid "USP Form"
+msgstr "Obrazec USP"
+
+#: inc/usp-forms.php:48 inc/usp-posts.php:42
+msgid "Add New"
+msgstr "Dodaj novo"
+
+#: inc/usp-forms.php:49
+msgid "Add New USP Form"
+msgstr "Dodaj nov obrazec USP"
+
+#: inc/usp-forms.php:50
+msgid "Edit USP Form"
+msgstr "Uredite obrazec USP"
+
+#: inc/usp-forms.php:51
+msgid "New USP Form"
+msgstr "Novi obrazec USP"
+
+#: inc/usp-forms.php:52
+msgid "View USP Form"
+msgstr "Ogled obrazca USP"
+
+#: inc/usp-forms.php:53
+msgid "All USP Forms"
+msgstr "Vsi obrazci USP"
+
+#: inc/usp-forms.php:54
+msgid "Search USP Forms"
+msgstr "Poiščite obrazce USP"
+
+#: inc/usp-forms.php:55
+msgid "No USP Forms found"
+msgstr "Nobenih obrazcev USP ni bilo mogoče najti"
+
+#: inc/usp-forms.php:56
+msgid "No USP Forms found in Trash"
+msgstr "V smetnjaku niso našli obrazcev USP"
+
+#: inc/usp-forms.php:57
+msgid "Parent USP Form:"
+msgstr "Starševski obrazec USP:"
+
+#: inc/usp-forms.php:62
+msgid "USP Submission Forms"
+msgstr "Obrazci za predložitev USP"
+
+#: inc/usp-forms.php:242
+msgid "Author"
+msgstr "Avtor"
+
+#: inc/usp-forms.php:242
+msgid "Shortcode"
+msgstr "Kratka koda"
+
+#: inc/usp-forms.php:242
+msgid "Date"
+msgstr "Datum"
+
+#: inc/usp-forms.php:670
+msgid "error:usp_form_wrap:1:"
+msgstr "napaka: usp_form_wrap: 1:"
+
+#: inc/usp-forms.php:697
+msgid "reCAPTCHA field"
+msgstr "polje reCAPTCHA"
+
+#: inc/usp-forms.php:869
+msgid "error:usp_get_form_id:1:"
+msgstr "napaka: usp_get_form_id: 1:"
+
+#: inc/usp-forms.php:872
+msgid "error:usp_get_form_id:2:"
+msgstr "napaka: usp_get_form_id: 2:"
+
+#: inc/usp-forms.php:878
+msgid "error:usp_get_form_id:3:"
+msgstr "napaka: usp_get_form_id: 3:"
+
+#: inc/usp-forms.php:1400
+msgid "Disabled"
+msgstr "Onemogočeno"
+
+#: inc/usp-forms.php:1401
+msgid "Enabled"
+msgstr "Omogočeno"
+
+#: inc/usp-forms.php:1402 inc/usp-about.php:64
+msgid "-- n/a --"
+msgstr "- n / a -"
+
+#: inc/usp-dashboard.php:40
+msgid "Submitted posts waiting to be published:"
+msgstr "Poslane objave, ki čakajo na objavo:"
+
+#: inc/usp-dashboard.php:53
+msgid " Scheduled: "
+msgstr " Načrtovani:"
+
+#: inc/usp-dashboard.php:62 inc/usp-functions.php:1790
+msgid "Edit this post"
+msgstr "Uredite to objavo"
+
+#: inc/usp-dashboard.php:72
+msgid " submitted by "
+msgstr " ki ga je predložil"
+
+#: inc/usp-dashboard.php:72
+msgid " on "
+msgstr " naprej"
+
+#: inc/usp-dashboard.php:83
+msgid "No submitted posts waiting to be published."
+msgstr "Ni objavljenih objav, ki čakajo na objavo."
+
+#: inc/usp-dashboard.php:93
+msgid "Submitted Post Queue"
+msgstr "Predložena čakalnica objave"
+
+#: inc/usp-dashboard.php:137
+msgid "Submitted"
+msgstr "Predloženo"
+
+#: inc/usp-widget.php:16
+msgid "Display any USP Form as a widget"
+msgstr "Prikazati katero koli obliko USP kot pripomoček"
+
+#: inc/usp-widget.php:17
+msgid "USP Form Widget"
+msgstr "Widget obrazca USP"
+
+#: inc/usp-widget.php:83
+msgid "Widget Title"
+msgstr "Naslov vdelave"
+
+#: inc/usp-widget.php:86
+msgid "Enter an optional title for this widget (useful when using multiple form widgets). Displayed only on the widget panel here in the Admin Area."
+msgstr "Vnesite neobvezni naslov za ta pripomoček (uporaben pri uporabi več oblik pripomočkov). Prikazano je samo na plošči pripomočka tukaj v območju Administracija."
+
+#: inc/usp-widget.php:90
+msgid "USP Form ID"
+msgstr "ID obrazca USP"
+
+#: inc/usp-widget.php:93
+msgid "Enter the ID of a published USP Form. Make sure the form is published and not saved as a draft or pending. Check the form&rsquo;s shortcode for its ID. (Required)"
+msgstr "Vnesite ID objavljene obrazce USP. Prepričajte se, da je obrazec objavljen in ni shranjen kot osnutek ali v teku. Preverite kratko številko obrazca za svoj ID. (Obvezno)"
+
+#: inc/usp-widget.php:97
+msgid "Custom CSS Classes"
+msgstr "Razredi CSS po meri"
+
+#: inc/usp-widget.php:100
+msgid "Optional custom classes for the form. Use commas to separate each class, like so: class1,class2,class3"
+msgstr "Izbirni razredi po meri za obrazec. Uporabite vejice za ločevanje vsakega razreda, tako: class1, class2, class3"
+
+#: inc/usp-widget.php:104
+msgid "Limit Form to Post/Page"
+msgstr "Omejite obrazec na pošto / stran"
+
+#: inc/usp-widget.php:107
+msgid "Enter the ID of a specific post or page; leave blank to display on all posts/pages. Separate multiple IDs with a comma."
+msgstr "Vnesite ID določenega objave ali strani; pustite prazno, da se prikaže na vseh delovnih mestih / straneh. Ločite več ID-jev z vejico."
+
+#: inc/usp-about.php:14 inc/usp-tools.php:149 inc/usp-tools.php:191
+msgid "and"
+msgstr "in"
+
+#: inc/usp-about.php:25
+msgid "Donate Link:"
+msgstr "Doniraj povezavo:"
+
+#: inc/usp-about.php:26
+msgid "Minimum WP Version:"
+msgstr "Najmanjša različica WP:"
+
+#: inc/usp-about.php:27
+msgid "Tested up to:"
+msgstr "Preizkušen do:"
+
+#: inc/usp-about.php:49
+msgid "MultiSite Installation"
+msgstr "Namestitev MultiSite"
+
+#: inc/usp-about.php:49
+msgid "Standard Installation"
+msgstr "Standardna inštalacija"
+
+#: inc/usp-about.php:58 inc/usp-about.php:59
+msgid "Enabled: "
+msgstr "Omogočeno:"
+
+#: inc/usp-about.php:58 inc/usp-about.php:211 inc/usp-about.php:212
+msgid " seconds"
+msgstr " sekund"
+
+#: inc/usp-about.php:59
+msgid " days"
+msgstr " dnevi"
+
+#: inc/usp-about.php:66
+msgid "Enabled: no limit"
+msgstr "Omogočeno: brez omejitve"
+
+#: inc/usp-about.php:70
+msgid " (FTP/SSH access only)"
+msgstr " (Samo FTP / SSH dostop)"
+
+#: inc/usp-about.php:70
+msgid " (Direct access allowed)"
+msgstr " (Dovoljen je neposredni dostop)"
+
+#: inc/usp-about.php:73
+msgid "WordPress Version:"
+msgstr "Verzija programa WordPress:"
+
+#: inc/usp-about.php:74
+msgid "Installation Type:"
+msgstr "Vrsta namestitve:"
+
+#: inc/usp-about.php:75
+msgid "Update Method:"
+msgstr "Metoda posodobitve:"
+
+#: inc/usp-about.php:76
+msgid "WP Memory Limit:"
+msgstr "Omejitev pomnilnika WP:"
+
+#: inc/usp-about.php:77
+msgid "Site Address (URL):"
+msgstr "Naslov spletnega mesta (URL):"
+
+#: inc/usp-about.php:78
+msgid "WordPress Address (URL):"
+msgstr "Naslov WordPressa (URL):"
+
+#: inc/usp-about.php:79
+msgid "Language:"
+msgstr "Jezik:"
+
+#: inc/usp-about.php:80
+msgid "Locale:"
+msgstr "Locale:"
+
+#: inc/usp-about.php:81
+msgid "WP Post Revisions:"
+msgstr "Objave WP objave:"
+
+#: inc/usp-about.php:82
+msgid "WP Autosave Interval:"
+msgstr "WP Autosave Interval:"
+
+#: inc/usp-about.php:83
+msgid "WP Empty Trash Interval:"
+msgstr "WP izprazni smetnjak:"
+
+#: inc/usp-about.php:84
+msgid "Current Theme:"
+msgstr "Trenutna tema:"
+
+#: inc/usp-about.php:85
+msgid "WordPress Time:"
+msgstr "WordPress Time:"
+
+#: inc/usp-about.php:86
+msgid "Active Plugins:"
+msgstr "Aktivni vtičniki:"
+
+#: inc/usp-about.php:87
+msgid "WP Content Directory:"
+msgstr "WP Content Directory:"
+
+#: inc/usp-about.php:88
+msgid "WP Uploads Directory:"
+msgstr "WP Uploads Directory:"
+
+#: inc/usp-about.php:89
+msgid "WP Language Directory:"
+msgstr "WP Language Directory:"
+
+#: inc/usp-about.php:90
+msgid "WP Temp Directory:"
+msgstr "WP Temp Directory:"
+
+#: inc/usp-about.php:91
+msgid "Default Theme:"
+msgstr "Privzeta tema:"
+
+#: inc/usp-about.php:94 inc/usp-about.php:167
+msgid "Adminstrator-level access required to view WordPress information."
+msgstr "Dostop na ravni upravitelja je potreben za ogled informacij o WordPressu."
+
+#: inc/usp-about.php:108 inc/usp-about.php:109
+msgid "Defined"
+msgstr "Opredeljeno"
+
+#: inc/usp-about.php:108 inc/usp-about.php:109
+msgid " (not displayed for security reasons)"
+msgstr " (ni iz varnostnih razlogov)"
+
+#: inc/usp-about.php:112
+msgid "ABSPATH:"
+msgstr "ABSPATH:"
+
+#: inc/usp-about.php:113
+msgid "SUBDOMAIN_INSTALL:"
+msgstr "SUBDOMAIN_INSTALL:"
+
+#: inc/usp-about.php:114
+msgid "WPMU_PLUGIN_DIR:"
+msgstr "WPMU_PLUGIN_DIR:"
+
+#: inc/usp-about.php:115
+msgid "WP_ALLOW_REPAIR:"
+msgstr "WP_ALLOW_REPAIR:"
+
+#: inc/usp-about.php:116
+msgid "COOKIE_DOMAIN:"
+msgstr "COOKIE_DOMAIN:"
+
+#: inc/usp-about.php:117
+msgid "VHOST:"
+msgstr "VHOST:"
+
+#: inc/usp-about.php:119
+msgid "WP_CACHE:"
+msgstr "WP_CACHE:"
+
+#: inc/usp-about.php:120
+msgid "WP_CRON_LOCK_TIMEOUT:"
+msgstr "WP_CRON_LOCK_TIMEOUT:"
+
+#: inc/usp-about.php:121
+msgid "DISABLE_WP_CRON:"
+msgstr "DISABLE_WP_CRON:"
+
+#: inc/usp-about.php:122
+msgid "ALTERNATE_WP_CRON:"
+msgstr "ALTERNATE_WP_CRON:"
+
+#: inc/usp-about.php:123
+msgid "SAVEQUERIES:"
+msgstr "SKLADIŠČENJE:"
+
+#: inc/usp-about.php:124
+msgid "MEDIA_TRASH:"
+msgstr "MEDIA_TRASH:"
+
+#: inc/usp-about.php:126
+msgid "CUSTOM_USER_META_TABLE:"
+msgstr "CUSTOM_USER_META_TABLE:"
+
+#: inc/usp-about.php:127
+msgid "CUSTOM_USER_TABLE:"
+msgstr "CUSTOM_USER_TABLE:"
+
+#: inc/usp-about.php:128
+msgid "NOBLOGREDIRECT:"
+msgstr "NOBLOGREDIRECT:"
+
+#: inc/usp-about.php:129
+msgid "WP_ACCESSIBLE_HOSTS:"
+msgstr "WP_ACCESSIBLE_HOSTS:"
+
+#: inc/usp-about.php:130
+msgid "WP_HTTP_BLOCK_EXTERNAL:"
+msgstr "WP_HTTP_BLOCK_EXTERNAL:"
+
+#: inc/usp-about.php:131
+msgid "FS_METHOD:"
+msgstr "FS_METHOD:"
+
+#: inc/usp-about.php:132
+msgid "DO_NOT_UPGRADE_GLOBAL_TABLES:"
+msgstr "DO_NOT_UPGRADE_GLOBAL_TABLES:"
+
+#: inc/usp-about.php:134
+msgid "WP_PROXY_HOST:"
+msgstr "WP_PROXY_HOST:"
+
+#: inc/usp-about.php:135
+msgid "WP_PROXY_PORT:"
+msgstr "WP_PROXY_PORT:"
+
+#: inc/usp-about.php:136
+msgid "WP_PROXY_USERNAME:"
+msgstr "WP_PROXY_USERNAME:"
+
+#: inc/usp-about.php:137
+msgid "WP_PROXY_PASSWORD:"
+msgstr "WP_PROXY_PASSWORD:"
+
+#: inc/usp-about.php:139
+msgid "FTP_BASE:"
+msgstr "FTP_BASE:"
+
+#: inc/usp-about.php:140
+msgid "FTP_CONTENT_DIR:"
+msgstr "FTP_CONTENT_DIR:"
+
+#: inc/usp-about.php:141
+msgid "FTP_PLUGIN_DIR:"
+msgstr "FTP_PLUGIN_DIR:"
+
+#: inc/usp-about.php:142
+msgid "FTP_PUBKEY:"
+msgstr "FTP_PUBKEY:"
+
+#: inc/usp-about.php:143
+msgid "FTP_PRIKEY:"
+msgstr "FTP_PRIKEY:"
+
+#: inc/usp-about.php:144
+msgid "FTP_USER:"
+msgstr "FTP_USER:"
+
+#: inc/usp-about.php:145
+msgid "FTP_PASS:"
+msgstr "FTP_PASS:"
+
+#: inc/usp-about.php:146
+msgid "FTP_HOST:"
+msgstr "FTP_HOST:"
+
+#: inc/usp-about.php:147
+msgid "FTP_SSL:"
+msgstr "FTP_SSL:"
+
+#: inc/usp-about.php:149
+msgid "WP_DEBUG:"
+msgstr "WP_DEBUG:"
+
+#: inc/usp-about.php:150
+msgid "WP_DEBUG_LOG:"
+msgstr "WP_DEBUG_LOG:"
+
+#: inc/usp-about.php:151
+msgid "WP_DEBUG_DISPLAY:"
+msgstr "WP_DEBUG_DISPLAY:"
+
+#: inc/usp-about.php:152
+msgid "SCRIPT_DEBUG:"
+msgstr "SCRIPT_DEBUG:"
+
+#: inc/usp-about.php:154
+msgid "ENFORCE_GZIP:"
+msgstr "ENFORCE_GZIP:"
+
+#: inc/usp-about.php:155
+msgid "COMPRESS_CSS:"
+msgstr "COMPRESS_CSS:"
+
+#: inc/usp-about.php:156
+msgid "COMPRESS_SCRIPTS:"
+msgstr "COMPRESS_SCRIPTS:"
+
+#: inc/usp-about.php:157
+msgid "CONCATENATE_SCRIPTS:"
+msgstr "CONCATENATE_SCRIPTS:"
+
+#: inc/usp-about.php:159
+msgid "DISALLOW_FILE_MODS:"
+msgstr "DISALLOW_FILE_MODS:"
+
+#: inc/usp-about.php:160
+msgid "DISALLOW_FILE_EDIT:"
+msgstr "DISALLOW_FILE_EDIT:"
+
+#: inc/usp-about.php:161
+msgid "DISALLOW_UNFILTERED_HTML:"
+msgstr "DISALLOW_UNFILTERED_HTML:"
+
+#: inc/usp-about.php:162
+msgid "ALLOW_UNFILTERED_UPLOADS:"
+msgstr "ALLOW_UNFILTERED_UPLOADS:"
+
+#: inc/usp-about.php:163
+msgid "FORCE_SSL_LOGIN:"
+msgstr "FORCE_SSL_LOGIN:"
+
+#: inc/usp-about.php:164
+msgid "FORCE_SSL_ADMIN:"
+msgstr "FORCE_SSL_ADMIN:"
+
+#: inc/usp-about.php:193
+msgid "Server Operating System:"
+msgstr "Strežniški operacijski sistem:"
+
+#: inc/usp-about.php:194
+msgid "Server Software:"
+msgstr "Programska oprema strežnika:"
+
+#: inc/usp-about.php:195
+msgid "Server Signature:"
+msgstr "Podpis strežnika:"
+
+#: inc/usp-about.php:196
+msgid "Server Name:"
+msgstr "Ime strežnika:"
+
+#: inc/usp-about.php:197
+msgid "Server Address:"
+msgstr "Naslov strežnika:"
+
+#: inc/usp-about.php:198
+msgid "Server Port:"
+msgstr "Vrata strežnika:"
+
+#: inc/usp-about.php:199
+msgid "Server Gateway:"
+msgstr "Strežniški prehod:"
+
+#: inc/usp-about.php:200
+msgid "PHP Version:"
+msgstr "PHP Version:"
+
+#: inc/usp-about.php:201
+msgid "Zend Version:"
+msgstr "Zend Različica:"
+
+#: inc/usp-about.php:202
+msgid "Platform:"
+msgstr "Platforma:"
+
+#: inc/usp-about.php:203
+msgid "Loaded Extensions:"
+msgstr "Naložene razširitve:"
+
+#: inc/usp-about.php:204
+msgid "MySQL Server:"
+msgstr "MySQL Server:"
+
+#: inc/usp-about.php:205
+msgid "Memory Limit:"
+msgstr "Omejitev pomnilnika:"
+
+#: inc/usp-about.php:206
+msgid "Server Time:"
+msgstr "Čas strežnika:"
+
+#: inc/usp-about.php:207
+msgid "Include Path:"
+msgstr "Vključi pot:"
+
+#: inc/usp-about.php:208
+msgid "Display Errors:"
+msgstr "Napake prikaza:"
+
+#: inc/usp-about.php:209
+msgid "Register Globals:"
+msgstr "Register Globals:"
+
+#: inc/usp-about.php:210
+msgid "Max Post Size:"
+msgstr "Max Post Size:"
+
+#: inc/usp-about.php:211
+msgid "Max Input Time:"
+msgstr "Maksimalni vhodni čas:"
+
+#: inc/usp-about.php:212
+msgid "Max Execution Time:"
+msgstr "Maksimalni čas izvedbe:"
+
+#: inc/usp-about.php:213
+msgid "File Uploads:"
+msgstr "Nalaganje datotek:"
+
+#: inc/usp-about.php:214
+msgid "Temp Uploads Directory:"
+msgstr "Directory Temp Uploads:"
+
+#: inc/usp-about.php:215
+msgid "Max Upload File Size:"
+msgstr "Max upload Velikost datoteke:"
+
+#: inc/usp-about.php:216
+msgid "Multibyte Function Overload:"
+msgstr "Večbajtna preobremenitev:"
+
+#: inc/usp-about.php:217
+msgid "Short Open Tag:"
+msgstr "Kratka odprta oznaka:"
+
+#: inc/usp-about.php:218
+msgid "ASP Tags:"
+msgstr "ASP Tags:"
+
+#: inc/usp-about.php:219
+msgid "Zend Compatibility:"
+msgstr "Zend Združljivost:"
+
+#: inc/usp-about.php:220
+msgid "Remote Open Files:"
+msgstr "Oddaljene datoteke:"
+
+#: inc/usp-about.php:221
+msgid "Remote Include Files:"
+msgstr "Remote Vključi datoteke:"
+
+#: inc/usp-about.php:222
+msgid "PHP Safe Mode:"
+msgstr "PHP varen način:"
+
+#: inc/usp-about.php:223
+msgid "Open Basedir:"
+msgstr "Odpri osnutek:"
+
+#: inc/usp-about.php:224
+msgid "Disabled Functions:"
+msgstr "Funkcije onemogočene:"
+
+#: inc/usp-about.php:225
+msgid "Disabled Classes:"
+msgstr "Razredi invalidnosti:"
+
+#: inc/usp-about.php:228 inc/usp-about.php:267
+msgid "Adminstrator-level access required to view Server information."
+msgstr "Dostop na ravni upravitelja je potreben za ogled informacij o strežniku."
+
+#: inc/usp-about.php:256
+msgid "Login/Username:"
+msgstr "Prijava / Uporabniško ime:"
+
+#: inc/usp-about.php:257
+msgid "Display Name:"
+msgstr "Prikazno ime:"
+
+#: inc/usp-about.php:258
+msgid "Email Address:"
+msgstr "Email naslov:"
+
+#: inc/usp-about.php:259
+msgid "IP Address:"
+msgstr "IP naslov:"
+
+#: inc/usp-about.php:260
+msgid "User Agent:"
+msgstr "Uporabniški agent:"
+
+#: inc/usp-about.php:261
+msgid "Remote Address:"
+msgstr "Oddaljeni naslov:"
+
+#: inc/usp-about.php:262
+msgid "Remote Port:"
+msgstr "Oddaljena vrata:"
+
+#: inc/usp-about.php:263
+msgid "Server Protocol:"
+msgstr "Protokol strežnika:"
+
+#: inc/usp-about.php:264
+msgid "HTTP Connection:"
+msgstr "Povezava HTTP:"
+
+#: inc/usp-options.php:9
+msgid "WP&rsquo;s"
+msgstr "WP & ss"
+
+#: inc/usp-options.php:9 inc/usp-options.php:13
+msgid "function"
+msgstr "funkcijo"
+
+#: inc/usp-options.php:13
+msgid "PHP&rsquo;s"
+msgstr "PHP & ss"
+
+#: inc/usp-options.php:17
+msgid "Disable all email alerts"
+msgstr "Onemogočite vsa opozorila na e-pošto"
+
+#: inc/usp-options.php:27
+msgid "Plain-text format"
+msgstr "Običajni format besedila"
+
+#: inc/usp-options.php:31
+msgid "HTML format"
+msgstr "Format HTML"
+
+#: inc/usp-options.php:41
+msgid "Regular WP Posts"
+msgstr "Običajna delovna mesta WP"
+
+#: inc/usp-options.php:41
+msgid "(default)"
+msgstr "(privzeto)"
+
+#: inc/usp-options.php:45
+msgid "Regular WP Pages"
+msgstr "Redne strani WP"
+
+#: inc/usp-options.php:49 inc/usp-posts.php:40 inc/usp-posts.php:52
+msgid "USP Posts"
+msgstr "Objave USP"
+
+#: inc/usp-options.php:49
+msgid "(see related setting, &ldquo;Slug for USP Post&rdquo;)"
+msgstr "(glejte povezano nastavitev, & ldquo; Slug za USP Post & rdquo;)"
+
+#: inc/usp-options.php:53
+msgid "Existing Post Type"
+msgstr "Obstoječ postni tip"
+
+#: inc/usp-options.php:53
+msgid "(see related setting, &ldquo;Slug for Existing Post Type&rdquo;)"
+msgstr "(glej povezano nastavitev, & ldquo; Slug za obstoječi način objave & rdquo;)"
+
+#: inc/usp-options.php:63 inc/usp-options.php:77
+msgid "Dropdown/select menu"
+msgstr "Spustni meni / izberite"
+
+#: inc/usp-options.php:67 inc/usp-options.php:81
+msgid "Checkboxes"
+msgstr "Potrdila"
+
+#: inc/usp-options.php:85
+msgid "Text input field"
+msgstr "Polje za vnos besedila"
+
+#: inc/usp-options.php:95
+msgid "Name, ascending (default)"
+msgstr "Ime, naraščajoče (privzeto)"
+
+#: inc/usp-options.php:99
+msgid "Name, descending"
+msgstr "Ime, padajoče"
+
+#: inc/usp-options.php:103
+msgid "Tag ID, ascending"
+msgstr "ID oznake, naraščajoče"
+
+#: inc/usp-options.php:107
+msgid "Tag ID, descending"
+msgstr "ID oznake, padajoče"
+
+#: inc/usp-options.php:111
+msgid "Count, ascending"
+msgstr "Štetje, naraščajoče"
+
+#: inc/usp-options.php:115
+msgid "Count, descending"
+msgstr "Štetje, padajoče"
+
+#: inc/usp-options.php:125
+msgid "Super simple style (default)"
+msgstr "Super preprost slog (privzeto)"
+
+#: inc/usp-options.php:129
+msgid "Clean minimal style"
+msgstr "Čisti minimalni slog"
+
+#: inc/usp-options.php:133
+msgid "Smaller form style"
+msgstr "Manjši stil oblike"
+
+#: inc/usp-options.php:137
+msgid "Larger form style"
+msgstr "Večji slog oblike"
+
+#: inc/usp-options.php:141
+msgid "Define custom style"
+msgstr "Določite slog po meri"
+
+#: inc/usp-options.php:145
+msgid "Disable styles"
+msgstr "Onemogoči sloge"
+
+#: inc/usp-options.php:155
+msgid "Before post content"
+msgstr "Pred objavo vsebine"
+
+#: inc/usp-options.php:159
+msgid "After post content"
+msgstr "Po objavljeni vsebini"
+
+#: inc/usp-options.php:163
+msgid "Do not auto-display images"
+msgstr "Ne prikazujte slik samodejno"
+
+#: inc/usp-options.php:173
+msgid "Thumbnail (default)"
+msgstr "Sličica (privzeto)"
+
+#: inc/usp-options.php:177
+msgid "Medium"
+msgstr "Srednje"
+
+#: inc/usp-options.php:181
+msgid "Large"
+msgstr "Velika"
+
+#: inc/usp-options.php:185
+msgid "Full"
+msgstr "Poln"
+
+#: inc/usp-options.php:195
+msgid "Version 1 (Original reCAPTCHA)"
+msgstr "Različica 1 (izvirna reCAPTCHA)"
+
+#: inc/usp-options.php:199
+msgid "Version 2 (noCAPTCHA reCAPTCHA)"
+msgstr "Različica 2 (noCAPTCHA reCAPTCHA)"
+
+#: inc/usp-shortcodes.php:594
+msgid "File uploads not allowed. Please check your settings or contact the site administrator."
+msgstr "Nalaganje datotek ni dovoljeno. Preverite nastavitve ali se obrnite na skrbnika spletnega mesta."
+
+#: inc/usp-shortcodes.php:638 inc/usp-login.php:120
+msgid "Remember me"
+msgstr "Zapomni si me"
+
+#: inc/usp-shortcodes.php:902
+msgid "Show/hide terms"
+msgstr "Prikaži / skrij izraze"
+
+#: inc/usp-shortcodes.php:903
+msgid "Put terms here."
+msgstr "Postavite pogoje tukaj."
+
+#: inc/usp-shortcodes.php:959
+msgid "Email Alert from Site Name"
+msgstr "Opozorilo e-pošte iz imena spletnega mesta"
+
+#: inc/usp-shortcodes.php:1029
+msgid "error:usp_form:1:"
+msgstr "napaka: usp_form: 1:"
+
+#: inc/usp-posts.php:41
+msgid "USP Post"
+msgstr "USP Post"
+
+#: inc/usp-posts.php:43
+msgid "Add New USP Post"
+msgstr "Dodaj novo USP objavo"
+
+#: inc/usp-posts.php:44
+msgid "Edit USP Post"
+msgstr "Edit USP Post"
+
+#: inc/usp-posts.php:45
+msgid "New USP Post"
+msgstr "Nova USP objava"
+
+#: inc/usp-posts.php:46
+msgid "View USP Post"
+msgstr "Oglejte si USP Post"
+
+#: inc/usp-posts.php:47
+msgid "All USP Posts"
+msgstr "Vse objave USP"
+
+#: inc/usp-posts.php:48
+msgid "Search USP Posts"
+msgstr "Poišči objave USP"
+
+#: inc/usp-posts.php:49
+msgid "No USP Posts found"
+msgstr "Nobenih delovnih mest v storitvi USP ni"
+
+#: inc/usp-posts.php:50
+msgid "No USP Posts found in Trash"
+msgstr "V smetnjaku niso našli nobenih sporočil v storitvi USP"
+
+#: inc/usp-posts.php:51
+msgid "Parent USP Post:"
+msgstr "Parent USP Post:"
+
+#: inc/usp-posts.php:56
+msgid "USP Post Types"
+msgstr "Vrste objave USP"
+
+#: inc/usp-posts.php:133
+msgid "This is an example of a custom USP Post. "
+msgstr "To je primer po meri USP Post."
+
+#: inc/usp-posts.php:134
+msgid "To delete this post, disable the option \"Auto-generate post demo\" (Advanced settings tab) and then delete as normal. "
+msgstr "Če želite izbrisati to objavo, onemogočite možnost »Samodejno ustvarjanje objave za objavo« (zavihek »Napredne nastavitve«) in nato izbrišite kot običajno."
+
+#: inc/usp-posts.php:135
+msgid "To restore the demo post, re-enable the auto-generate option."
+msgstr "Če želite obnoviti demo objavo, ponovno omogočite možnost samodejno ustvarjanje."
+
+#: inc/usp-posts.php:137
+msgid "This demo includes a few of the plugin&rsquo;s shortcodes. Visit this post on the front-end to see it in action!"
+msgstr "Ta demo vključuje nekatere od kratkih kodnih oznak za vtičnike. Obiščite to objavo na sprednjem koncu, da si jo ogledate v akciji!"
+
+#: inc/usp-posts.php:140
+msgid "Hello,"
+msgstr "Zdravo,"
+
+#: inc/usp-posts.php:140
+msgid "! Here is your information:"
+msgstr "! Tukaj so vaše informacije:"
+
+#: inc/usp-posts.php:143
+msgid "ID:"
+msgstr "ID:"
+
+#: inc/usp-posts.php:144
+msgid "Role:"
+msgstr "Vloga:"
+
+#: inc/usp-posts.php:145
+msgid "Email:"
+msgstr "E-naslov:"
+
+#: inc/usp-posts.php:148
+msgid "Display content based on user role"
+msgstr "Prikaz vsebine na podlagi uporabniške vloge"
+
+#: inc/usp-posts.php:149
+msgid "Content for Admins only."
+msgstr "Vsebina samo za skrbnike."
+
+#: inc/usp-posts.php:151
+msgid "Display content for any logged-in user"
+msgstr "Prikaz vsebine za vsakega prijavljenega uporabnika"
+
+#: inc/usp-posts.php:152
+msgid "Content for logged-in users only."
+msgstr "Vsebina samo za prijavljene uporabnike."
+
+#: inc/usp-posts.php:154
+msgid "Display content for visitors"
+msgstr "Prikaz vsebine za obiskovalce"
+
+#: inc/usp-posts.php:155
+msgid "Sorry, you are logged in!"
+msgstr "Oprostite, prijavljeni ste!"
+
+#: inc/usp-posts.php:155
+msgid "Content for visitors (not logged in) only."
+msgstr "Vsebina za obiskovalce (ni prijavljena)."
+
+#: inc/usp-posts.php:211
+msgid "USP Custom Fields"
+msgstr "Polja po meri USP"
+
+#: inc/usp-posts.php:278
+msgid "Value"
+msgstr "Vrednost"
+
+#: inc/usp-posts.php:285 inc/usp-posts.php:286 inc/usp-posts.php:287
+#: inc/usp-contact.php:37 inc/usp-custom.php:579 inc/usp-custom.php:644
+#: inc/usp-process.php:2079 inc/usp-process.php:2082 inc/usp-process.php:2087
+msgid "undefined"
+msgstr "nedoločeno"
+
+#: inc/usp-tools.php:11
+msgid "To restore USP Pro default settings:"
+msgstr "Za obnovitev privzetih nastavitev USP Pro:"
+
+#: inc/usp-tools.php:13
+msgid "Check the box below and click &ldquo;Save Changes&rdquo;."
+msgstr "Označite spodnje polje in kliknite & ldquo; Shrani spremembe & rdquo ;."
+
+#: inc/usp-tools.php:14
+msgid "Deactivate your USP License"
+msgstr "Deaktivirajte licenco USP"
+
+#: inc/usp-tools.php:14
+msgid "(make a note of your License Key before deactivation; you will need it to reactivate the plugin)."
+msgstr "(pred deaktivacijo zabeležite svoj licenčni ključ, potrebovali ga boste, da znova aktivirate vtičnik)."
+
+#: inc/usp-tools.php:15
+msgid "Deactivate and then reactivate the plugin to make it so."
+msgstr "Deaktivirajte in ponovno aktivirajte vtičnik, da bo tako."
+
+#: inc/usp-tools.php:17
+msgid "Note: "
+msgstr "Opomba:"
+
+#: inc/usp-tools.php:17
+msgid "restoring default settings does not affect any submitted post data or existing USP Forms."
+msgstr "obnavljanje privzetih nastavitev ne vpliva na nobene predložene podatke o objavi ali obstoječe obrazce USP."
+
+#: inc/usp-tools.php:31
+msgid "Show/Hide Backup &amp; Restore"
+msgstr "Prikaži / skrij varnostno kopiranje & amp; Obnovi"
+
+#: inc/usp-tools.php:31
+msgid "Backup &amp; Restore"
+msgstr "Backup & amp; Obnovi"
+
+#: inc/usp-tools.php:34
+msgid "Show/Hide USP Shortcodes"
+msgstr "Prikaži / skrij USP kratke kode"
+
+#: inc/usp-tools.php:34
+msgid "USP Shortcodes"
+msgstr "USP Shortcodes"
+
+#: inc/usp-tools.php:37
+msgid "Show/Hide USP Template Tags"
+msgstr "Pokaži / Skrij oznake predloge USP"
+
+#: inc/usp-tools.php:37
+msgid "USP Template Tags"
+msgstr "Oznake predloge USP"
+
+#: inc/usp-tools.php:40
+msgid "Show/Hide Helpful Resources"
+msgstr "Pokaži / Skrij uporabne vire"
+
+#: inc/usp-tools.php:40
+msgid "Helpful Resources"
+msgstr "Koristni viri"
+
+#: inc/usp-tools.php:43
+msgid "Show/Hide Tips &amp; Tricks"
+msgstr "Prikaži / skrij nasvete & amp; Triki"
+
+#: inc/usp-tools.php:43
+msgid "Tips &amp; Tricks"
+msgstr "Nasveti & amp; Triki"
+
+#: inc/usp-tools.php:58
+msgid "USP Pro provides shortcodes that make it easy to display forms and submitted content virtually anywhere. "
+msgstr "USP Pro ponuja kratke kode, ki omogočajo enostavno prikazovanje obrazcev in predloženo vsebino skoraj povsod."
+
+#: inc/usp-tools.php:59 inc/usp-tools.php:76
+msgid "To get started,"
+msgstr "Če želite začeti,"
+
+#: inc/usp-tools.php:59
+msgid "learn how to use Shortcodes"
+msgstr "naučite se uporabljati kratke kode"
+
+#: inc/usp-tools.php:60
+msgid "and then include USP Shortcodes as needed in your Posts and Pages."
+msgstr "in nato vključite USP Shortcodes, kot je potrebno v vaših objavah in straneh."
+
+#: inc/usp-tools.php:61
+msgid "Check out the complete list of USP Shortcodes &raquo;"
+msgstr "Preverite celoten seznam USP Shortcodes & raquo;"
+
+#: inc/usp-tools.php:62
+msgid "In addition to those provided by USP Pro, there are numerous"
+msgstr "Poleg tistih, ki jih zagotavlja USP Pro, obstaja veliko"
+
+#: inc/usp-tools.php:62
+msgid "default WP shortcodes"
+msgstr "privzete kratke kode WP"
+
+#: inc/usp-tools.php:63
+msgid "as well as any shortcodes that may be included with your theme and/or plugin(s). Also, FYI, more information about shortcodes may be found in the USP source code (as inline comments), "
+msgstr "kot tudi vse kratke kode, ki so lahko vključeni v vašo temo in / ali vtičnike. Tudi FYI, več informacij o kratkih kodah je mogoče najti v izvorni kodi USP (kot inline komentarji),"
+
+#: inc/usp-tools.php:64
+msgid "specifically see"
+msgstr "natančno glej"
+
+#: inc/usp-tools.php:75
+msgid "USP Pro provides template tags for displaying submitted post content, author information, file uploads and more. "
+msgstr "USP Pro ponuja predloge za prikazovanje predložene vsebine objav, podatke o avtorju, nalaganje datotek in več."
+
+#: inc/usp-tools.php:76
+msgid "learn how to use Template Tags"
+msgstr "naučite uporabljati oznake predlog"
+
+#: inc/usp-tools.php:77
+msgid "and then include USP Template Tags as needed in your theme template."
+msgstr "in nato vključite oznake predloge USP, kot je potrebno v predlogi teme."
+
+#: inc/usp-tools.php:78
+msgid "Check out the complete list of USP Template Tags &raquo;"
+msgstr "Oglejte si celoten seznam oznak template USP & raquo;"
+
+#: inc/usp-tools.php:79
+msgid "In addition to those provided by USP Pro, there are a great many template tags provided by WordPress, making it possible to display just about any information anywhere on your site. "
+msgstr "Poleg tistih, ki jih zagotavlja USP Pro, obstaja veliko predlogov za predloge, ki jih ponuja WordPress, kar omogoča prikazovanje skoraj vseh informacij kjerkoli na vašem spletnem mestu."
+
+#: inc/usp-tools.php:80
+msgid "Also, FYI, more information about each of these template tags may be found in the USP source code (as inline comments), specifically see"
+msgstr "Tudi FYI, več informacij o vsaki od teh oznak predlog lahko najdete v izvorni kodi USP (kot v obliki pripomb), natančneje glej"
+
+#: inc/usp-tools.php:92
+msgid "Here are some useful resources for working with USP Pro and WordPress."
+msgstr "Tukaj je nekaj uporabnih virov za delo s programoma USP Pro in WordPress."
+
+#: inc/usp-tools.php:94
+msgid "Useful resources and places to get help"
+msgstr "Koristni viri in kraji za pomoč"
+
+#: inc/usp-tools.php:96
+msgid "Video Tutorials"
+msgstr "Video Tutorials"
+
+#: inc/usp-tools.php:97
+msgid "USP Pro Docs"
+msgstr "Dokumenti USP Pro"
+
+#: inc/usp-tools.php:98
+msgid "USP Pro Tutorials"
+msgstr "USP Pro Tutorials"
+
+#: inc/usp-tools.php:99
+msgid "USP Pro Forum"
+msgstr "USP Pro Forum"
+
+#: inc/usp-tools.php:100
+msgid "USP Pro News"
+msgstr "USP Pro Novice"
+
+#: inc/usp-tools.php:101
+msgid "Bug reports, help requests, and feedback"
+msgstr "Poročila o napakah, pomoč za pomoč in povratne informacije"
+
+#: inc/usp-tools.php:102
+msgid "Log in to your account for current downloads"
+msgstr "Prijavite se v svoj račun za trenutne prenose"
+
+#: inc/usp-tools.php:103
+msgid "Where to Get Help with WordPress"
+msgstr "Kje dobiti pomoč z WordPressom"
+
+#: inc/usp-tools.php:106
+msgid "Key resources at the WordPress Codex"
+msgstr "Ključni viri v WordPress Codexu"
+
+#: inc/usp-tools.php:108
+msgid "WP Theme Templates"
+msgstr "Templates WP Theme"
+
+#: inc/usp-tools.php:109
+msgid "WP Widgets"
+msgstr "WP Widgets"
+
+#: inc/usp-tools.php:110
+msgid "WP Shortcodes"
+msgstr "WP Shortcodes"
+
+#: inc/usp-tools.php:111
+msgid "WP Template Tags"
+msgstr "Oznake WP predloge"
+
+#: inc/usp-tools.php:112
+msgid "WP Quicktags"
+msgstr "WP Quicktags"
+
+#: inc/usp-tools.php:113
+msgid "WP Custom Post Types"
+msgstr "Tipi objave po meri WP"
+
+#: inc/usp-tools.php:114
+msgid "The WordPress Loop"
+msgstr "WordPress Loop"
+
+#: inc/usp-tools.php:115
+msgid "WP Troubleshooting Guide"
+msgstr "WP Vodič za odpravljanje težav"
+
+#: inc/usp-tools.php:116
+msgid "WP Help Forum"
+msgstr "WP forum za pomoč"
+
+#: inc/usp-tools.php:119
+msgid "More WordPress plugins by Jeff Starr"
+msgstr "Več vtičnikov WordPress, ki jih Jeff Starr"
+
+#: inc/usp-tools.php:121
+msgid "BBQ Pro - Advanced WordPress Firewall"
+msgstr "BBQ Pro - Napredni WordPress požarni zid"
+
+#: inc/usp-tools.php:122
+msgid "SES Pro - Simple Ajax Signup Forms"
+msgstr "SES Pro - preprost Ajax Signup Forms"
+
+#: inc/usp-tools.php:125
+msgid "WordPress books and resources by Jeff Starr"
+msgstr "Knjige in vire WordPress, ki jih Jeff Starr"
+
+#: inc/usp-tools.php:127
+msgid "Digging Into WordPress, by Chris Coyier and Jeff Starr"
+msgstr "Kopanje v WordPress, Chris Coyier in Jeff Starr"
+
+#: inc/usp-tools.php:128
+msgid "The Tao of WordPress &ndash; Complete guide for users, admins, and everyone"
+msgstr "Tao WordPress & ndash; Celotno vodilo za uporabnike, skrbnike in vse"
+
+#: inc/usp-tools.php:129
+msgid "WordPress Themes In Depth &ndash; Complete guide to building awesome themes"
+msgstr "WordPress Teme v globini & ndash; Dokončajte vodnik za gradnjo odličnih tem"
+
+#: inc/usp-tools.php:130
+msgid ".htaccess made easy &ndash; Configure, optimize, and secure your site"
+msgstr ".htaccess je enostavno & ndash; Konfigurirajte, optimirajte in zaščitite spletno mesto"
+
+#: inc/usp-tools.php:131
+msgid "Perishable Press &ndash; WordPress, Web Design, Code &amp; Tutorials"
+msgstr "Pokvarljiv tisk & ndash; WordPress, spletno oblikovanje, koda in amp; Vadnice"
+
+#: inc/usp-tools.php:132
+msgid "WP-Mix &ndash; Useful code snippets for WordPress and more"
+msgstr "WP-Mix & ndash; Uporabni odrezki kode za WordPress in več"
+
+#: inc/usp-tools.php:145
+msgid "Here is a growing collection of useful notes, tips &amp; tricks for working with USP Pro."
+msgstr "Tukaj je vse večja zbirka koristnih opomb, nasvetov in amp; triki za delo s USP Pro."
+
+#: inc/usp-tools.php:147
+msgid "Post Type Bug Fix"
+msgstr "Post Type Bug Fix"
+
+#: inc/usp-tools.php:148
+msgid "As explained in the "
+msgstr "Kot je pojasnjeno v"
+
+#: inc/usp-tools.php:148
+msgid "WP Codex"
+msgstr "WP Codex"
+
+#: inc/usp-tools.php:148
+msgid ", an extra step is required to get WordPress to recognize theme templates for custom post types "
+msgstr ", je potreben dodaten korak, da WordPress prepozna tematske predloge za tipe po meri"
+
+#: inc/usp-tools.php:149
+msgid "(e.g.,"
+msgstr "(npr."
+
+#: inc/usp-tools.php:149
+msgid "). So if/when you get a 404 &ldquo;Not Found&rdquo; error when trying to view a custom post type "
+msgstr "). Torej, če / ko dobite 404 & ldquo; ni bilo mogoče najti & rdquo; napaka pri ogledu vrste objave po meri"
+
+#: inc/usp-tools.php:150
+msgid "(e.g., at"
+msgstr "(npr"
+
+#: inc/usp-tools.php:150
+msgid "), try the well-known fix, which is to simply"
+msgstr "), poskusite znano popraviti, kar je preprosto"
+
+#: inc/usp-tools.php:150
+msgid "visit the WP Permalinks Settings"
+msgstr "obiščite nastavitve WP Permalinks"
+
+#: inc/usp-tools.php:151
+msgid "After doing that, things should be working normally again. If not, try clicking the &ldquo;Save Changes&rdquo; button on the Permalink Settings page, which is another reported solution."
+msgstr "Po tem, stvari bi morale normalno delati normalno. Če ne, poskusite klikniti & ldquo; Shrani spremembe & rdquo; gumb na strani »Nastavitve«, ki je druga sporočena rešitev."
+
+#: inc/usp-tools.php:153
+msgid "Template Tags Best Practice"
+msgstr "Predloga oznak najboljše prakse"
+
+#: inc/usp-tools.php:154
+msgid "When including template tags provided by a plugin or theme, it&rsquo;s good practice to precede the tag with a conditional check to make sure that the function exists. For example: "
+msgstr "Če vključite predloge oznak, ki jih je dodal vtičnik ali tema, je dobra praksa pred oznako s pogojnim preverjanjem, da se prepričate, ali funkcija obstaja. Na primer:"
+
+#: inc/usp-tools.php:155
+msgid "Instead of writing this:"
+msgstr "Namesto pisanja:"
+
+#: inc/usp-tools.php:155
+msgid "we can write this:"
+msgstr "to lahko napišemo:"
+
+#: inc/usp-tools.php:156
+msgid "The first method works fine, but PHP will throw an error if the plugin is not installed or otherwise available. So to avoid the site-breaking error, the second method is preferred."
+msgstr "Prva metoda je v redu, toda PHP bo vrnil napako, če vtičnik ni nameščen ali kako drugače na voljo. Da bi se izognili napaki pri zlomu mesta, je druga prednostna."
+
+#: inc/usp-tools.php:158
+msgid "Force Forms to Clear Contents"
+msgstr "Prisilite obrazce k jasni vsebini"
+
+#: inc/usp-tools.php:159
+msgid "If you are savvy with CSS, it is trivial to style forms however and get them to clear preceding/parent elements. If you&rsquo;re new to the game and just want a sure-fire way to get form fields to line up "
+msgstr "Če ste preudarnejši s CSS-jem, je vsekakor manjkajoče za oblike slogov in jih dobite, da izbrišete predhodne / starševske elemente. Če ste novo seznanjeni z igro in preprosto želite varen način, da dobite polja obrazca za postavitev"
+
+#: inc/usp-tools.php:160
+msgid "and look right, here is a well-known snippet of HTML/CSS that you can add to any form:"
+msgstr "in poglej v redu, tukaj je dobro znani odlomek HTML / CSS, ki ga lahko dodate v katero koli obliko:"
+
+#: inc/usp-tools.php:160
+msgid "Just add that snippet after the last item in your form. "
+msgstr "Dodajte ta delček po zadnjem elementu v obrazcu."
+
+#: inc/usp-tools.php:161
+msgid "It&rsquo;s not exactly best-practices design-wise, but it&rsquo;s pretty much guaranteed to do the job. Then later on you can replace the snippet with some proper CSS."
+msgstr "To ni ravno najboljša praksa v smislu načrtovanja, vendar pa je to precej zagotovljeno za delo. Nato lahko kasneje nadomestite delček s pravilnim CSS."
+
+#: inc/usp-tools.php:163
+msgid "Minimum Posting Requirements"
+msgstr "Minimalne zahteve za objavo"
+
+#: inc/usp-tools.php:164
+msgid "There are basically four types of USP Forms: user-registration, content posting, contact form, and combo registration/posting. The minimum form requirements (in terms of input fields) for the contact form are "
+msgstr "Obstajajo v bistvu štiri vrste obrazcev USP: registracija uporabnika, objavljanje vsebine, kontaktni obrazec in prijava / objavljanje v kombinaciji. Zahteve za najmanjšo obliko (v smislu vnosnih polj) za kontaktni obrazec so"
+
+#: inc/usp-tools.php:165
+msgid "email, subject, and content. The minimum requirements for user registration are name and email address. The minimum for content posting is the content/textarea field. For the combo registration/posting, the minimum "
+msgstr "e-pošto, predmet in vsebino. Minimalne zahteve za registracijo uporabnika so ime in elektronski naslov. Najmanjše število objav za vsebino je polje z vsebino / tekstom. Za kombinirano registracijo / objavo najmanjšega"
+
+#: inc/usp-tools.php:166
+msgid "requirements are determined by the plugin settings. Likewise, other requirements may vary depending on how the plugin settings have been configured."
+msgstr "Zahteve določajo nastavitve vtičnika. Prav tako se lahko druge zahteve razlikujejo glede na nastavitve nastavitev vtičnika."
+
+#: inc/usp-tools.php:168
+msgid "Shortcodes in Widgets"
+msgstr "Kratki kode v pripomočkih"
+
+#: inc/usp-tools.php:169
+msgid "By default, shortcodes do not work when included in widgets. To make them work, just add this snippet to your theme&rsquo;s"
+msgstr "Kratke kode po privzetku ne delujejo, če so vključene v pripomočke. Če želite delovati, dodajte ta delček na svojo temo & rsquo; s"
+
+#: inc/usp-tools.php:169
+msgid "file:"
+msgstr "mapa:"
+
+#: inc/usp-tools.php:170
+msgid "Nothing more to do, but remember to re-add the snippet if/when you change themes."
+msgstr "Nič več ni treba storiti, vendar ne pozabite ponovno dodati delčka, če / ko spremenite teme."
+
+#: inc/usp-tools.php:172
+msgid "On Install, On Uninstall"
+msgstr "Pri namestitvi, pri odstranjevanju"
+
+#: inc/usp-tools.php:173
+msgid "Just FYI: when USP Pro is installed it creates four new options in the WordPress"
+msgstr "Samo FYI: ko je nameščen USP Pro, v WordPressu ustvari štiri nove možnosti"
+
+#: inc/usp-tools.php:173
+msgid "table. That&rsquo;s it. No new database tables are created. While the plugin is active, new content (post data, user info) may "
+msgstr "mizo. To je to. Ni novih tabel baz podatkov. Medtem ko je plugin aktiven, lahko nova vsebina (objavljeni podatki, podatki o uporabniku)"
+
+#: inc/usp-tools.php:174
+msgid "be added to the database, but no other changes are made anywhere by the plugin. Lastly, when the plugin is uninstalled (deleted from the server), the four options it created are removed from the database. "
+msgstr "se dodaja v bazo podatkov, nobena druga sprememba pa ni narejena v nobenem vtičniku. Nazadnje, ko je vtičnik odstranjen (izbrisan iz strežnika), se iz baze podatkov odstranijo štiri možnosti, ki jih je ustvaril."
+
+#: inc/usp-tools.php:175
+msgid "Note that the plugin does not delete any posted/submitted content or registered users. If any posts or users were added, it is up to the admin whether or not to remove them."
+msgstr "Upoštevajte, da vtičnik ne izbriše objavljenih / oddanih vsebin ali registriranih uporabnikov. Če so bile dodane poljubne objave ali uporabniki, je skrbnik odvisen od tega, ali jih bo odstranil ali ne."
+
+#: inc/usp-tools.php:177
+msgid "Alternate Way to Reset Form"
+msgstr "Alternativen način za ponastavitev obrazca"
+
+#: inc/usp-tools.php:178
+msgid "USP Pro includes a shortcode/quicktag for a link that will reset the form. To use a button instead, add this code to any form:"
+msgstr "USP Pro vsebuje povezavo s kratko številko / kratico za povezavo, ki bo ponastavila obrazec. Če želite uporabiti gumb, dodajte to kodo v katero koli obliko:"
+
+#: inc/usp-tools.php:179
+msgid "Note that the shortcode requires the form URL as one of its attributes, but the reset"
+msgstr "Upoštevajte, da je za krajšo kodo URL obrazca potreben kot eden od njegovih atributov, toda ponastavitev"
+
+#: inc/usp-tools.php:179
+msgid "tag works without requiring any URL."
+msgstr "oznaka deluje brez kakršnega koli URL-ja."
+
+#: inc/usp-tools.php:181 inc/usp-tools.php:192
+msgid "Custom Field Recipes"
+msgstr "Recepti po meri"
+
+#: inc/usp-tools.php:182
+msgid "USP Pro supports unlimited Custom Fields. Here is a cheatsheet for various types of form elements. Click the links for more details."
+msgstr "USP Pro podpira neomejena polja po meri. Tukaj je šablon za različne vrste elementov obrazca. Kliknite povezave za več podrobnosti."
+
+#: inc/usp-tools.php:184
+msgid "Textarea"
+msgstr "Textarea"
+
+#: inc/usp-tools.php:185
+msgid "Text Input"
+msgstr "Vnos besedila"
+
+#: inc/usp-tools.php:186
+msgid "Radio Select"
+msgstr "Izberite radio"
+
+#: inc/usp-tools.php:187
+msgid "Checkbox"
+msgstr "Potrditveno polje"
+
+#: inc/usp-tools.php:188
+msgid "Select/Option"
+msgstr "Izberite / Option"
+
+#: inc/usp-tools.php:191
+msgid "For more fields and other options, check out the"
+msgstr "Če želite več polj in drugih možnosti, si oglejte"
+
+#: inc/usp-tools.php:191
+msgid "Custom Field Reference"
+msgstr "Smerno polje po meri"
+
+#: inc/usp-tools.php:192
+msgid "USP Pro - Custom Field Recipes"
+msgstr "USP Pro - Custom Field Recepti"
+
+#: inc/usp-contact.php:120 inc/usp-contact.php:121
+msgid "Additional Information"
+msgstr "Dodatne informacije"
+
+#: inc/usp-contact.php:121
+msgid "----------------------"
+msgstr "----------------------"
+
+#: inc/usp-contact.php:134 inc/usp-contact.php:146
+msgid "Message Details"
+msgstr "Podrobnosti sporočila"
+
+#: inc/usp-contact.php:146
+msgid "---------------"
+msgstr "---------------"
+
+#: inc/usp-functions.php:1220
+msgid " by "
+msgstr " z"
+
+#: inc/usp-functions.php:1459
+msgid "File 1"
+msgstr "Datoteka 1"
+
+#: inc/usp-functions.php:1476
+msgid "File 2"
+msgstr "Datoteka 2"
+
+#: inc/usp-functions.php:1493
+msgid "File 3"
+msgstr "Slika 3"
+
+#: inc/usp-functions.php:1786
+msgid "View full post"
+msgstr "Prikaži celotno objavo"
+
+#: inc/usp-functions.php:1791
+msgid "Edit"
+msgstr "Uredi"
+
+#: inc/usp-functions.php:1794
+msgid "Delete this post"
+msgstr "Izbriši to objavo"
+
+#: inc/usp-functions.php:1795
+msgid "Delete"
+msgstr "Izbriši"
+
+#: inc/usp-functions.php:1797
+msgid " - "
+msgstr " -"
+
+#: inc/usp-functions.php:1798
+msgid " "
+msgstr " "
+
+#: inc/usp-login.php:84 inc/usp-login.php:123
+msgid "Login"
+msgstr "Vpiši se"
+
+#: inc/usp-login.php:85
+msgid "Register"
+msgstr "Registriraj se"
+
+#: inc/usp-login.php:86
+msgid "Forgot?"
+msgstr "Pozabil?"
+
+#: inc/usp-login.php:93 inc/usp-login.php:98
+msgid "Success!"
+msgstr "Uspeh!"
+
+#: inc/usp-login.php:94
+msgid "Check your email for the password."
+msgstr "Preverite svoje e-poštno sporočilo za geslo."
+
+#: inc/usp-login.php:99
+msgid "Check your email to reset your password."
+msgstr "Preverite svoje e-poštno sporočilo za ponastavitev gesla."
+
+#: inc/usp-login.php:103
+msgid "Have an account?"
+msgstr "Imate račun?"
+
+#: inc/usp-login.php:104
+msgid "Log in or sign up! It&rsquo;s fast &amp; free!"
+msgstr "Prijavite se ali se prijavite! Hitro & amp; prost!"
+
+#: inc/usp-login.php:110 inc/usp-login.php:135
+msgid "Username"
+msgstr "Uporabniško ime"
+
+#: inc/usp-login.php:131
+msgid "Register for this site!"
+msgstr "Registrirajte se za to spletno stran!"
+
+#: inc/usp-login.php:132
+msgid "Sign up now for the good stuff."
+msgstr "Prijavite se za dobre stvari."
+
+#: inc/usp-login.php:139
+msgid "Your Email"
+msgstr "Vaš e-poštni naslov"
+
+#: inc/usp-login.php:143
+msgid "Sign up!"
+msgstr "Prijavite se!"
+
+#: inc/usp-login.php:151
+msgid "Lose something?"
+msgstr "Izgubi nekaj?"
+
+#: inc/usp-login.php:152
+msgid "Enter your username or email to reset your password."
+msgstr "Vnesite svoje uporabniško ime ali e-pošto, da ponastavite geslo."
+
+#: inc/usp-login.php:155
+msgid "Username or Email"
+msgstr "Uporabnisko ime ali e-posta"
+
+#: inc/usp-login.php:159
+msgid "Reset my password"
+msgstr "Ponastavi geslo"
+
+#: inc/usp-login.php:173
+msgid "Welcome, "
+msgstr "Dobrodošli,"
+
+#: inc/usp-login.php:176
+msgid "Congratulations, you&rsquo;re logged in."
+msgstr "Čestitamo, da ste se prijavili."
+
+#: inc/usp-login.php:178
+msgid "Log out"
+msgstr "Izpisati"
+
+#: inc/usp-login.php:180
+msgid "Profile"
+msgstr "Profil"
+
+#: inc/usp-custom.php:26
+msgid "error:usp_custom_field:1:"
+msgstr "napaka: usp_custom_field: 1:"
+
+#: inc/usp-custom.php:29
+msgid "error:usp_custom_field:2:"
+msgstr "napaka: usp_custom_field: 2:"
+
+#: inc/usp-custom.php:32
+msgid "error:usp_custom_field:3:"
+msgstr "napaka: usp_custom_field: 3:"
+
+#: inc/usp-custom.php:54
+msgid "error:usp_custom_field:4:"
+msgstr "napaka: usp_custom_field: 4:"
+
+#: inc/usp-custom.php:165
+msgid "error:usp_custom_field:5:"
+msgstr "napaka: usp_custom_field: 5:"
+
+#: inc/usp-custom.php:258
+msgid "Example Input "
+msgstr "Primer vnosa"
+
+#: inc/usp-custom.php:268
+msgid "Example Label "
+msgstr "Primer oznake"
+
+#: inc/usp-custom.php:287
+msgid "Please select"
+msgstr "Prosim izberite"
+
+#: inc/usp-custom.php:303
+msgid "Add another file"
+msgstr "Dodaj novo datoteko"
+
+#: inc/usp-callbacks.php:9
+msgid "Text for submit button when &ldquo;Auto-Include&rdquo; setting is enabled"
+msgstr "Gumb za pošiljanje besedila, ko je & ldquo; Samodejno vključi & rdquo; nastavitev je omogočena"
+
+#: inc/usp-callbacks.php:10
+msgid "HTML tags that should be allowed in submitted post content and/or post excerpt."
+msgstr "HTML oznake, ki bi morale biti dovoljene v predloženi vsebini objave in / ali po odlomku."
+
+#: inc/usp-callbacks.php:10 inc/usp-callbacks.php:11 inc/usp-callbacks.php:12
+#: inc/usp-callbacks.php:13 inc/usp-callbacks.php:14 inc/usp-callbacks.php:253
+#: inc/usp-callbacks.php:254
+msgid "Learn more &raquo;"
+msgstr "Več o tem & raquo;"
+
+#: inc/usp-callbacks.php:11
+msgid "Name for the &ldquo;Your Name&rdquo; field."
+msgstr "Ime za & ldquo; vaše ime & rdquo; polje."
+
+#: inc/usp-callbacks.php:12
+msgid "Name for the &ldquo;Post URL&rdquo; field."
+msgstr "Ime za & ldquo; Objavi URL & rdquo; polje."
+
+#: inc/usp-callbacks.php:13
+msgid "Name for the &ldquo;Post Title&rdquo; field."
+msgstr "Ime za & ldququ; Naslov naslova & rdquo; polje."
+
+#: inc/usp-callbacks.php:14
+msgid "Name for the &ldquo;Post Tags&rdquo; field."
+msgstr "Ime za & ldquo; Objave Oznake & rdquo; polje."
+
+#: inc/usp-callbacks.php:15
+msgid "Name for the &ldquo;Challenge Question&rdquo; and &ldquo;reCAPTCHA&rdquo; fields."
+msgstr "Ime za & ldquo; vprašanje za izziv & rdquo; in & ldquo; reCAPTCHA & rdquo; polja."
+
+#: inc/usp-callbacks.php:16
+msgid "Name for the &ldquo;Post Category&rdquo; field."
+msgstr "Ime za & ldquo; Objavo kategorije & rdquo; polje."
+
+#: inc/usp-callbacks.php:17
+msgid "Name for the &ldquo;Post Content&rdquo; field."
+msgstr "Ime za & ldquo; Objavi vsebine & rdquo; polje."
+
+#: inc/usp-callbacks.php:18
+msgid "Name for the &ldquo;File(s)&rdquo; field."
+msgstr "Ime za & ldquo; datoteke (e) & rdquo; polje."
+
+#: inc/usp-callbacks.php:19
+msgid "Name for the &ldquo;Email Address&rdquo; field."
+msgstr "Ime za & ldquo; e-poštni naslov & rdquo; polje."
+
+#: inc/usp-callbacks.php:20
+msgid "Name for the &ldquo;Email Subject&rdquo; field."
+msgstr "Ime za & ldquo; Naslov e-pošte & rdquo; polje."
+
+#: inc/usp-callbacks.php:21
+msgid "Name for the &ldquo;Alt Text&rdquo; field."
+msgstr "Ime za & ldquo; Alt besedilo & rdquo; polje."
+
+#: inc/usp-callbacks.php:22
+msgid "Name for the &ldquo;Caption&rdquo; field."
+msgstr "Ime za & ldquo; Caption & rdquo; polje."
+
+#: inc/usp-callbacks.php:23
+msgid "Name for the &ldquo;Description&rdquo; field."
+msgstr "Ime za & ldquo; Opis & rdquo; polje."
+
+#: inc/usp-callbacks.php:24
+msgid "Name for the &ldquo;Taxonomy&rdquo; field."
+msgstr "Ime za & ldquo; Taksonomija & rdquo; polje."
+
+#: inc/usp-callbacks.php:25
+msgid "Name for the &ldquo;Post Format&rdquo; field."
+msgstr "Ime za & ldquo; Oblika zapisa & rdquo; polje."
+
+#: inc/usp-callbacks.php:26
+msgid "Name for the &ldquo;Media Title&rdquo; field."
+msgstr "Ime za & ldquo; Naslov medija & rdquo; polje."
+
+#: inc/usp-callbacks.php:27
+msgid "Name for the &ldquo;File Name&rdquo; field."
+msgstr "Ime za & ldquo; Ime datoteke & rdquo; polje."
+
+#: inc/usp-callbacks.php:28
+msgid "Name for the &ldquo;Agree to Terms&rdquo; field."
+msgstr "Ime za & ldquo; soglašam s pogoji & rdquo; polje."
+
+#: inc/usp-callbacks.php:29
+msgid "Name for the &ldquo;Post Excerpt&rdquo; field."
+msgstr "Ime za & ldquo; objavo izpiska & rdquo; polje."
+
+#: inc/usp-callbacks.php:30
+msgid "Name for the &ldquo;User Nicename&rdquo; field"
+msgstr "Ime za & nbsp; uporabniško ime Nicename & rdquo; polje"
+
+#: inc/usp-callbacks.php:31
+msgid "Name for the &ldquo;User Display Name&rdquo; field"
+msgstr "Ime za & ldquo; uporabniško ime prikazovalnika & rdquo; polje"
+
+#: inc/usp-callbacks.php:32
+msgid "Name for the &ldquo;User Nickname&rdquo; field"
+msgstr "Ime za vzdevek uporabnika & ldquo; & nbsp; & nbsp; & nbsp; polje"
+
+#: inc/usp-callbacks.php:33
+msgid "Name for the &ldquo;User First Name&rdquo; field"
+msgstr "Ime za & ldquo; Uporabniško ime & rdquo; polje"
+
+#: inc/usp-callbacks.php:34
+msgid "Name for the &ldquo;User Last Name&rdquo; field"
+msgstr "Ime za & ldququ; Uporabniško ime & rdquo; polje"
+
+#: inc/usp-callbacks.php:35
+msgid "Name for the &ldquo;User Description&rdquo; field"
+msgstr "Ime za & ldquo; Uporabniški opis & rdquo; polje"
+
+#: inc/usp-callbacks.php:36
+msgid "Name for the &ldquo;User Password&rdquo; field (deprecated)"
+msgstr "Ime za & ldquo; Uporabniško geslo & rdquo; polje (zastarelo)"
+
+#: inc/usp-callbacks.php:37
+msgid "Custom text to prepend to the Subject line"
+msgstr "Besedilo po meri, ki se pripravi v vrstico Zadeva"
+
+#: inc/usp-callbacks.php:38
+msgid "Default Subject line (when not using"
+msgstr "Privzeta vrstica zadnje (če ne uporabljate"
+
+#: inc/usp-callbacks.php:38 inc/usp-callbacks.php:39
+msgid "shortcode)"
+msgstr "kratka koda)"
+
+#: inc/usp-callbacks.php:39
+msgid "Default &ldquo;From&rdquo; address (when not using"
+msgstr "Privzeto & ldquo; Od & rdquo; naslov (če ne uporabljate"
+
+#: inc/usp-callbacks.php:40
+msgid "Email addresses that should be carbon copied (comma-separated)"
+msgstr "E-poštni naslovi, ki bi morali biti kopirani z ogljikom (ločeni z vejicami)"
+
+#: inc/usp-callbacks.php:41
+msgid "Where should visitors go after successful form submission? Enter any complete URL (e.g.,"
+msgstr "Kje naj obiskovalci po uspešni predložitvi posredujejo? Vnesite poljuben celoten URL (npr."
+
+#: inc/usp-callbacks.php:41
+msgid ") or leave blank to redirect to the current page. Note that you can"
+msgstr ") ali pustite prazno, da preusmerite na trenutno stran. Upoštevajte, da lahko"
+
+#: inc/usp-callbacks.php:41
+msgid "override this setting on any form"
+msgstr "to nastavitev preglasite v kateri koli obliki"
+
+#: inc/usp-callbacks.php:41
+msgid "Important: this option is for advanced users; recommended to leave blank. See"
+msgstr "Pomembno: ta možnost je za napredne uporabnike; priporočamo, da pustite prazno. Glej"
+
+#: inc/usp-callbacks.php:41 inc/usp-callbacks.php:42
+msgid "for more info."
+msgstr "za več informacij."
+
+#: inc/usp-callbacks.php:42
+msgid "Where should visitors go after failed form submission? Enter any complete URL (e.g.,"
+msgstr "Kje bi morali obiskovalci priti po neuspešnem predložitvi obrazca? Vnesite poljuben celoten URL (npr."
+
+#: inc/usp-callbacks.php:42
+msgid ") or leave blank to redirect to the current page. Important: this option is for advanced users; recommended to leave blank. See"
+msgstr ") ali pustite prazno, da preusmerite na trenutno stran. Pomembno: ta možnost je za napredne uporabnike; priporočamo, da pustite prazno. Glej"
+
+#: inc/usp-callbacks.php:43
+msgid "This question is displayed when"
+msgstr "To vprašanje se prikaže, ko"
+
+#: inc/usp-callbacks.php:43
+msgid "is added to any form"
+msgstr "se doda katerikoli obliki"
+
+#: inc/usp-callbacks.php:44
+msgid "Enter the <em>only</em> correct answer to the previous &ldquo;Challenge Question&rdquo;"
+msgstr "Vnesite samo <em> samo </ em> pravilen odgovor na prejšnje & ldquo; vprašanje za vprašanja v zvezi z vprašanjem & rdquo;"
+
+#: inc/usp-callbacks.php:45 inc/usp-callbacks.php:46
+msgid "To use Google reCAPTCHA instead of the Challenge Question, enter your Public &amp; Private Keys"
+msgstr "Če želite uporabiti Google reCAPTCHA namesto vprašanja z vprašanjem, vnesite svojo javno & amp; amp; Zasebni ključi"
+
+#: inc/usp-callbacks.php:47
+msgid "Automatically include these category IDs for all submitted posts (comma-separated)"
+msgstr "Samodejno vključite ID-je kategorije za vse predložene objave (z vejico ločeno)"
+
+#: inc/usp-callbacks.php:48
+msgid "Messages from contact forms and email alerts will be sent to this address"
+msgstr "Na ta naslov bodo poslana sporočila iz kontaktnih obrazcev in e-poštnih opozoril"
+
+#: inc/usp-callbacks.php:49
+msgid "Email alerts will be addressed to this name"
+msgstr "E-poštna opozorila bodo naslovljena na to ime"
+
+#: inc/usp-callbacks.php:50
+msgid "Email alerts will use this address as the &ldquo;From&rdquo; header"
+msgstr "Opozorila po e-pošti bodo ta naslov uporabila kot & ldquo; Od & rdquo; glava"
+
+#: inc/usp-callbacks.php:51
+msgid "Subject line for submission alerts sent to the admin"
+msgstr "Zadeva vrstica za opozorila za predložitev, poslana administratorju"
+
+#: inc/usp-callbacks.php:52
+msgid "Subject line for approval alerts sent to the admin"
+msgstr "Zadevna vrstica za opozorila o odobritvi, poslana administratorju"
+
+#: inc/usp-callbacks.php:53
+msgid "Subject line for denied alerts sent to the admin"
+msgstr "Vrstica za zavrnjena opozorila, poslana administratorju"
+
+#: inc/usp-callbacks.php:54
+msgid "Subject line for submission alerts sent to the user"
+msgstr "Predmetna vrstica za opozorila za predložitev, poslana uporabniku"
+
+#: inc/usp-callbacks.php:55
+msgid "Subject line for approval alerts sent to the user"
+msgstr "Predmetna vrstica za opozorila o odobritvi, poslana uporabniku"
+
+#: inc/usp-callbacks.php:56
+msgid "Subject line for denied alerts sent to the user"
+msgstr "Predmetna linija za zavrnjena opozorila, poslana uporabniku"
+
+#: inc/usp-callbacks.php:57
+msgid "Subject line for scheduled alerts sent to the admin"
+msgstr "Naslovna vrstica za načrtovane opozorila, poslana administratorju"
+
+#: inc/usp-callbacks.php:58
+msgid "Subject line for scheduled alerts sent to the user"
+msgstr "Naslovna vrstica za načrtovane opozorila, poslana uporabniku"
+
+#: inc/usp-callbacks.php:59
+msgid "Additional addresses for submission alerts (comma-separated)"
+msgstr "Dodatni naslovi za opozorila o predložitvi (ločeni z vejicami)"
+
+#: inc/usp-callbacks.php:60
+msgid "Additional addresses for approval alerts (comma-separated)"
+msgstr "Dodatni naslovi za opozorila o odobritvi (ločeni z vejicami)"
+
+#: inc/usp-callbacks.php:61
+msgid "Additional addresses for denied alerts (comma-separated)"
+msgstr "Dodatni naslovi za zavrnjena opozorila (ločeni z vejicami)"
+
+#: inc/usp-callbacks.php:62
+msgid "Additional addresses for scheduled alerts (comma-separated)"
+msgstr "Dodatni naslovi za načrtovane opozorila (ločeni z vejicami)"
+
+#: inc/usp-callbacks.php:63
+msgid "Minimum number of characters required for post content and excerpt fields (0 = no minimum)"
+msgstr "Najmanjše število znakov, potrebnih za poljubno vsebino in odlomke (0 = ni najmanjšega)"
+
+#: inc/usp-callbacks.php:64
+msgid "Maximum number of characters allowed for post content and excerpt fields (0 = no maximum)"
+msgstr "Največje dovoljeno število znakov za poljubno vsebino in odlomke (0 = največje)"
+
+#: inc/usp-callbacks.php:65
+msgid "Slug to use when &ldquo;USP Posts&rdquo; is selected for the setting, &ldquo;Submitted Post Type&rdquo;. Note: this setting is for advanced users. Recommended to use the default value,"
+msgstr "Slug za uporabo, ko & ldquo; USP Posts & rdquo; je izbrana za nastavitev, & ldquo; Predloženo sporočilo vrste & rdquo;. Opomba: ta nastavitev je za napredne uporabnike. Priporočeno za uporabo privzete vrednosti,"
+
+#: inc/usp-callbacks.php:66
+msgid "Slug to use when &ldquo;Existing Post Type&rdquo; is selected for the setting, &ldquo;Submitted Post Type&rdquo;. Note: the Custom Post Type specified here must be provided by your theme."
+msgstr "Slug za uporabo, ko & ldquo; Obstoječa vrsta objave & rdquo; je izbrana za nastavitev, & ldquo; Predloženo sporočilo vrste & rdquo;. Opomba: temo po meri, navedeno tukaj, mora vsebovati vaša tema."
+
+#: inc/usp-callbacks.php:67
+msgid "Number of tags that should be displayed for the &ldquo;Post Tags&rdquo; setting (use"
+msgstr "Število oznak, ki jih je treba prikazati za & ldquo; Objavi oznake & rdquo; nastavitev (uporaba"
+
+#: inc/usp-callbacks.php:67
+msgid "to display all tags)"
+msgstr "za prikaz vseh oznak)"
+
+#: inc/usp-callbacks.php:68
+msgid "Min size (in bytes) for uploaded files (applies to all file types). Default:"
+msgstr "Minimalna velikost (v bajtih) za naložene datoteke (velja za vse vrste datotek). Privzeto:"
+
+#: inc/usp-callbacks.php:69
+msgid "Max size (in bytes) for uploaded files (applies to all file types). Default:"
+msgstr "Največja velikost (v bajtih) za naložene datoteke (velja za vse vrste datotek). Privzeto:"
+
+#: inc/usp-callbacks.php:70
+msgid "Minimum width (in pixels) for uploaded images"
+msgstr "Najmanjša širina (v slikovnih pikah) za naložene slike"
+
+#: inc/usp-callbacks.php:71
+msgid "Maximum width (in pixels) for uploaded images"
+msgstr "Največja širina (v slikovnih pikah) za naložene slike"
+
+#: inc/usp-callbacks.php:72
+msgid "Minimum height (in pixels) for uploaded images"
+msgstr "Najmanjša višina (v slikovnih pikah) za naložene slike"
+
+#: inc/usp-callbacks.php:73
+msgid "Maximum height (in pixels) for uploaded images"
+msgstr "Največja višina (v slikovnih pikah) za naložene slike"
+
+#: inc/usp-callbacks.php:74
+msgid "Allowed file types (comma-separated) for any USP Form."
+msgstr "Dovoljene vrste datotek (ločene z vejicami) za katero koli obliko USP."
+
+#: inc/usp-callbacks.php:75
+msgid "Message displayed on the contact form (when the setting &ldquo;CC User&rdquo; is enabled)"
+msgstr "Sporočilo je prikazano na obrazcu za stik (ko je nastavitev & ldquo; Uporabnik CC & rdquo; je omogočena)"
+
+#: inc/usp-callbacks.php:76
+msgid "Image to use as the Featured Image (when &ldquo;Featured Images&rdquo; setting is enabled)."
+msgstr "Slika, ki jo želite uporabiti kot izbrano sliko (kadar je omogočena & ldquo; Izbrana slika & rdquo; nastavitev)."
+
+#: inc/usp-callbacks.php:77
+msgid "Comma-separated list of URLs (leave blank to load CSS/JS on all pages)"
+msgstr "Seznam URL-jev, ločenih z vejicami (pustite prazno, da naložite CSS / JS na vseh straneh)"
+
+#: inc/usp-callbacks.php:78
+msgid "Applies when &ldquo;Default Post Status&rdquo; is set to &ldquo;Always moderate via Custom Status&rdquo;"
+msgstr "Velja, ko je bil & ldquo; Status privzete pošte & rdquo; je nastavljeno na & ldquo; Vedno zmeraj z uporabo statusa po meri & rdquo;"
+
+#: inc/usp-callbacks.php:79
+msgid "Email address for Custom Recipient 1"
+msgstr "E-poštni naslov za prejemnika po meri 1"
+
+#: inc/usp-callbacks.php:80
+msgid "Email address for Custom Recipient 2"
+msgstr "E-poštni naslov za prejemnika po meri 2"
+
+#: inc/usp-callbacks.php:81
+msgid "Email address for Custom Recipient 3"
+msgstr "E-poštni naslov za prejemnika po meri 3"
+
+#: inc/usp-callbacks.php:82
+msgid "Email address for Custom Recipient 4"
+msgstr "E-poštni naslov za Custom prejemnika 4"
+
+#: inc/usp-callbacks.php:83
+msgid "Email address for Custom Recipient 5"
+msgstr "E-poštni naslov za Custom prejemnika 5"
+
+#: inc/usp-callbacks.php:84
+msgid "Unique prefix for Custom Fields (leave blank to disable)"
+msgstr "Edinstvena predpono za polja po meri (pustite prazno, da jih onemogočite)"
+
+#: inc/usp-callbacks.php:85
+msgid "Optional Custom Fields (leave blank to disable)"
+msgstr "Izbirna polja po meri (pustite prazno, da jih onemogočite)"
+
+#: inc/usp-callbacks.php:86
+msgid "Required Custom Fields (leave blank to disable)"
+msgstr "Zahtevana polja po meri (pustite prazno, da jih onemogočite)"
+
+#: inc/usp-callbacks.php:87
+msgid "Default Post Title for submitted posts"
+msgstr "Privzeti naslov za poslane objave"
+
+#: inc/usp-callbacks.php:88
+msgid "Custom attributes that should be included in the"
+msgstr "Atributi atributa, ki jih je treba vključiti v"
+
+#: inc/usp-callbacks.php:88 inc/usp-callbacks.php:127
+msgid "tag"
+msgstr "oznaka"
+
+#: inc/usp-callbacks.php:89
+msgid "Form IDs of any post-submission forms"
+msgstr "Obrazec ID-jev vseh obrazcev po oddaji"
+
+#: inc/usp-callbacks.php:90
+msgid "Form IDs of any user-registration forms"
+msgstr "Obrazce ID vseh obrazcev za registracijo uporabnika"
+
+#: inc/usp-callbacks.php:91
+msgid "Form IDs of any contact forms"
+msgstr "Oblika ID-jev vseh kontaktnih obrazcev"
+
+#: inc/usp-callbacks.php:100
+msgid "Text/markup to be included before all USP Forms"
+msgstr "Besedilo / oznaka, ki bo vključena v vse obrazce USP"
+
+#: inc/usp-callbacks.php:101
+msgid "Text/markup to be included after all USP Forms"
+msgstr "Besedilo / oznaka, ki bo vključena v vse obrazce USP"
+
+#: inc/usp-callbacks.php:102
+msgid "Message for submission alerts sent to the admin"
+msgstr "Sporočilo za opozorila za predložitev, poslana administratorju"
+
+#: inc/usp-callbacks.php:103
+msgid "Message for submission alerts sent to the user"
+msgstr "Sporočilo za opozorila za predložitev, poslana uporabniku"
+
+#: inc/usp-callbacks.php:104
+msgid "Message for approval alerts sent to the admin"
+msgstr "Sporočila za opozorila o odobritvi, poslana administratorju"
+
+#: inc/usp-callbacks.php:105
+msgid "Message for approval alerts sent to the user"
+msgstr "Opozorilo o odobritvi za sporočila, poslano uporabniku"
+
+#: inc/usp-callbacks.php:106
+msgid "Message for denied alerts sent to the admin"
+msgstr "Sporočilo za zavrnjena opozorila, poslana administratorju"
+
+#: inc/usp-callbacks.php:107
+msgid "Message for denied alerts sent to the user"
+msgstr "Sporočilo za zavrnjena opozorila, poslana uporabniku"
+
+#: inc/usp-callbacks.php:108
+msgid "Message for scheduled alerts sent to the admin"
+msgstr "Sporočilo za načrtovane opozorila, poslane administratorju"
+
+#: inc/usp-callbacks.php:109
+msgid "Message for scheduled alerts sent to the user"
+msgstr "Sporočilo za načrtovane opozorila, poslane uporabniku"
+
+#: inc/usp-callbacks.php:110
+msgid "Custom content that should be appended to messages sent via contact form"
+msgstr "Vsebina po meri, ki jo je treba dodati sporočilom, poslanim prek kontaktnega obrazca"
+
+#: inc/usp-callbacks.php:111
+msgid "Message displayed when a user is registered successfully"
+msgstr "Sporočilo se prikaže, ko je uporabnik uspešno registriran"
+
+#: inc/usp-callbacks.php:112
+msgid "Message displayed when a post is submitted successfully"
+msgstr "Sporočilo se prikaže, ko je objava uspešna"
+
+#: inc/usp-callbacks.php:113
+msgid "Message displayed when user is registered and post is submitted"
+msgstr "Sporočilo se prikaže, ko je uporabnik registriran in je poslana objava"
+
+#: inc/usp-callbacks.php:114
+msgid "Message displayed when email is sent via contact form"
+msgstr "Sporočilo se prikaže, ko je e-pošta poslana prek kontaktnega obrazca"
+
+#: inc/usp-callbacks.php:115
+msgid "Message displayed when email is sent and user is registered"
+msgstr "Sporočilo se prikaže, ko je e-pošta poslana in je uporabnik registriran"
+
+#: inc/usp-callbacks.php:116
+msgid "Message displayed when email is sent and post is submitted"
+msgstr "Sporočilo se prikaže, ko je poslana e-pošta in je poslana objava"
+
+#: inc/usp-callbacks.php:117
+msgid "Message displayed when email is sent, user is registered, and post is submitted"
+msgstr "Sporočilo se prikaže, ko je poslano e-poštno sporočilo, uporabnik je registriran in je poslana objava"
+
+#: inc/usp-callbacks.php:118
+msgid "Custom text/markup to appear before the listed errors"
+msgstr "Besedilo / oznaka po meri, ki se prikaže pred navedenimi napakami"
+
+#: inc/usp-callbacks.php:119
+msgid "Custom text/markup to appear after the listed errors"
+msgstr "Po navadnih napakah se pojavi besedilo / oznaka po meri"
+
+#: inc/usp-callbacks.php:120
+msgid "Custom text/markup to appear before the success message"
+msgstr "Besedilo po meri / oznaka, ki se prikaže pred sporočilom o uspehu"
+
+#: inc/usp-callbacks.php:121
+msgid "Custom text/markup to appear after the success message"
+msgstr "Po obvestilu o uspehu se pojavi besedilo / oznaka po meri"
+
+#: inc/usp-callbacks.php:122
+msgid "CSS for Simple form style (edit as needed to fit your theme)"
+msgstr "CSS za preprost slog oblike (uredite po potrebi, da ustreza vaši temi)"
+
+#: inc/usp-callbacks.php:123
+msgid "CSS for Minimal form style (edit as needed to fit your theme)"
+msgstr "CSS za slog minimalnega obrazca (uredite po potrebi, da ustreza vaši temi)"
+
+#: inc/usp-callbacks.php:124
+msgid "CSS for Small form style (edit as needed to fit your theme)"
+msgstr "CSS za slog majhne oblike (uredite po potrebi, da ustreza vaši temi)"
+
+#: inc/usp-callbacks.php:125
+msgid "CSS for Large form style (edit as needed to fit your theme)"
+msgstr "CSS za slog velike oblike (uredite po potrebi, da ustreza vaši temi)"
+
+#: inc/usp-callbacks.php:126
+msgid "CSS for Custom form style (edit as needed to fit your theme)"
+msgstr "CSS za slog obrazca po meri (uredite po potrebi, da ustreza vaši temi)"
+
+#: inc/usp-callbacks.php:127
+msgid "Custom JavaScript, included inline via"
+msgstr "Prilagojen JavaScript, vključen v vrstico prek"
+
+#: inc/usp-callbacks.php:128
+msgid "Default Post Content for submitted posts (basic HTML allowed)"
+msgstr "Privzeta vsebina za objavljene prispevke (dovoljen je osnovni HTML)"
+
+#: inc/usp-callbacks.php:129
+msgid "Words that are not allowed in any submitted post content and/or post excerpt ("
+msgstr "Besede, ki niso dovoljene v nobeni predloženi vsebini objave in / ali po odlomku ("
+
+#: inc/usp-callbacks.php:129
+msgid "put each word on its own line"
+msgstr "vsako besedo postavite v svojo vrstico"
+
+#: inc/usp-callbacks.php:131
+msgid "Name errors &ndash; when using"
+msgstr "Napake imena & ndash; pri uporabi"
+
+#: inc/usp-callbacks.php:131 inc/usp-callbacks.php:132
+#: inc/usp-callbacks.php:133 inc/usp-callbacks.php:134
+#: inc/usp-callbacks.php:135 inc/usp-callbacks.php:136
+#: inc/usp-callbacks.php:137 inc/usp-callbacks.php:138
+#: inc/usp-callbacks.php:139 inc/usp-callbacks.php:140
+#: inc/usp-callbacks.php:144 inc/usp-callbacks.php:148
+#: inc/usp-callbacks.php:149
+msgid "shortcode"
+msgstr "kratka koda"
+
+#: inc/usp-callbacks.php:132
+msgid "URL errors &ndash; when using"
+msgstr "URL napake & ndash; pri uporabi"
+
+#: inc/usp-callbacks.php:133
+msgid "Title errors &ndash; when using"
+msgstr "Napake naslova & ndash; pri uporabi"
+
+#: inc/usp-callbacks.php:134
+msgid "Tag errors &ndash; when using"
+msgstr "Napake oznak & ndash; pri uporabi"
+
+#: inc/usp-callbacks.php:135
+msgid "Captcha errors &ndash; when using"
+msgstr "Captcha napake & ndash; pri uporabi"
+
+#: inc/usp-callbacks.php:136
+msgid "Category errors &ndash; when using"
+msgstr "Napake kategorije & ndash; pri uporabi"
+
+#: inc/usp-callbacks.php:137
+msgid "Content errors &ndash; when using"
+msgstr "Napake vsebine & ndash; pri uporabi"
+
+#: inc/usp-callbacks.php:138
+msgid "Files errors &ndash; when using"
+msgstr "Datoteke napak & ndash; pri uporabi"
+
+#: inc/usp-callbacks.php:139
+msgid "Email errors &ndash; when using"
+msgstr "Napake e-pošte & ndash; pri uporabi"
+
+#: inc/usp-callbacks.php:140
+msgid "Subject errors &ndash; when using"
+msgstr "Napake predmeta & ndash; pri uporabi"
+
+#: inc/usp-callbacks.php:141
+msgid "Alt Text errors &ndash; when using"
+msgstr "Alt napake besedila & ndash; pri uporabi"
+
+#: inc/usp-callbacks.php:141 inc/usp-callbacks.php:142
+#: inc/usp-callbacks.php:143 inc/usp-callbacks.php:146
+#: inc/usp-callbacks.php:147
+msgid "with"
+msgstr "z"
+
+#: inc/usp-callbacks.php:142
+msgid "Caption errors &ndash; when using"
+msgstr "Napake napisa & ndash; pri uporabi"
+
+#: inc/usp-callbacks.php:143
+msgid "Description errors &ndash; when using"
+msgstr "Opis napak & ndash; pri uporabi"
+
+#: inc/usp-callbacks.php:144
+msgid "Taxonomy errors &ndash; when using"
+msgstr "Taxonomy errors & ndash; pri uporabi"
+
+#: inc/usp-callbacks.php:145
+msgid "Post Format errors &ndash; when using"
+msgstr "Napake v formatu objave & ndash; pri uporabi"
+
+#: inc/usp-callbacks.php:146
+msgid "Media Title errors &ndash; when using"
+msgstr "Napake naslova medija & ndash; pri uporabi"
+
+#: inc/usp-callbacks.php:147
+msgid "File Name errors &ndash; when using"
+msgstr "Napake imena datoteke & ndash; pri uporabi"
+
+#: inc/usp-callbacks.php:148
+msgid "\"Agree to Terms\" errors &ndash; when using"
+msgstr "Napake »Dogovorjeno na pogoje« & ndash; pri uporabi"
+
+#: inc/usp-callbacks.php:149
+msgid "Post Excerpt errors &ndash; when using"
+msgstr "Napake objave ex posta & ndash; pri uporabi"
+
+#: inc/usp-callbacks.php:151
+msgid "Errors for the &ldquo;User Nicename&rdquo; field"
+msgstr "Napake za & ldquo; Nicename uporabnika & rdquo; polje"
+
+#: inc/usp-callbacks.php:152
+msgid "Errors for the &ldquo;User Display Name&rdquo; field"
+msgstr "Napake za & ldquo; Uporabniško prikazno ime & rdquo; polje"
+
+#: inc/usp-callbacks.php:153
+msgid "Errors for the &ldquo;User Nickname&rdquo; field"
+msgstr "Napake za & ldquo; vzdevek uporabnika & rdquo; polje"
+
+#: inc/usp-callbacks.php:154
+msgid "Errors for the &ldquo;User First Name&rdquo; field"
+msgstr "Napake za & ldquo; Uporabniško ime & rdquo; polje"
+
+#: inc/usp-callbacks.php:155
+msgid "Errors for the &ldquo;User Last Name&rdquo; field"
+msgstr "Napake za & ldquo; Uporabniško ime & rdquo; polje"
+
+#: inc/usp-callbacks.php:156
+msgid "Errors for the &ldquo;User Description&rdquo; field"
+msgstr "Napake za & ldquo; Uporabniški opis & rdquo; polje"
+
+#: inc/usp-callbacks.php:157
+msgid "Errors for the &ldquo;User Password&rdquo; field (deprecated)"
+msgstr "Napake za & ldquo; Uporabniško geslo & rdquo; polje (zastarelo)"
+
+#: inc/usp-callbacks.php:159
+msgid "User Name errors (when using a form that registers users)"
+msgstr "Napake uporabniškega imena (pri uporabi obrazca, ki registrira uporabnike)"
+
+#: inc/usp-callbacks.php:160
+msgid "User Email errors (when using a form that registers users)"
+msgstr "Napake uporabniške elektronske pošte (pri uporabi obrazca, ki registrira uporabnike)"
+
+#: inc/usp-callbacks.php:161
+msgid "Registration Disabled errors (when using a form that registers users)"
+msgstr "Prijava Disabled errors (pri uporabi obrazca, ki registrira uporabnike)"
+
+#: inc/usp-callbacks.php:162
+msgid "User Exists errors (when using a form that registers users)"
+msgstr "Uporabnik Obstaja napake (pri uporabi obrazca, ki registrira uporabnike)"
+
+#: inc/usp-callbacks.php:163
+msgid "Post Required errors (when using a form that submits posts)"
+msgstr "Objava Zahtevane napake (pri uporabi obrazca, ki pošilja objavo)"
+
+#: inc/usp-callbacks.php:164
+msgid "Duplicate Post errors (when using a form that submits posts)"
+msgstr "Napake pri dvojni pošti (pri uporabi obrazca, ki pošilja objavo)"
+
+#: inc/usp-callbacks.php:165
+msgid "Illegal characters in the Name field"
+msgstr "Nezakoniti znaki v polju Ime"
+
+#: inc/usp-callbacks.php:166
+msgid "Incorrect response for the anti-spam captcha/challenge question"
+msgstr "Nepravilen odziv za vprašanje za preprečevanje neželene vsote / izziv"
+
+#: inc/usp-callbacks.php:167
+msgid "Minimum number of characters not met in Post Content field"
+msgstr "Najmanjše število znakov, ki niso izpolnjeni v polju Post Content"
+
+#: inc/usp-callbacks.php:168
+msgid "Maximum number of characters not met in Post Content field"
+msgstr "Največje število znakov, ki jih ni bilo mogoče najti v polju Post Content"
+
+#: inc/usp-callbacks.php:169
+msgid "Minimum number of characters not met in Post Excerpt field"
+msgstr "Najmanjše število znakov, ki niso izpolnjeni v polju Post Except"
+
+#: inc/usp-callbacks.php:170
+msgid "Maximum number of characters not met in Post Excerpt field"
+msgstr "Največje število znakov, ki niso izpolnjeni v polju Post Except"
+
+#: inc/usp-callbacks.php:171
+msgid "Email address is incorrect, incomplete, or contains restricted characters"
+msgstr "E-poštni naslov je napačen, nepopoln ali vsebuje omejene znake"
+
+#: inc/usp-callbacks.php:172
+msgid "Illegal characters in the Email Subject field"
+msgstr "Nezakoniti znaki v polju Email Subject"
+
+#: inc/usp-callbacks.php:173
+msgid "Incorrect form type (when &ldquo;Extra Form Security&rdquo; is enabled in General settings)"
+msgstr "Nepravilna vrsta obrazca (kadar je v razdelku Splošne nastavitve omogočena & ldquo; Dodatna varnostna oblika)"
+
+#: inc/usp-callbacks.php:174
+msgid "Forbidden words in Post Content (when &ldquo;Content Filter&rdquo; is enabled in Advanced settings)"
+msgstr "Prepovedane besede v vsebini po vsebini (kadar je & ldquo; Content Filter & rdquo; omogočen v naprednih nastavitvah)"
+
+#: inc/usp-callbacks.php:176
+msgid "Files required (for multiple-select files)"
+msgstr "Zahtevane datoteke (za več izbirnih datotek)"
+
+#: inc/usp-callbacks.php:177
+msgid "File required (for single-select files)"
+msgstr "Zahtevana datoteka (za datoteke z enim izborom)"
+
+#: inc/usp-callbacks.php:178
+msgid "File type not allowed"
+msgstr "Vrsta datoteke ni dovoljena"
+
+#: inc/usp-callbacks.php:179
+msgid "File width and height exceed limits"
+msgstr "Širina in višina datoteke presega omejitve"
+
+#: inc/usp-callbacks.php:180
+msgid "Maximum file size exceeded"
+msgstr "Največja dovoljena velikost datoteke je bila presežena"
+
+#: inc/usp-callbacks.php:181
+msgid "Minimum file size not met"
+msgstr "Najmanjša velikost datoteke ni bila izpolnjena"
+
+#: inc/usp-callbacks.php:182
+msgid "Length of file name exceeds limit"
+msgstr "Dolžina imena datoteke presega omejitev"
+
+#: inc/usp-callbacks.php:183
+msgid "Minimum number of files not met"
+msgstr "Najmanjše število datotek ni izpolnjeno"
+
+#: inc/usp-callbacks.php:184
+msgid "Maximum number of files exceeded"
+msgstr "Največje število datotek je preseženo"
+
+#: inc/usp-callbacks.php:185
+msgid "Image is not square (width does not equal height)"
+msgstr "Slika ni kvadratna (širina ni enaka višini)"
+
+#: inc/usp-callbacks.php:187
+msgid "Text/markup displayed before each Taxonomy error"
+msgstr "Besedilo / oznaka, prikazana pred vsako napako taksonomije"
+
+#: inc/usp-callbacks.php:188
+msgid "Text/markup displayed after each Taxonomy error"
+msgstr "Po vsaki napaki taksonomije se prikaže besedilo / oznaka"
+
+#: inc/usp-callbacks.php:189
+msgid "Text/markup displayed before each Custom Field error"
+msgstr "Besedilo / oznaka, prikazana pred vsako napako polja po meri"
+
+#: inc/usp-callbacks.php:190
+msgid "Text/markup displayed after each Custom Field error"
+msgstr "Besedilo / oznaka se prikaže po vsaki napaki polja po meri"
+
+#: inc/usp-callbacks.php:191
+msgid "Text/markup displayed between each error (e.g.,"
+msgstr "Med vsako napako se prikaže besedilo / oznaka (npr."
+
+#: inc/usp-callbacks.php:200 inc/usp-callbacks.php:201
+msgid "This default value can be overridden via the"
+msgstr "To privzeto vrednost lahko prekličete prek"
+
+#: inc/usp-callbacks.php:200 inc/usp-callbacks.php:201
+msgid "shortcode attribute"
+msgstr "atribut kratkega stika"
+
+#: inc/usp-callbacks.php:202
+msgid "Size of auto-displayed images"
+msgstr "Velikost samodejno prikazanih slik"
+
+#: inc/usp-callbacks.php:203
+msgid "Format for all email (contact form and email alerts)."
+msgstr "Oblika za vse e-pošte (obrazec za stik in e-poštna opozorila)."
+
+#: inc/usp-callbacks.php:203
+msgid "Note:"
+msgstr "Opomba:"
+
+#: inc/usp-callbacks.php:203
+msgid "to allow HTML in contact-form messages, the option &ldquo;Post Formatting&rdquo; must be enabled in Advanced settings."
+msgstr "da omogočite HTML v sporočilih v stiku, možnost & ldquo; Oblikovanje objave & rdquo; mora biti omogočeno v Naprednih nastavitvah."
+
+#: inc/usp-callbacks.php:204
+msgid "reCAPTCHA version to display via"
+msgstr "različica reCAPTCHA za prikaz preko"
+
+#: inc/usp-callbacks.php:213
+msgid "Send post-submission alert to the user"
+msgstr "Pošljite opozorilo po predložitvi uporabnika"
+
+#: inc/usp-callbacks.php:214
+msgid "Send post-submission alert to the admin"
+msgstr "Pošljite opozorilo po predložitvi administratorju"
+
+#: inc/usp-callbacks.php:215
+msgid "Send post-approval alert to the user (published post)"
+msgstr "Pošljite opozorilo za odobritev uporabnika (objavljena objava)"
+
+#: inc/usp-callbacks.php:216
+msgid "Send post-approval alert to the admin (published post)"
+msgstr "Pošiljanje opozorila po odobritvi administratorju (objavljena objava)"
+
+#: inc/usp-callbacks.php:217
+msgid "Send post-denied alert to the user (trashed post)"
+msgstr "Pošiljanje zavrnjenega opozorila uporabniku (prestavljena objava)"
+
+#: inc/usp-callbacks.php:218
+msgid "Send post-denied alert to the admin (trashed post)"
+msgstr "Pošiljanje zavrnjenega opozorila skrbniku (prestavljeno objavo)"
+
+#: inc/usp-callbacks.php:219
+msgid "Send alert to the admin when a submitted post is scheduled"
+msgstr "Pošiljanje opozorila na administratorja, ko je predvidena objava objavljena"
+
+#: inc/usp-callbacks.php:220
+msgid "Send alert to the user when a submitted post is scheduled"
+msgstr "Pošljite opozorilo uporabniku, ko je predvidena objava objavljena"
+
+#: inc/usp-callbacks.php:221
+msgid "Send a copy of the message to the sender (via CC)"
+msgstr "Pošljite kopijo sporočila pošiljatelju (prek CC)"
+
+#: inc/usp-callbacks.php:222
+msgid "Append user data to messages (e.g., IP address, referrer, request, et al)"
+msgstr "Dodajte uporabniške podatke v sporočila (npr. Naslov IP, napotitelj, zahteva, itd.)"
+
+#: inc/usp-callbacks.php:223
+msgid "Append any Custom Field data to messages."
+msgstr "Dodajanje polj po meri na sporočila."
+
+#: inc/usp-callbacks.php:224
+msgid "Include external USP JavaScript file (required for multiple file uploads and thumbnail previews). Note: this file will be overwritten with each plugin upgrade, so if you need to customize or add any JavaScript, use the previous option or some other method."
+msgstr "Vključite zunanjo datoteko JavaScript USP (potrebna za več prenosov datotek in predogledov sličic). Opomba: ta datoteka bo prepisana z vsako nadgradnjo vtičnika, zato, če želite prilagoditi ali dodati katerikoli JavaScript, uporabite prejšnjo možnost ali kak drug način."
+
+#: inc/usp-callbacks.php:225
+msgid "Include Parsley.js (required for front-end form validation). Note: this file will be overwritten with each plugin upgrade, so if you need to customize or add any JavaScript, use the previous option or some other method."
+msgstr "Vključite datoteko Parsley.js (potrebna za potrditev obrazca na sprednji strani). Opomba: ta datoteka bo prepisana z vsako nadgradnjo vtičnika, zato, če želite prilagoditi ali dodati katerikoli JavaScript, uporabite prejšnjo možnost ali kak drug način."
+
+#: inc/usp-callbacks.php:226
+msgid "Include external CSS file (optional). Includes Parsley.js v2.7.0. Note: this file will be overwritten with each plugin upgrade; so if you need to customize or add any CSS, use the previous option or some other method."
+msgstr "Vključite zunanjo datoteko CSS (neobvezno). Vključuje Parsley.js v2.7.0. Opomba: ta datoteka bo prepisana z vsako nadgradnjo vtičnika; zato, če želite prilagoditi ali dodati CSS, uporabite prejšnjo možnost ali kak drug način."
+
+#: inc/usp-callbacks.php:227
+msgid "Display the submission form with the success message"
+msgstr "Obrazec za oddajo prikažite s sporočilom o uspehu"
+
+#: inc/usp-callbacks.php:228
+msgid "Apply WP&rsquo;s auto-formatting to form content"
+msgstr "Uporabite WP-jevo samodejno oblikovanje vsebine"
+
+#: inc/usp-callbacks.php:229
+msgid "Automatically wrap form inputs with"
+msgstr "Samodejno zavijte vhodne vnose z"
+
+#: inc/usp-callbacks.php:229
+msgid "tags"
+msgstr "oznake"
+
+#: inc/usp-callbacks.php:230
+msgid "Automatically regenerate the USP Form Demos (for any form that is permanently deleted)"
+msgstr "Samodejno regeneriraj demo obrazca USP (za vsako obliko, ki je trajno izbrisana)"
+
+#: inc/usp-callbacks.php:231
+msgid "Automatically regenerate the USP Post Demos"
+msgstr "Samodejno obnovi USP Post Demos"
+
+#: inc/usp-callbacks.php:232
+msgid "Automatically include a submit button on all USP Forms"
+msgstr "Samodejno vključi gumb za predložitev v vse obrazce USP"
+
+#: inc/usp-callbacks.php:233
+msgid "Use the registered username as the Post Author."
+msgstr "Uporabljeno registrirano uporabniško ime kot avtor pošte."
+
+#: inc/usp-callbacks.php:234
+msgid "Use submitted name as Post Author, and submitted URL as Author URL."
+msgstr "Uporabite predloženo ime kot avtor pošte in predložite URL kot URL avtorja."
+
+#: inc/usp-callbacks.php:235
+msgid "Redirect users to their submitted post, applies when &ldquo;Default Post Status&rdquo; is set to &ldquo;Always publish immediately&rdquo;"
+msgstr "Preusmeritev uporabnikov v njihovo oddano objavo se uporablja, kadar sta & ldquo; Privzeti status pošte & rdquo; je nastavljeno na & ldquo; Vedno objavi takoj & rdquo;"
+
+#: inc/usp-callbacks.php:236
+msgid "Attach user data (e.g., IP Address, Referrer, Request, et al) to submitted posts as Custom Fields"
+msgstr "Priložite uporabniške podatke (npr. Naslov IP, napotitelj, zahtevek, itd.) Za predložene objave kot polja po meri"
+
+#: inc/usp-callbacks.php:237
+msgid "Make the &ldquo;Challenge Response&rdquo; case-sensitive"
+msgstr "Naredite & ldquo; Challenge Challenge & rdquo; čutno"
+
+#: inc/usp-callbacks.php:238
+msgid "Enable nested/hierarchical display of subcategories"
+msgstr "Omogoči ugnezdeno / hierarhično prikazovanje podkategorij"
+
+#: inc/usp-callbacks.php:239
+msgid "Enable required categories for all forms (see next option)"
+msgstr "Omogočite zahtevane kategorije za vse obrazce (glejte naslednjo možnost)"
+
+#: inc/usp-callbacks.php:240
+msgid "Hide Category field when using"
+msgstr "Ko uporabljate polje Skrij polje"
+
+#: inc/usp-callbacks.php:241
+msgid "Allow users to select multiple categories when using the dropdown menu"
+msgstr "Uporabniku omogočite, da pri uporabi spustnega menija izbere več kategorij"
+
+#: inc/usp-callbacks.php:242
+msgid "Do not display empty tags for the &ldquo;Post Tags&rdquo; setting"
+msgstr "Ne prikaži praznih oznak za & ldquo; Objavi oznake & rdquo; nastavitev"
+
+#: inc/usp-callbacks.php:243
+msgid "Hide Tags field when using"
+msgstr "Ko uporabljate polje »Skrij oznake«"
+
+#: inc/usp-callbacks.php:244
+msgid "Allow users to select multiple tags when using the dropdown menu"
+msgstr "Uporabnikom omogočite, da pri uporabi spustnega menija izberete več oznak"
+
+#: inc/usp-callbacks.php:245
+msgid "Enable &ldquo;remembering&rdquo; of form data"
+msgstr "Omogoči & ldquo; zapomni & rdquo; podatkov obrazca"
+
+#: inc/usp-callbacks.php:246
+msgid "Super strength: remember form values forever, even after successful form submission"
+msgstr "Super trdnost: spomnite vrednosti oblike za vedno, tudi po uspešni oddaji obrazca"
+
+#: inc/usp-callbacks.php:247
+msgid "Default state of the &ldquo;remember me&rdquo; checkbox field (checked or unchecked)"
+msgstr "Privzeto stanje & ldquo; zapomni si me & rdquo; polje za potrditveno polje (preverjeno ali nepreverjeno)"
+
+#: inc/usp-callbacks.php:248
+msgid "Require Post Titles to be unique"
+msgstr "Zahtevajte naslove naslovov, ki bodo edinstveni"
+
+#: inc/usp-callbacks.php:249
+msgid "Require Post Content to be unique"
+msgstr "Zahtevajte objavo vsebine, ki bo edinstvena"
+
+#: inc/usp-callbacks.php:250
+msgid "Check this box to enable the following three options"
+msgstr "Označite to polje, če želite omogočiti naslednje tri možnosti"
+
+#: inc/usp-callbacks.php:251
+msgid "Auto-display submitted images as Featured Images (theme support required)"
+msgstr "Samodejno prikazovanje poslanih slik kot Featured Images (potrebna je podpora teme)"
+
+#: inc/usp-callbacks.php:252
+msgid "Make submitted file names unique by prepending a date-based/random string"
+msgstr "Naredite imena datotek, ki so edinstvena, tako da napišete datumski / naključni niz"
+
+#: inc/usp-callbacks.php:253
+msgid "Check this box to enable User Shortcodes in submitted post content."
+msgstr "Označite to polje, če želite omogočiti uporabniške skripte v predloženi vsebini objave."
+
+#: inc/usp-callbacks.php:254
+msgid "Enable non-admin users to upload media via the &ldquo;Add Media&rdquo; button."
+msgstr "Omogočite uporabnikom, ki niso skrbniki, da naložijo medije prek & ldququ; Add Media & rdquo; gumb."
+
+#: inc/usp-callbacks.php:255
+msgid "Restore plugin settings upon plugin deactivation/reactivation"
+msgstr "Obnovitev nastavitev vtičnika pri deaktivaciji / ponovnem vklopu vtičnika"
+
+#: inc/usp-callbacks.php:256
+msgid "Require each submitted image to have an equal width and height"
+msgstr "Zahtevajte, da vsaka poslana slika ima enako širino in višino"
+
+#: inc/usp-callbacks.php:257
+msgid "Auto-rotate JPG images if necessary (requires PHP memory_limit &gt; 128M)"
+msgstr "Samodejno zasuk slike JPG, če je potrebno (zahteva PHP memory_limit & gt; 128M)"
+
+#: inc/usp-callbacks.php:266
+msgid "Number of Custom Fields to auto-generate for each USP Form"
+msgstr "Število polj po meri za samodejno generiranje za vsako obliko USP"
+
+#: inc/usp-callbacks.php:275
+msgid "Default author for user-submitted posts"
+msgstr "Privzeti avtor za prispevke, ki jih je poslal uporabnik"
+
+#: inc/usp-callbacks.php:276
+msgid "Role for users registering via USP Form (default: subscriber)"
+msgstr "Vloga za registracijo uporabnikov preko obrazca USP (privzeto: naročnik)"
+
+#: inc/usp-callbacks.php:277
+msgid "Note: this setting"
+msgstr "Opomba: ta nastavitev"
+
+#: inc/usp-callbacks.php:277
+msgid "can be overridden per form"
+msgstr "je mogoče preglasiti na obrazec"
+
+#: inc/usp-callbacks.php:286
+msgid "Send email alerts using: "
+msgstr "Pošiljanje e-poštnih opozoril z uporabo:"
+
+#: inc/usp-callbacks.php:287
+msgid "Submitted content should be posted as: "
+msgstr "Objavljeno vsebino je treba objaviti kot:"
+
+#: inc/usp-callbacks.php:288
+msgid "On the frontend, categories should be displayed as: "
+msgstr "Na čelni strani morajo biti kategorije prikazane kot:"
+
+#: inc/usp-callbacks.php:289
+msgid "On the frontend, display tags ordered by: "
+msgstr "Na prednjem delu prikazane oznake, ki jih naroči:"
+
+#: inc/usp-callbacks.php:290
+msgid "On the frontend, tags should be displayed as: "
+msgstr "Na čelni strani morajo biti oznake prikazane kot:"
+
+#: inc/usp-callbacks.php:291
+msgid "Include the following styles with all USP Forms (included via inline CSS): "
+msgstr "Vključite naslednje sloge z vsemi obrazci USP (vključeni v spletnem CSS):"
+
+#: inc/usp-callbacks.php:292
+msgid "Automatically display images in submitted posts: "
+msgstr "Samodejno prikaži slike v predloženih objavah:"
+
+#: inc/usp-process.php:496
+msgid "Guest"
+msgstr "Gost"
+
+#: inc/usp-process.php:502
+msgid "Information about your submitted post."
+msgstr "Informacije o vaši predloženi objavi."
+
+#: inc/usp-process.php:503
+msgid "Hello "
+msgstr "zdravo"
+
+#: inc/usp-process.php:504
+msgid "Here is the password for your submitted post: "
+msgstr "Tukaj je geslo za vašo objavljeno objavo:"
+
+#: inc/usp-process.php:505
+msgid "Visit your post at "
+msgstr "Obiščite svojo objavo na"
+
+#: inc/usp-process.php:1288
+msgid "Blog URL"
+msgstr "URL spletnega dnevnika"
+
+#: inc/usp-process.php:1289
+msgid "Blog Name"
+msgstr "Ime bloga"
+
+#: inc/usp-process.php:1290
+msgid "Admin Name"
+msgstr "Admin ime"
+
+#: inc/usp-process.php:1291
+msgid "Admin From"
+msgstr "Admin Od"
+
+#: inc/usp-process.php:1292
+msgid "Admin Email"
+msgstr "Admin E-pošta"
+
+#: inc/usp-process.php:1293
+msgid "User Name"
+msgstr "Uporabniško ime"
+
+#: inc/usp-process.php:1294
+msgid "User Email"
+msgstr "Uporabniška e-pošta"
+
+#: inc/usp-process.php:1295
+msgid "Post Date"
+msgstr "Datum objave"
+
+#: inc/usp-process.php:1300
+msgid "Post ID"
+msgstr "Objavi ID"
+
+#: inc/usp-process.php:1301
+msgid "Post Object"
+msgstr "Post predmet"
+
+#: inc/usp-process.php:1303
+msgid "Post Custom"
+msgstr "Objavi po meri"
+
+#: inc/usp-process.php:1304
+msgid "Post Author"
+msgstr "Objava avtorja"
+
+#: inc/usp-process.php:2057
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Prosimo, da te strani ne naložite neposredno. Hvala!"
+
+#: inc/usp-backup.php:8
+msgid "Here you can download a backup of your settings, and/or import previous settings as needed. Note that your USP Pro License Key is not saved in the backup file."
+msgstr "Tukaj lahko prenesete varnostne kopije svojih nastavitev in / ali uvozite prejšnje nastavitve po potrebi. Upoštevajte, da vaš licenčni ključ USP Pro ni shranjen v varnostno datoteko."
+
+#: inc/usp-backup.php:10
+msgid "Backup/Export"
+msgstr "Varnostno kopiranje / izvoz"
+
+#: inc/usp-backup.php:12
+msgid "Download your current settings:"
+msgstr "Prenesite svoje trenutne nastavitve:"
+
+#: inc/usp-backup.php:13
+msgid "Export Settings"
+msgstr "Izvozne nastavitve"
+
+#: inc/usp-backup.php:18
+msgid "Restore/Import"
+msgstr "Obnovi / uvozi"
+
+#: inc/usp-backup.php:20
+msgid "Step 1: Select the backup file that you would like to restore:"
+msgstr "1. korak: Izberite varnostno datoteko, ki jo želite obnoviti:"
+
+#: inc/usp-backup.php:22
+msgid "Step 2: Click to restore your settings:"
+msgstr "2. korak: Kliknite, če želite obnoviti svoje nastavitve:"
+
+#: inc/usp-backup.php:23
+msgid "Import Settings"
+msgstr "Uvozi nastavitve"
+
+#: inc/usp-backup.php:71
+msgid "Invalid file type (must be JSON format)"
+msgstr "Neveljavna vrsta datoteke (mora biti format JSON)"
+
+#: inc/usp-backup.php:74
+msgid "File is empty"
+msgstr "Datoteka je prazna"
+
+#: shortcodes/usp-tax.php:53 shortcodes/usp-tags.php:48
+#: shortcodes/usp-cats.php:62
+msgid "Please select.."
+msgstr "Prosim izberite.."
+
+#: shortcodes/usp-tax.php:192
+msgid "No terms found for "
+msgstr "Ni najdenih izrazov"
+
+#. Description of the plugin
+#: 
+msgid "Create unlimited forms and let visitors submit content, register, and more from the front-end."
+msgstr "Ustvarite neomejene obrazce in pustite obiskovalcem, da oddajo vsebino, register in še več od spredaj."
+
+#. URI of the plugin
+#: 
+msgid "https://plugin-planet.com/usp-pro/"
+msgstr "https://plugin-planet.com/usp-pro/"
+
+#. Author of the plugin
+#: 
+msgid "Jeff Starr"
+msgstr "Jeff Starr"
+
+#. Author URI of the plugin
+#: 
+msgid "https://plugin-planet.com/"
+msgstr "https://plugin-planet.com/"
+

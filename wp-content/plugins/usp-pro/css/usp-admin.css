@@ -1,0 +1,75 @@
+/* USP Pro - Admin CSS */
+
+.settings_page_usp_options    h1.usp-title, 
+.plugins_page_usp-pro-license h1.usp-title {
+	margin: 0 0 8px 0; padding: 8px 0 8px 55px; text-shadow: 1px 1px 1px rgba(255,255,255,0.5); 
+	background-color: transparent; background-image: url(../img/usp-icon-88x88.png);
+	background-repeat: no-repeat; background-position: left center; background-size: 44px 44px;
+	}
+.settings_page_usp_options    h1.usp-title span,
+.plugins_page_usp-pro-license h1.usp-title span { color: #c7c7c7; font-size: 90%; }
+
+.settings_page_usp_options    p.intro,
+.plugins_page_usp-pro-license p.intro { font-size: 15px; line-height: 20px; margin: 30px 0; }
+.settings_page_usp_options    p.intro code,
+.plugins_page_usp-pro-license p.intro code { font-size: 13px; }
+.settings_page_usp_options    form code,
+.plugins_page_usp-pro-license form code { font-size: 11px; }
+
+.settings_page_usp_options    .usp-toggle,
+.plugins_page_usp-pro-license .usp-toggle { margin: 0; padding-bottom: 10px; }
+.settings_page_usp_options    .usp-toggle .toggle-intro,
+.plugins_page_usp-pro-license .usp-toggle .toggle-intro { margin: 0; }
+
+.settings_page_usp_options    .list-margin,
+.settings_page_usp_options    .usp-toggle ul,
+.plugins_page_usp-pro-license .usp-toggle ul { margin-left: 30px; list-style: disc outside; }
+
+.settings_page_usp_options    .usp-toggle ol,
+.plugins_page_usp-pro-license .usp-toggle ol{ margin-left: 30px; }
+
+.plugins_page_usp-pro-license h3.usp-activate-license { margin: 0; padding: 20px 0 0 0; }
+.plugins_page_usp-pro-license div.usp-license-activated code { display: inline-block; margin: 0 0 3px 0; padding: 5px 10px; border-radius: 3px; text-shadow: 1px 1px 1px #fff; font-size: 16px; }
+.plugins_page_usp-pro-license div.usp-license-activated small { color: green; }
+.plugins_page_usp-pro-license div.usp-license-deactivated small { color: red; }
+
+.settings_page_usp_options form ul { margin-left: 20px; }
+.settings_page_usp_options form ul li { margin: 5px 0; line-height: 18px; font-size: 12px; }
+.settings_page_usp_options dt { font-weight: bold; }
+
+.settings_page_usp_options .form-table label { margin: 0 1px; font-size: 12px; }
+.settings_page_usp_options .form-table select { font-size: 12px; }
+.settings_page_usp_options .form-table td input,
+.settings_page_usp_options .form-table td textarea { margin: 0; padding: 5px 7px; font-size: 12px; }
+.settings_page_usp_options .form-table td textarea + br + label { display: block; margin-top: -1px; }
+.settings_page_usp_options .form-table th { font-size: 13px; }
+
+.settings_page_usp_options .usp-table { table-layout: fixed; width: 100%; border-collapse: separate; border-spacing: 1px; }
+.settings_page_usp_options .usp-table td:nth-child(1),
+.settings_page_usp_options .usp-table th:nth-child(1) { width: 20%; }
+.settings_page_usp_options .usp-table td:nth-child(2),
+.settings_page_usp_options .usp-table th:nth-child(2) { width: 30%; }
+.settings_page_usp_options .usp-table td:nth-child(3),
+.settings_page_usp_options .usp-table th:nth-child(3) { width: 50%; }
+
+.settings_page_usp_options .usp-table td,
+.settings_page_usp_options .usp-table th { overflow: hidden; padding: 10px; border: 1px solid #999; }
+.settings_page_usp_options .usp-table th { font-weight: bold; }
+
+.settings_page_usp_options .usp-table td ul { margin: 0; padding: 0; }
+.settings_page_usp_options .usp-table td ul ul { margin-top: 10px; margin-left: 30px; }
+
+.settings_page_usp_options .usp-pro-tools-display form { width: 90%; overflow: hidden; }
+.settings_page_usp_options .usp-pro-tools-display h3,
+.settings_page_usp_options .usp-pro-about-display h3 { margin: 0; padding: 9px 0; }
+.settings_page_usp_options .usp-pro-tools-display h4 { font-size: 14px; margin: 18px 0 0 0; }
+
+.settings_page_usp_options .usp-lite-text { color: #999; }
+
+.usp-meta-boxes { width: 100%; }
+.usp-meta-boxes th, .usp-meta-boxes td { text-align: left; padding: 4px; }
+.usp-meta-box .usp-meta-name { width: 30%; }
+.usp-meta-box .usp-meta-value { width: 70%; }
+.usp-meta-box input { width: 100%; }
+
+.button#usp-admin-filter { float: right; margin: 1px 8px 0 0; }
