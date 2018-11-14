@@ -168,8 +168,10 @@ if ( defined( 'JETPACK__VERSION' ) ) {
  */
 function list_resources_by_category_shortcode($atts) {
   $args = array(
-  	'post_type' => 'usp_post',
-  	'post_status' => 'publish'
+  	'post_type'   => 'usp_post',
+	'post_status' => 'publish',
+	'order_by'    => 'post_itle',
+	'order'       => 'ASC'  
   );
 
   //Get Resources category if supplied to shortcode
