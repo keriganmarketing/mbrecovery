@@ -601,6 +601,12 @@ a {
 .main-navigation.toggled ul {
   display: block; }
 
+  @media screen and (max-width: 768px) {
+  .main-navigation.toggled ul li {
+    display: block;
+    text-align: center; }
+  }
+
 .menu-toggle {
   vertical-align: middle;
   display: inline-block;
