@@ -14,7 +14,7 @@
 	</div><!-- #content -->
 
 	<footer id="colophon" class="site-footer">
-		<div class="site-info">
+		<div class="site-info" style="text-align:center; font-size: .9em; color: #999;">
 			<p>&copy; <?php echo date('Y'); ?> Mexico Beach Recovery.</p>
 			<p>Site by <a href="https://keriganmarketing.com" target="_blank" >Kerigan Marketing Associates</a> of Mexico Beach, FL.</p>
 		</div><!-- .site-info -->
