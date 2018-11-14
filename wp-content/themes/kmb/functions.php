@@ -170,7 +170,7 @@ function list_resources_by_category_shortcode($atts) {
   $args = array(
   	'post_type'   => 'usp_post',
 	'post_status' => 'publish',
-	'order_by'    => 'post_itle',
+	'orderby'     => 'title',
 	'order'       => 'ASC'  
   );
 
