@@ -58,12 +58,8 @@
 
 	li {
 		position: relative;
-		display: block;
+		display: inline-block;
 		margin: 0 0.5em;
-
-		@media screen and (min-width: 768px) {
-			display: inline-block;
-		}
 
 		&:hover > a,
 		&.focus > a {
@@ -129,8 +125,14 @@
 	.main-navigation {
 		li {
 			float: none;
-			display: inline-block;
+			display: block;
 			padding: 0.5em;
+			text-align: center;
+
+			@media screen and (min-width: 768px) {
+				display: inline-block;
+				text-align: right;
+			}
 		}
 	}
 
